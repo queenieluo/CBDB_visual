@@ -45,8 +45,8 @@ export const MALE_RELATIONS = new Set([
 // Grid layout
 export const GRID = {
   MARGIN: { top: 40, right: 20, bottom: 30, left: 40 },
-  DEFAULT_WIDTH: 1200,
-  DEFAULT_HEIGHT: 650,
+  DEFAULT_WIDTH: 900,
+  DEFAULT_HEIGHT: 500,
   CELL_PADDING: 0.05,
   CELL_BORDER_RADIUS: 10,
 } as const;

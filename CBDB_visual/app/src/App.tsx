@@ -55,8 +55,10 @@ function AppContent() {
             onSetGender={handleSetGender}
           />
         )}
-        <GridContainer />
-        <DetailSidebar cell={selectedCell} onClose={handleCloseSidebar} />
+        <div className="grid-with-sidebar">
+          {selectedCell && <DetailSidebar cell={selectedCell} onClose={handleCloseSidebar} />}
+          <GridContainer />
+        </div>
       </main>
     </div>
   );
