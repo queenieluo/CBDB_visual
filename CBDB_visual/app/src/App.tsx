@@ -56,7 +56,9 @@ function AppContent() {
           />
         )}
         <div className="grid-with-sidebar">
-          {selectedCell && <DetailSidebar cell={selectedCell} onClose={handleCloseSidebar} />}
+          <div className={`sidebar-slot${selectedCell ? ' sidebar-slot--visible' : ''}`}>
+            {selectedCell && <DetailSidebar cell={selectedCell} onClose={handleCloseSidebar} />}
+          </div>
           <GridContainer />
         </div>
       </main>
