@@ -1,0 +1,11 @@
+group,variable,personID,value,text,info,entry,assoc_num,dynasty,yearBirth,yearDeath,examStatus
+x3,y2,,0,,,,0,,,,
+x4,y2,13310,-20,安堯臣,安堯臣 (13310) - Clan nephew,,0,,,,
+x5,y2,1,100,安惇,安惇 (1) - Ego,entry,5,宋,1042,1104,學校: 上舍及第 (1073)
+x6,y2,,0,,,,0,,,,
+x7,y2,,0,,,,0,,,,
+x3,y1,2,40,安邡,安邡 (2) - Son,,1,宋,0,0,
+x4,y1,13311,40,安邠,安邠 (13311) - Son,,0,,,,
+x5,y1,,0,,,,0,,,,
+x6,y1,119997,40,安郊,安郊 (119997) - First son,,0,,,,
+x7,y1,119998,40,安邦,安邦 (119998) - Second son,,0,,,,

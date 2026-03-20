@@ -1,0 +1,13 @@
+group,variable,personID,value,text,info,entry,assoc_num,dynasty,yearBirth,yearDeath,examStatus
+x3,y3,,0,,,,0,,,,
+x4,y3,,0,,,,0,,,,
+x5,y3,11204,-100,林豫,林豫 (11204) - Father,,0,,,,
+x6,y3,,0,,,,0,,,,
+x3,y2,43268,-20,林師文,林師文 (43268) - Elder cousin (paternal),,0,,,,
+x4,y2,43271,-20,林師龍,林師龍 (43271) - Younger brother,,0,,,,
+x5,y2,1167,100,林師說,林師說 (1167) - Ego,entry,5,宋,,1153,恩蔭(籠統)
+x6,y2,,0,,,,0,,,,
+x3,y1,,0,,,,0,,,,
+x4,y1,20148,20,林F,林F (20148) - Son-in-law,,0,,,,
+x5,y1,,0,,,,0,,,,
+x6,y1,20162,20,陳驤,陳驤 (20162) - Son-in-law,,0,,,,

@@ -1,0 +1,10 @@
+group,variable,personID,value,text,info,entry,assoc_num,dynasty,yearBirth,yearDeath,examStatus
+x4,y3,,0,,,,0,,,,
+x5,y3,10178,-100,周濤,周濤 (10178) - Father,,0,,,,
+x6,y3,,0,,,,0,,,,
+x4,y2,481,-20,周秩,周秩 (481) - Younger brother,,3,宋,0,0,科舉: 進士(籠統) (1076)
+x5,y2,485,100,周穜,周穜 (485) - Ego,entry,4,宋,0,0,科舉: 正奏名進士 (1076)
+x6,y2,,0,,,,0,,,,
+x4,y1,23504,20,陳堯臣,陳堯臣 (23504) - Son-in-law,,0,,,,
+x5,y1,,0,,,,0,,,,
+x6,y1,10184,40,周邦,周邦 (10184) - Grandson,,0,,,,

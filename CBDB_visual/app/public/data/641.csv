@@ -1,0 +1,10 @@
+group,variable,personID,value,text,info,entry,assoc_num,dynasty,yearBirth,yearDeath,examStatus
+x4,y3,651,-100,韓國華,韓國華 (651) - Father,,18,宋,,,科舉: 進士(籠統) (977)
+x5,y3,,0,,,,0,,,,
+x6,y3,17746,60,陳士元,陳士元 (17746) - Father-in-law (wife's father),,0,,,,
+x4,y2,635,40,韓正彥,韓正彥 (635) - Only son,,5,宋,0,0,
+x5,y2,641,100,韓璩,韓璩 (641) - Ego,entry,6,宋,1002,1042,科舉: 進士(籠統) (1027)
+x6,y2,5037,-80,陳氏(韓璩妻),陳氏(韓璩妻) (5037) - Wife,,0,,,,
+x4,y1,982,20,李清臣,李清臣 (982) - Son-in-law,,19,宋,1032,1102,科舉: 制舉 (籠統) (1053)
+x5,y1,,0,,,,0,,,,
+x6,y1,3963,20,王克存,王克存 (3963) - Son-in-law,,0,,,,

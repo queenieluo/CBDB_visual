@@ -1,0 +1,13 @@
+group,variable,personID,value,text,info,entry,assoc_num,dynasty,yearBirth,yearDeath,examStatus
+x4,y3,15163,-100,朱約,朱約 (15163) - Father,,0,,,,
+x5,y3,,0,,,,0,,,,
+x6,y3,15167,60,孫夷甫,孫夷甫 (15167) - Father-in-law (wife's father),,0,,,,
+x7,y3,15164,-20,朱鞏,朱鞏 (15164) - Uncle (father's brother),,0,,,,
+x4,y2,15165,-20,朱伯熊,朱伯熊 (15165) - Younger brother,,0,,,,
+x5,y2,528,100,朱伯虎,朱伯虎 (528) - Ego,entry,7,宋,0,0,科舉: 進士(籠統) (1061)
+x6,y2,,0,,,,0,,,,
+x7,y2,,0,,,,0,,,,
+x4,y1,15166,40,朱讜,朱讜 (15166) - Nephew (brother's son),,0,,,,
+x5,y1,,0,,,,0,,,,
+x6,y1,534,40,朱彥美,朱彥美 (534) - Son,,3,宋,1064,1143,恩蔭(籠統)
+x7,y1,8038,40,朱諤,朱諤 (8038) - Second son,,0,,,,

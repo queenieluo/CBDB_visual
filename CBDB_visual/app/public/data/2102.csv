@@ -1,0 +1,7 @@
+group,variable,personID,value,text,info,entry,assoc_num,dynasty,yearBirth,yearDeath,examStatus
+x4,y3,,0,,,,0,,,,
+x5,y3,8173,-100,宇文虛中,宇文虛中 (8173) - Father,,0,,,,
+x4,y2,17172,-20,宇文紹節,宇文紹節 (17172) - Cousin's son,,0,,,,
+x5,y2,2102,100,宇文師瑗,宇文師瑗 (2102) - Ego,entry,3,宋,0,0,
+x4,y1,,0,,,,0,,,,
+x5,y1,17172,40,宇文紹節,宇文紹節 (17172) - Adopted son,,0,,,,

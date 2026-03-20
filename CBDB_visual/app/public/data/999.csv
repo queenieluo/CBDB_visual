@@ -1,0 +1,7 @@
+group,variable,personID,value,text,info,entry,assoc_num,dynasty,yearBirth,yearDeath,examStatus
+x4,y3,13,60,晁補之,晁補之 (13) - Father-in-law (wife's father),,16,宋,1049,1106,科舉: 進士(籠統) (1079)
+x5,y3,,0,,,,0,,,,
+x6,y3,3490,-20,李中行,李中行 (3490) - Uncle (father's brother),,0,,,,
+x4,y2,,0,,,,0,,,,
+x5,y2,999,100,李稙,李稙 (999) - Ego,entry,2,宋,,,薦舉 (保任)
+x6,y2,,0,,,,0,,,,

@@ -1,0 +1,5 @@
+group,variable,personID,value,text,info,entry,assoc_num,dynasty,yearBirth,yearDeath,examStatus
+x4,y3,,0,,,,0,,,,
+x5,y3,974,-100,李昌齡,李昌齡 (974) - Father,,9,宋,937,1008,科舉: 進士(籠統) (978)
+x4,y2,15152,-20,李晉卿,李晉卿 (15152) - Elder brother,,0,,,,
+x5,y2,1123,100,李虞卿,李虞卿 (1123) - Ego,entry,2,宋,0,0,恩蔭(籠統)

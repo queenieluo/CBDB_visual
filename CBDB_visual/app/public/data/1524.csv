@@ -1,0 +1,10 @@
+group,variable,personID,value,text,info,entry,assoc_num,dynasty,yearBirth,yearDeath,examStatus
+x4,y3,3784,-100,孫迪,孫迪 (3784) - Father,,0,,,,
+x5,y3,,0,,,,0,,,,
+x6,y3,3586,60,劉處約,劉處約 (3586) - Father-in-law (wife's father),,0,,,,
+x4,y2,21327,40,孫鎮,孫鎮 (21327) - Only surviving son,,0,,,,
+x5,y2,1524,100,孫諤,孫諤 (1524) - Ego,entry,4,宋,1051,1109,科舉: 正奏名進士 (1073)
+x6,y2,,0,,,,0,,,,
+x4,y1,,0,,,,0,,,,
+x5,y1,21328,20,游撝,游撝 (21328) - Son-in-law,,0,,,,
+x6,y1,,0,,,,0,,,,

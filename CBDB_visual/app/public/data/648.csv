@@ -1,0 +1,5 @@
+group,variable,personID,value,text,info,entry,assoc_num,dynasty,yearBirth,yearDeath,examStatus
+x4,y4,,0,,,,0,,,,
+x5,y4,8049,-40,韓億,韓億 (8049) - Great-grandfather,,0,,,,
+x4,y2,639,-20,韓璡,韓璡 (639) - Cousin (father's brother's son),,3,宋,0,0,
+x5,y2,648,100,韓璜,韓璜 (648) - Ego,entry,2,宋,0,0,科舉學校: 恩賜出身、特賜出身等 (1130)

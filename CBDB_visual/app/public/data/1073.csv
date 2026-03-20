@@ -1,0 +1,13 @@
+group,variable,personID,value,text,info,entry,assoc_num,dynasty,yearBirth,yearDeath,examStatus
+x4,y3,3512,-100,李誥,李誥 (3512) - Father,,0,,,,
+x5,y3,,0,,,,0,,,,
+x6,y3,13701,60,陳偁,陳偁 (13701) - Father-in-law (wife's father),,0,,,,
+x7,y3,,0,,,,0,,,,
+x4,y2,13709,-20,李勉,李勉 (13709) - Younger brother,,0,,,,
+x5,y2,1073,100,李深,李深 (1073) - Ego,entry,6,宋,0,0,科舉: 進士(籠統) (1076)
+x6,y2,,0,,,,0,,,,
+x7,y2,,0,,,,0,,,,
+x4,y1,3552,40,李郁,李郁 (3552) - Son,,0,,,,
+x5,y1,,0,,,,0,,,,
+x6,y1,13710,40,李階,李階 (13710) - Son,,0,,,,
+x7,y1,19998,40,李似祖,李似祖 (19998) - Son,,0,,,,

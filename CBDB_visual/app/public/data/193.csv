@@ -1,0 +1,4 @@
+group,variable,personID,value,text,info,entry,assoc_num,dynasty,yearBirth,yearDeath,examStatus
+x5,y3,3139,-100,張昉,張昉 (3139) - Father,,0,,,,
+x5,y2,193,100,張佶,張佶 (193) - Ego,entry,2,宋,952,1020,
+x5,y1,304,40,張宗象,張宗象 (304) - Son,,1,宋,0,0,

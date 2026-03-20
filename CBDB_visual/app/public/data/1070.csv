@@ -1,0 +1,10 @@
+group,variable,personID,value,text,info,entry,assoc_num,dynasty,yearBirth,yearDeath,examStatus
+x4,y3,,0,,,,0,,,,
+x5,y3,19725,-100,李百朋,李百朋 (19725) - Father,,0,,,,
+x6,y3,,0,,,,0,,,,
+x4,y2,,0,,,,0,,,,
+x5,y2,1070,100,李弼孺,李弼孺 (1070) - Ego,entry,3,宋,0,0,
+x6,y2,,0,,,,0,,,,
+x4,y1,19726,40,李迪,李迪 (19726) - Nephew (brother's son),,0,,,,
+x5,y1,,0,,,,0,,,,
+x6,y1,1119,40,李迎,李迎 (1119) - Son,,3,宋,1103,1174,恩蔭(籠統)

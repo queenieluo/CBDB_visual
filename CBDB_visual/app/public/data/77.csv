@@ -1,0 +1,16 @@
+group,variable,personID,value,text,info,entry,assoc_num,dynasty,yearBirth,yearDeath,examStatus
+x3,y3,,0,,,,0,,,,
+x4,y3,14324,-100,陳儼,陳儼 (14324) - Father,,0,,,,
+x5,y3,,0,,,,0,,,,
+x6,y3,21297,-20,陳大猷,陳大猷 (21297) - Uncle (father's brother),,0,,,,
+x7,y3,,0,,,,0,,,,
+x3,y2,14337,-20,陳箕,陳箕 (14337) - Clan 5th-gen descendant,,0,,,,
+x4,y2,14333,-20,陳鎮,陳鎮 (14333) - Cousin's son,,0,,,,
+x5,y2,77,100,陳升之,陳升之 (77) - Ego,entry,8,宋,1011,1079,科舉: 進士(籠統) (1034)
+x6,y2,,0,,,,0,,,,
+x7,y2,,0,,,,0,,,,
+x3,y1,14328,40,陳豫,陳豫 (14328) - Nephew (brother's son),,0,,,,
+x4,y1,14330,40,陳閌,陳閌 (14330) - First son,,0,,,,
+x5,y1,,0,,,,0,,,,
+x6,y1,14331,40,陳閎,陳閎 (14331) - Second son,,0,,,,
+x7,y1,14333,40,陳鎮,陳鎮 (14333) - Adopted son,,0,,,,

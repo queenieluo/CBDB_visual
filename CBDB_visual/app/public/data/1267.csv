@@ -1,0 +1,10 @@
+group,variable,personID,value,text,info,entry,assoc_num,dynasty,yearBirth,yearDeath,examStatus
+x4,y3,,0,,,,0,,,,
+x5,y3,1273,-100,盧秉,盧秉 (1273) - Father,,5,宋,0,1092,科舉: 進士(籠統) (1049)
+x6,y3,,0,,,,0,,,,
+x4,y2,1270,-20,盧法原,盧法原 (1270) - Younger brother,,2,宋,0,0,學校: 上舍及第
+x5,y2,1267,100,盧知原,盧知原 (1267) - Ego,entry,4,宋,,1141,恩蔭(籠統)
+x6,y2,,0,,,,0,,,,
+x4,y1,20487,40,盧子尚,盧子尚 (20487) - Great-grandson,,0,,,,
+x5,y1,,0,,,,0,,,,
+x6,y1,20488,40,盧子章,盧子章 (20488) - Great-grandson,,0,,,,

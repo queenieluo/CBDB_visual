@@ -1,0 +1,50 @@
+{
+  "app": {
+    "title": "CBDB Family Tree",
+    "subtitle": "China Biographical Database — Kinship Visualization"
+  },
+  "search": {
+    "placeholder": "Enter person ID (e.g. 1762)",
+    "button": "Search",
+    "searching": "Searching..."
+  },
+  "legend": {
+    "title": "Legend",
+    "ego": "Ego",
+    "father": "Father",
+    "mother": "Mother",
+    "brother": "Brother",
+    "sister": "Sister",
+    "son": "Son",
+    "daughter": "Daughter",
+    "spouse": "Spouse",
+    "concubine": "Concubine",
+    "ancestor": "Ancestor",
+    "descendant": "Descendant"
+  },
+  "tooltip": {
+    "kinshipPath": "Kinship Path",
+    "clickToExpand": "Click to expand",
+    "noData": "No additional data"
+  },
+  "filter": {
+    "title": "Filters",
+    "displayMode": "Display Mode",
+    "entry": "Entry",
+    "connections": "Connections",
+    "relationships": "Relationships",
+    "gender": "Gender",
+    "all": "All",
+    "male": "Male",
+    "female": "Female"
+  },
+  "detail": {
+    "viewOnCBDB": "View on CBDB",
+    "personID": "Person ID",
+    "info": "Info"
+  },
+  "error": {
+    "fetchFailed": "Failed to load data. Please check the person ID and try again.",
+    "noResults": "No data found for this person."
+  }
+}

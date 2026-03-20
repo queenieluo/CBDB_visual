@@ -1,0 +1,16 @@
+group,variable,personID,value,text,info,entry,assoc_num,dynasty,yearBirth,yearDeath,examStatus
+x3,y3,,0,,,,0,,,,
+x4,y3,,0,,,,0,,,,
+x5,y3,13371,-100,周圭,周圭 (13371) - Father,,0,,,,
+x6,y3,,0,,,,0,,,,
+x7,y3,,0,,,,0,,,,
+x3,y2,13379,20,江懋簡,江懋簡 (13379) - Second daughter's husband,,0,,,,
+x4,y2,36577,20,榮安道,榮安道 (36577) - First daughter's husband,,0,,,,
+x5,y2,487,100,周沆,周沆 (487) - Ego,entry,6,宋,999,1067,科舉: 正奏名進士 (1024)
+x6,y2,,0,,,,0,,,,
+x7,y2,,0,,,,0,,,,
+x3,y1,,0,,,,0,,,,
+x4,y1,36575,40,周莘,周莘 (36575) - First son,,0,,,,
+x5,y1,,0,,,,0,,,,
+x6,y1,36576,40,周百藥,周百藥 (36576) - Second son,,0,,,,
+x7,y1,13372,40,周孜,周孜 (13372) - Grandson,,0,,,,

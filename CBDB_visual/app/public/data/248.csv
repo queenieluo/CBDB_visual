@@ -1,0 +1,5 @@
+group,variable,personID,value,text,info,entry,assoc_num,dynasty,yearBirth,yearDeath,examStatus
+x4,y3,,0,,,,0,,,,
+x5,y3,275,-100,張升卿,張升卿 (275) - Father,,13,宋,0,0,
+x4,y2,13732,-20,張康伯,張康伯 (13732) - Elder brother,,0,,,,
+x5,y2,248,100,張康國,張康國 (248) - Ego,entry,2,宋,1056,1109,科舉: 進士(籠統) (1079)

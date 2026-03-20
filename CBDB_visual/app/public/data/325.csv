@@ -1,0 +1,10 @@
+group,variable,personID,value,text,info,entry,assoc_num,dynasty,yearBirth,yearDeath,examStatus
+x3,y3,,0,,,,0,,,,
+x4,y3,,0,,,,0,,,,
+x5,y3,3174,-100,張彥直,張彥直 (3174) - Father,,0,,,,
+x3,y2,24706,40,張求成,張求成 (24706) - Fourth son,,0,,,,
+x4,y2,8017,-20,張守,張守 (8017) - Younger brother,,0,,,,
+x5,y2,325,100,張宇,張宇 (325) - Ego,entry,4,宋,1081,1158,科舉: 進士(籠統) (1109)
+x3,y1,,0,,,,0,,,,
+x4,y1,,0,,,,0,,,,
+x5,y1,7299,20,魯可封,魯可封 (7299) - Son-in-law,,0,,,,

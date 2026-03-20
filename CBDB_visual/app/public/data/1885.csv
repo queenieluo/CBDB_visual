@@ -1,0 +1,13 @@
+group,variable,personID,value,text,info,entry,assoc_num,dynasty,yearBirth,yearDeath,examStatus
+x3,y3,,0,,,,0,,,,
+x4,y3,,0,,,,0,,,,
+x5,y3,1860,-100,王博文,王博文 (1860) - Father,,4,宋,973,1038,科舉學校: 恩賜出身、特賜出身等
+x6,y3,,0,,,,0,,,,
+x3,y2,1006,-20,李周,李周 (1006) - Third wife's father,,10,宋,,,科舉: 進士(籠統)
+x4,y2,21961,-20,高志寧,高志寧 (21961) - First wife's father,,0,,,,
+x5,y2,1885,100,王田,王田 (1885) - Ego,entry,5,宋,991,1065,科舉: 進士(籠統)
+x6,y2,,0,,,,0,,,,
+x3,y1,,0,,,,0,,,,
+x4,y1,3638,20,陸詵,陸詵 (3638) - Son-in-law,,0,,,,
+x5,y1,,0,,,,0,,,,
+x6,y1,21962,20,趙尚寬,趙尚寬 (21962) - Son-in-law,,0,,,,

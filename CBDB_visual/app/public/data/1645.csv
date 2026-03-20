@@ -1,0 +1,10 @@
+group,variable,personID,value,text,info,entry,assoc_num,dynasty,yearBirth,yearDeath,examStatus
+x4,y3,12102,-100,蔡元導,蔡元導 (12102) - Father,,0,,,,
+x5,y3,,0,,,,0,,,,
+x6,y3,3334,60,何A,何A (3334) - Father-in-law (wife's father),,0,,,,
+x4,y2,,0,,,,0,,,,
+x5,y2,1645,100,蔡承禧,蔡承禧 (1645) - Ego,entry,4,宋,1035,1084,科舉: 進士(籠統) (1057)
+x6,y2,,0,,,,0,,,,
+x4,y1,3285,20,范世基,范世基 (3285) - Son-in-law,,0,,,,
+x5,y1,,0,,,,0,,,,
+x6,y1,21646,40,蔡居厚,蔡居厚 (21646) - First son,,0,,,,

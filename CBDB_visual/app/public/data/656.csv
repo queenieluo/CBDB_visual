@@ -1,0 +1,13 @@
+group,variable,personID,value,text,info,entry,assoc_num,dynasty,yearBirth,yearDeath,examStatus
+x4,y3,630,-100,韓琦,韓琦 (630) - Father,,24,宋,1008,1075,科舉: 進士(籠統) (1027)
+x5,y3,,0,,,,0,,,,
+x6,y3,17743,60,陳薦,陳薦 (17743) - Father-in-law (wife's father),,0,,,,
+x7,y3,,0,,,,0,,,,
+x4,y2,644,-20,韓忠彥,韓忠彥 (644) - Elder brother,,26,宋,1038,1109,科舉: 進士(籠統)
+x5,y2,656,100,韓粹彥,韓粹彥 (656) - Ego,entry,6,宋,1065,1118,恩蔭(籠統)
+x6,y2,,0,,,,0,,,,
+x7,y2,,0,,,,0,,,,
+x4,y1,3853,20,蔡堅,蔡堅 (3853) - Son-in-law,,0,,,,
+x5,y1,,0,,,,0,,,,
+x6,y1,3855,20,蔡莊,蔡莊 (3855) - Son-in-law,,0,,,,
+x7,y1,3866,20,蔡條,蔡條 (3866) - Son-in-law,,0,,,,

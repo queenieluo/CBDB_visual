@@ -1,0 +1,10 @@
+group,variable,personID,value,text,info,entry,assoc_num,dynasty,yearBirth,yearDeath,examStatus
+x4,y3,,0,,,,0,,,,
+x5,y3,17884,-100,王真臣,王真臣 (17884) - Father,,0,,,,
+x6,y3,,0,,,,0,,,,
+x4,y2,3624,40,樓鑰,樓鑰 (3624) - Granddaughter's husband,,0,,,,
+x5,y2,1932,100,王俁,王俁 (1932) - Ego,entry,4,宋,0,1157,科舉: 進士(籠統) (1112)
+x6,y2,,0,,,,0,,,,
+x4,y1,17885,40,王逨,王逨 (17885) - Son,,0,,,,
+x5,y1,,0,,,,0,,,,
+x6,y1,3942,40,王中行,王中行 (3942) - Grandson,,0,,,,

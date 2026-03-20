@@ -1,0 +1,13 @@
+group,variable,personID,value,text,info,entry,assoc_num,dynasty,yearBirth,yearDeath,examStatus
+x4,y4,,0,,,,0,,,,
+x5,y4,3564,-40,梁文度,梁文度 (3564) - Grandfather,,0,,,,
+x6,y4,,0,,,,0,,,,
+x4,y3,,0,,,,0,,,,
+x5,y3,20073,-100,梁文獻,梁文獻 (20073) - Father,,0,,,,
+x6,y3,,0,,,,0,,,,
+x4,y2,,0,,,,0,,,,
+x5,y2,1138,100,梁鼎,梁鼎 (1138) - Ego,entry,4,宋,955,1006,科舉: 進士(籠統) (983)
+x6,y2,,0,,,,0,,,,
+x4,y1,119816,40,梁申甫,梁申甫 (119816) - First son,,0,,,,
+x5,y1,,0,,,,0,,,,
+x6,y1,97397,40,梁吉甫,梁吉甫 (97397) - Second son,,0,,,,

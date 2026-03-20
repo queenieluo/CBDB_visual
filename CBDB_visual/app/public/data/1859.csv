@@ -1,0 +1,13 @@
+group,variable,personID,value,text,info,entry,assoc_num,dynasty,yearBirth,yearDeath,examStatus
+x4,y4,916,-40,高凝祐,高凝祐 (916) - Grandfather,,2,宋,0,0,
+x5,y4,,0,,,,0,,,,
+x6,y4,22128,-40,王彥英,王彥英 (22128) - Grandfather,,0,,,,
+x4,y3,,0,,,,0,,,,
+x5,y3,22129,-100,王仁偘,王仁偘 (22129) - Father,,0,,,,
+x6,y3,,0,,,,0,,,,
+x4,y2,,0,,,,0,,,,
+x5,y2,1859,100,王彬,王彬 (1859) - Ego,entry,5,宋,0,0,科舉: 進士(籠統) (992)
+x6,y2,,0,,,,0,,,,
+x4,y1,1904,40,王宗望,王宗望 (1904) - Grandson,,2,宋,,,恩蔭(籠統)
+x5,y1,,0,,,,0,,,,
+x6,y1,22130,40,王南夫,王南夫 (22130) - Great-great-grandson,,0,,,,

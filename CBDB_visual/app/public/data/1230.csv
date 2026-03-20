@@ -1,0 +1,13 @@
+group,variable,personID,value,text,info,entry,assoc_num,dynasty,yearBirth,yearDeath,examStatus
+x4,y3,16619,-100,劉昈,劉昈 (16619) - Father,,0,,,,
+x5,y3,,0,,,,0,,,,
+x6,y3,13407,60,傅瑩,傅瑩 (13407) - Father-in-law (wife's father),,0,,,,
+x7,y3,,0,,,,0,,,,
+x4,y2,,0,,,,0,,,,
+x5,y2,1230,100,劉述,劉述 (1230) - Ego,entry,5,宋,,,科舉: 進士(籠統) (1034)
+x6,y2,,0,,,,0,,,,
+x7,y2,,0,,,,0,,,,
+x4,y1,16618,40,劉握,劉握 (16618) - Son,,0,,,,
+x5,y1,,0,,,,0,,,,
+x6,y1,27078,20,陳樞,陳樞 (27078) - Son-in-law,,0,,,,
+x7,y1,3587,40,劉嶠,劉嶠 (3587) - Great-grandson,,0,,,,

@@ -1,0 +1,7 @@
+group,variable,personID,value,text,info,entry,assoc_num,dynasty,yearBirth,yearDeath,examStatus
+x4,y3,2022,-100,楊時,楊時 (2022) - Father,,16,宋,1053,1135,科舉: 進士(籠統) (1076)
+x5,y3,,0,,,,0,,,,
+x6,y3,11885,60,游酢,游酢 (11885) - Father-in-law (wife's father),,0,,,,
+x4,y2,,0,,,,0,,,,
+x5,y2,2034,100,楊矞,楊矞 (2034) - Ego,entry,2,宋,1096,1149,
+x6,y2,,0,,,,0,,,,

@@ -1,0 +1,22 @@
+group,variable,personID,value,text,info,entry,assoc_num,dynasty,yearBirth,yearDeath,examStatus
+x1,y3,,0,,,,0,,,,
+x2,y3,,0,,,,0,,,,
+x3,y3,268,-100,張佖,張佖 (268) - Father,,4,宋,,,
+x4,y3,119932,-100,張秘,張秘 (119932) - Father,,0,,,,
+x5,y3,,0,,,,0,,,,
+x6,y3,8096,60,魯宗道,魯宗道 (8096) - Father-in-law (wife's father),,0,,,,
+x7,y3,208,-20,張鑄,張鑄 (208) - Uncle (father's brother),,2,宋,0,1063,科舉: 進士(籠統) (1012)
+x1,y2,37607,20,石約,石約 (37607) - Fifth daughter's husband,,0,,,,
+x2,y2,7069,20,蔡天球,蔡天球 (7069) - Fourth daughter's husband,,0,,,,
+x3,y2,1653,20,蔡抗,蔡抗 (1653) - Second daughter's husband,,8,宋,1008,1067,科舉: 進士(籠統) (1034)
+x4,y2,37605,20,宋任,宋任 (37605) - First daughter's husband,,0,,,,
+x5,y2,318,100,張昷之,張昷之 (318) - Ego,entry,14,宋,985,1062,科舉: 進士(籠統) (1015)
+x6,y2,,0,,,,0,,,,
+x7,y2,,0,,,,0,,,,
+x1,y1,,0,,,,0,,,,
+x2,y1,,0,,,,0,,,,
+x3,y1,41954,20,張氏(呂希哲妻),張氏(呂希哲妻) (41954) - Daughter,,0,,,,
+x4,y1,37604,40,張次卿,張次卿 (37604) - First son,,0,,,,
+x5,y1,,0,,,,0,,,,
+x6,y1,311,40,張次山,張次山 (311) - Second son,,4,宋,0,0,
+x7,y1,7016,40,張次元,張次元 (7016) - Third son,,0,,,,

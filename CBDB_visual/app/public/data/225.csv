@@ -1,0 +1,10 @@
+group,variable,personID,value,text,info,entry,assoc_num,dynasty,yearBirth,yearDeath,examStatus
+x4,y4,8012,-40,張洎,張洎 (8012) - Grandfather,,0,,,,
+x5,y4,,0,,,,0,,,,
+x6,y4,13753,-40,張播,張播 (13753) - Grandfather,,0,,,,
+x4,y3,13573,-100,張方回,張方回 (13573) - Father,,0,,,,
+x5,y3,,0,,,,0,,,,
+x6,y3,1768,60,王欽若,王欽若 (1768) - Father-in-law (wife's father),,8,宋,962,1025,科舉: 進士(籠統) (992)
+x4,y2,301,-20,張璪,張璪 (301) - Younger brother,,2,宋,0,1093,科舉: 進士(籠統) (1057)
+x5,y2,225,100,張瓌,張瓌 (225) - Ego,entry,5,宋,,,科舉: 正奏名進士 (1024)
+x6,y2,,0,,,,0,,,,

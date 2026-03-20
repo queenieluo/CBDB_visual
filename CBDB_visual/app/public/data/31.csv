@@ -1,0 +1,10 @@
+group,variable,personID,value,text,info,entry,assoc_num,dynasty,yearBirth,yearDeath,examStatus
+x4,y3,,0,,,,0,,,,
+x5,y3,14592,-100,陳希正,陳希正 (14592) - Father,,0,,,,
+x6,y3,,0,,,,0,,,,
+x4,y2,37375,20,任寶臣,任寶臣 (37375) - First daughter's husband,,0,,,,
+x5,y2,31,100,陳戩,陳戩 (31) - Ego,entry,4,宋,1081,1133,科舉: 進士(籠統) (1109)
+x6,y2,,0,,,,0,,,,
+x4,y1,3084,40,陳鼎,陳鼎 (3084) - First son,,0,,,,
+x5,y1,,0,,,,0,,,,
+x6,y1,37374,40,陳鼐,陳鼐 (37374) - Second son,,0,,,,

@@ -1,0 +1,16 @@
+group,variable,personID,value,text,info,entry,assoc_num,dynasty,yearBirth,yearDeath,examStatus
+x3,y3,,0,,,,0,,,,
+x4,y3,13578,-100,張幾,張幾 (13578) - Father,,0,,,,
+x5,y3,,0,,,,0,,,,
+x6,y3,7043,60,李文淵,李文淵 (7043) - Father-in-law (wife's father),,0,,,,
+x7,y3,,0,,,,0,,,,
+x3,y2,,0,,,,0,,,,
+x4,y2,7163,-20,張邵,張邵 (7163) - Elder brother,,0,,,,
+x5,y2,182,100,張祁,張祁 (182) - Ego,entry,7,宋,0,0,恩蔭(籠統) (1129)
+x6,y2,,0,,,,0,,,,
+x7,y2,,0,,,,0,,,,
+x3,y1,37259,20,張法言,張法言 (37259) - Daughter,,0,,,,
+x4,y1,13579,40,張孝伯,張孝伯 (13579) - Nephew (brother's son),,0,,,,
+x5,y1,,0,,,,0,,,,
+x6,y1,3144,40,張孝祥,張孝祥 (3144) - Son,,0,,,,
+x7,y1,670,20,韓元龍,韓元龍 (670) - Son-in-law,,8,宋,0,0,恩蔭(籠統)

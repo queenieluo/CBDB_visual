@@ -1,0 +1,10 @@
+group,variable,personID,value,text,info,entry,assoc_num,dynasty,yearBirth,yearDeath,examStatus
+x4,y3,3908,-100,曾公望,曾公望 (3908) - Father,,0,,,,
+x5,y3,,0,,,,0,,,,
+x6,y3,8136,-20,曾公亮,曾公亮 (8136) - Uncle (father's brother),,0,,,,
+x4,y2,1696,-20,曾孝廣,曾孝廣 (1696) - Elder brother,,4,宋,,,
+x5,y2,1700,100,曾孝蘊,曾孝蘊 (1700) - Ego,entry,4,宋,,,
+x6,y2,,0,,,,0,,,,
+x4,y1,,0,,,,0,,,,
+x5,y1,21690,40,曾浩,曾浩 (21690) - Son,,0,,,,
+x6,y1,,0,,,,0,,,,

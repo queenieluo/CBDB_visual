@@ -1,0 +1,13 @@
+group,variable,personID,value,text,info,entry,assoc_num,dynasty,yearBirth,yearDeath,examStatus
+x4,y3,,0,,,,0,,,,
+x5,y3,13615,-100,權經,權經 (13615) - Father,,0,,,,
+x6,y3,,0,,,,0,,,,
+x7,y3,,0,,,,0,,,,
+x4,y2,,0,,,,0,,,,
+x5,y2,165,100,權邦彥,權邦彥 (165) - Ego,entry,4,宋,1080,1133,學校: 上舍及第 (1105)
+x6,y2,,0,,,,0,,,,
+x7,y2,,0,,,,0,,,,
+x4,y1,13616,40,權嗣衍,權嗣衍 (13616) - Nephew (brother's son),,0,,,,
+x5,y1,,0,,,,0,,,,
+x6,y1,13616,40,權嗣衍,權嗣衍 (13616) - Adopted son,,0,,,,
+x7,y1,3044,40,權安節,權安節 (3044) - Grandson,,0,,,,

@@ -1,0 +1,5 @@
+group,variable,personID,value,text,info,entry,assoc_num,dynasty,yearBirth,yearDeath,examStatus
+x4,y3,,0,,,,0,,,,
+x5,y3,3186,-20,章蒙,章蒙 (3186) - Uncle (father's brother),,0,,,,
+x4,y2,3192,-20,章元弼,章元弼 (3192) - Cousin (father's brother's son),,0,,,,
+x5,y2,340,100,章公弼,章公弼 (340) - Ego,entry,2,宋,0,0,

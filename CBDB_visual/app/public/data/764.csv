@@ -1,0 +1,11 @@
+group,variable,personID,value,text,info,entry,assoc_num,dynasty,yearBirth,yearDeath,examStatus
+x3,y2,,0,,,,0,,,,
+x4,y2,,0,,,,0,,,,
+x5,y2,764,100,徐奭,徐奭 (764) - Ego,entry,4,宋,,1030,科舉: 進士(籠統) (1012)
+x6,y2,,0,,,,0,,,,
+x7,y2,,0,,,,0,,,,
+x3,y1,765,40,徐師旦,徐師旦 (765) - Nephew (brother's son),,1,宋,0,0,
+x4,y1,3380,40,徐師回,徐師回 (3380) - Nephew (brother's son),,0,,,,
+x5,y1,,0,,,,0,,,,
+x6,y1,3381,40,徐師閔,徐師閔 (3381) - Son,,0,,,,
+x7,y1,14343,40,徐師甫,徐師甫 (14343) - Son,,0,,,,

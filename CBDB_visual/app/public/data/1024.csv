@@ -1,0 +1,7 @@
+group,variable,personID,value,text,info,entry,assoc_num,dynasty,yearBirth,yearDeath,examStatus
+x4,y3,3528,-100,李淑,李淑 (3528) - Father,,0,,,,
+x5,y3,,0,,,,0,,,,
+x6,y3,3892,60,祖士安,祖士安 (3892) - Father-in-law (wife's father),,0,,,,
+x4,y2,1085,-20,李壽朋,李壽朋 (1085) - Elder brother,,3,宋,0,1071,科舉學校: 恩賜出身、特賜出身等 (1042)
+x5,y2,1024,100,李復圭,李復圭 (1024) - Ego,entry,3,宋,0,0,科舉: 進士(籠統) (1042)
+x6,y2,,0,,,,0,,,,

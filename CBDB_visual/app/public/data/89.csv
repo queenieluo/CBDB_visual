@@ -1,0 +1,10 @@
+group,variable,personID,value,text,info,entry,assoc_num,dynasty,yearBirth,yearDeath,examStatus
+x4,y3,13450,-100,陳毅,陳毅 (13450) - Father,,0,,,,
+x5,y3,,0,,,,0,,,,
+x6,y3,47629,-100,陳毅,陳毅 (47629) - Father,,0,,,,
+x4,y2,,0,,,,0,,,,
+x5,y2,89,100,陳橐,陳橐 (89) - Ego,entry,4,宋,1090,1155,學校: 上舍及第 (1116)
+x6,y2,,0,,,,0,,,,
+x4,y1,43375,40,茅宗愈,茅宗愈 (43375) - Nephew (sister's son),,0,,,,
+x5,y1,,0,,,,0,,,,
+x6,y1,13453,40,陳用之,陳用之 (13453) - Grandson,,0,,,,

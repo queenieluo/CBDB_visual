@@ -1,0 +1,7 @@
+group,variable,personID,value,text,info,entry,assoc_num,dynasty,yearBirth,yearDeath,examStatus
+x4,y3,,0,,,,0,,,,
+x5,y3,10457,-100,趙世雄,趙世雄 (10457) - Father,,0,,,,
+x4,y2,398,40,趙子淔,趙子淔 (398) - Fifth son,,5,宋,,,
+x5,y2,371,100,趙令鑠,趙令鑠 (371) - Ego,entry,3,宋,0,0,科舉: 進士(籠統)
+x4,y1,,0,,,,0,,,,
+x5,y1,10458,40,趙子漪,趙子漪 (10458) - First son,,0,,,,

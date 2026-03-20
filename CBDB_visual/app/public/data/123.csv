@@ -1,0 +1,11 @@
+group,variable,personID,value,text,info,entry,assoc_num,dynasty,yearBirth,yearDeath,examStatus
+x3,y3,118,-100,程琳,程琳 (118) - Father,,14,宋,988,1056,科舉: 進士(籠統) (1011)
+x4,y3,1893,60,王德用,王德用 (1893) - Father-in-law (wife's father),,8,宋,987,1065,恩蔭(籠統)
+x5,y3,,0,,,,0,,,,
+x6,y3,7304,60,呂公綽,呂公綽 (7304) - Father-in-law (wife's father),,0,,,,
+x7,y3,8022,60,趙槩,趙槩 (8022) - Father-in-law (wife's father),,0,,,,
+x3,y2,,0,,,,0,,,,
+x4,y2,,0,,,,0,,,,
+x5,y2,123,100,程嗣恭,程嗣恭 (123) - Ego,entry,4,宋,0,0,
+x6,y2,,0,,,,0,,,,
+x7,y2,,0,,,,0,,,,

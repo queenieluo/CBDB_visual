@@ -1,0 +1,10 @@
+group,variable,personID,value,text,info,entry,assoc_num,dynasty,yearBirth,yearDeath,examStatus
+x4,y3,,0,,,,0,,,,
+x5,y3,3814,-100,宋樂,宋樂 (3814) - Father,,0,,,,
+x6,y3,,0,,,,0,,,,
+x4,y2,3513,-20,李覯,李覯 (3513) - Marriage relative,,0,,,,
+x5,y2,1565,100,宋咸,宋咸 (1565) - Ego,entry,4,宋,0,0,科舉: 正奏名進士 (1024)
+x6,y2,,0,,,,0,,,,
+x4,y1,18429,40,宋億,宋億 (18429) - Son,,0,,,,
+x5,y1,,0,,,,0,,,,
+x6,y1,33120,40,宋翔,宋翔 (33120) - Great-great-grandson,,0,,,,

@@ -1,0 +1,4 @@
+group,variable,personID,value,text,info,entry,assoc_num,dynasty,yearBirth,yearDeath,examStatus
+x5,y3,119887,-100,李光贊,李光贊 (119887) - Father,,0,,,,
+x5,y2,1044,100,李若拙,李若拙 (1044) - Ego,entry,2,宋,944,1001,科舉: 進士(籠統)
+x5,y1,1039,40,李繹,李繹 (1039) - Son,,2,宋,0,0,科舉: 進士(籠統)

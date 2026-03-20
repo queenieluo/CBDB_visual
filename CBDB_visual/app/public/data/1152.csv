@@ -1,0 +1,13 @@
+group,variable,personID,value,text,info,entry,assoc_num,dynasty,yearBirth,yearDeath,examStatus
+x3,y2,,0,,,,0,,,,
+x4,y2,,0,,,,0,,,,
+x5,y2,1152,100,林冲之,林冲之 (1152) - Ego,entry,5,宋,,,科舉: 進士(籠統) (1100)
+x6,y2,,0,,,,0,,,,
+x7,y2,,0,,,,0,,,,
+x8,y2,,0,,,,0,,,,
+x3,y1,11445,40,林霆,林霆 (11445) - Nephew (brother's son),,0,,,,
+x4,y1,11446,40,林震,林震 (11446) - Nephew (brother's son),,0,,,,
+x5,y1,,0,,,,0,,,,
+x6,y1,11447,40,林雱,林雱 (11447) - Nephew (brother's son),,0,,,,
+x7,y1,25865,40,林需,林需 (25865) - Nephew (brother's son),,0,,,,
+x8,y1,11444,40,林郁,林郁 (11444) - Son,,0,,,,

@@ -1,0 +1,10 @@
+group,variable,personID,value,text,info,entry,assoc_num,dynasty,yearBirth,yearDeath,examStatus
+x4,y4,12947,-40,楊文逸,楊文逸 (12947) - Grandfather,,0,,,,
+x5,y4,,0,,,,0,,,,
+x6,y4,119807,-40,楊巖,楊巖 (119807) - Grandfather,,0,,,,
+x4,y2,7097,-20,楊億,楊億 (7097) - Elder brother,,0,,,,
+x5,y2,2031,100,楊偉,楊偉 (2031) - Ego,entry,4,宋,984,1058,科舉學校: 恩賜出身、特賜出身等 (1019)
+x6,y2,,0,,,,0,,,,
+x4,y1,,0,,,,0,,,,
+x5,y1,2008,40,楊紘,楊紘 (2008) - Son,,4,宋,0,0,科舉學校: 恩賜出身、特賜出身等
+x6,y1,,0,,,,0,,,,

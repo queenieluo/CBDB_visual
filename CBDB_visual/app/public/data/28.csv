@@ -1,0 +1,7 @@
+group,variable,personID,value,text,info,entry,assoc_num,dynasty,yearBirth,yearDeath,examStatus
+x4,y2,96,-20,陳緯,陳緯 (96) - Brother,,1,宋,0,1000,
+x5,y2,28,100,陳絳,陳絳 (28) - Ego,entry,3,宋,0,0,科舉: 進士(籠統) (1000)
+x6,y2,,0,,,,0,,,,
+x4,y1,3091,40,陳動之,陳動之 (3091) - First son,,0,,,,
+x5,y1,,0,,,,0,,,,
+x6,y1,14347,40,陳說之,陳說之 (14347) - Second son,,0,,,,

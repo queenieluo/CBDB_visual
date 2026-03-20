@@ -1,0 +1,4 @@
+group,variable,personID,value,text,info,entry,assoc_num,dynasty,yearBirth,yearDeath,examStatus
+x5,y4,7017,-40,趙㞦,趙㞦 (7017) - Grandfather,,0,,,,
+x5,y3,369,-100,趙霖,趙霖 (369) - Father,,3,宋,0,0,科舉: 進士(籠統) (1115)
+x5,y2,362,100,趙億,趙億 (362) - Ego,entry,2,宋,1081,1135,恩蔭(籠統)

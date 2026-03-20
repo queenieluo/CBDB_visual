@@ -1,0 +1,10 @@
+group,variable,personID,value,text,info,entry,assoc_num,dynasty,yearBirth,yearDeath,examStatus
+x4,y3,,0,,,,0,,,,
+x5,y3,15884,60,時舜舉(字),時舜舉(字) (15884) - Father-in-law (wife's father),,0,,,,
+x6,y3,,0,,,,0,,,,
+x4,y2,15878,-20,閭丘孝終,閭丘孝終 (15878) - Cousin (father's brother's son),,0,,,,
+x5,y2,2119,100,閭邱孝直,閭邱孝直 (2119) - Ego,entry,4,宋,0,0,
+x6,y2,,0,,,,0,,,,
+x4,y1,1334,40,閭丘陞,閭丘陞 (1334) - Nephew (brother's son),,2,宋,0,0,
+x5,y1,,0,,,,0,,,,
+x6,y1,15882,40,閭邱珪,閭邱珪 (15882) - Nephew (brother's son),,0,,,,

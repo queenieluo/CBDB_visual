@@ -1,0 +1,13 @@
+group,variable,personID,value,text,info,entry,assoc_num,dynasty,yearBirth,yearDeath,examStatus
+x4,y3,21315,-100,孫億,孫億 (21315) - Father,,0,,,,
+x5,y3,,0,,,,0,,,,
+x6,y3,1933,60,王說,王說 (1933) - Father-in-law (wife's father),,9,宋,1028,1101,科舉: 進士(籠統)
+x7,y3,,0,,,,0,,,,
+x4,y2,1521,-20,孫覺,孫覺 (1521) - Elder brother,,7,宋,1028,1090,科舉: 正奏名進士 (1049)
+x5,y2,1535,100,孫覽,孫覽 (1535) - Ego,entry,6,宋,1043,1101,科舉: 正奏名進士 (1065)
+x6,y2,,0,,,,0,,,,
+x7,y2,,0,,,,0,,,,
+x4,y1,34057,40,吳觀,吳觀 (34057) - Nephew (sister's son),,0,,,,
+x5,y1,,0,,,,0,,,,
+x6,y1,3782,40,孫竣,孫竣 (3782) - First son,,0,,,,
+x7,y1,34058,40,孫竢,孫竢 (34058) - Grandson,,0,,,,

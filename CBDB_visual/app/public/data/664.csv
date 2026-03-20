@@ -1,0 +1,16 @@
+group,variable,personID,value,text,info,entry,assoc_num,dynasty,yearBirth,yearDeath,examStatus
+x3,y4,,0,,,,0,,,,
+x4,y4,,0,,,,0,,,,
+x5,y4,8049,-40,韓億,韓億 (8049) - Grandfather,,0,,,,
+x6,y4,,0,,,,0,,,,
+x7,y4,,0,,,,0,,,,
+x3,y3,16869,-100,韓綱,韓綱 (16869) - Father,,0,,,,
+x4,y3,8165,60,吳育,吳育 (8165) - Father-in-law (wife's father),,0,,,,
+x5,y3,,0,,,,0,,,,
+x6,y3,636,-20,韓絳,韓絳 (636) - Uncle (father's brother),,16,宋,1012,1088,科舉: 進士(籠統) (1042)
+x7,y3,8051,-20,韓維,韓維 (8051) - Uncle (father's brother),,0,,,,
+x3,y2,,0,,,,0,,,,
+x4,y2,1314,-20,呂公著,呂公著 (1314) - Marriage relative,,27,宋,1018,1089,科舉: 進士(籠統) (1042)
+x5,y2,664,100,韓宗彥,韓宗彥 (664) - Ego,entry,6,宋,0,0,科舉: 進士(籠統) (1042)
+x6,y2,,0,,,,0,,,,
+x7,y2,,0,,,,0,,,,

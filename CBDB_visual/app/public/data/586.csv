@@ -1,0 +1,5 @@
+group,variable,personID,value,text,info,entry,assoc_num,dynasty,yearBirth,yearDeath,examStatus
+x5,y4,593,-40,范雍,范雍 (593) - Grandfather,,14,宋,979,1046,科舉: 正奏名進士 (1000)
+x5,y3,585,-100,范宗傑,范宗傑 (585) - Father,,4,宋,0,1045,
+x5,y2,586,100,范子奇,范子奇 (586) - Ego,entry,3,宋,,,恩蔭(籠統)
+x5,y1,16923,40,范坦,范坦 (16923) - Son,,0,,,,

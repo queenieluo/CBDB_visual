@@ -1,0 +1,5 @@
+group,variable,personID,value,text,info,entry,assoc_num,dynasty,yearBirth,yearDeath,examStatus
+x5,y4,27123,-40,李W,李W (27123) - Grandfather,,0,,,,
+x5,y3,119869,-100,李文捷,李文捷 (119869) - Father,,0,,,,
+x5,y2,1106,100,李諮,李諮 (1106) - Ego,entry,3,宋,,1036,科舉: 進士(籠統) (1005)
+x5,y1,4176,40,李演,李演 (4176) - Grandson,,0,,,,

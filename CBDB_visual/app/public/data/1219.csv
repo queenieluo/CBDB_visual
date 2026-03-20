@@ -1,0 +1,10 @@
+group,variable,personID,value,text,info,entry,assoc_num,dynasty,yearBirth,yearDeath,examStatus
+x4,y3,,0,,,,0,,,,
+x5,y3,20345,-100,劉漢凝,劉漢凝 (20345) - Father,,0,,,,
+x6,y3,,0,,,,0,,,,
+x4,y2,20346,-20,劉兼濟,劉兼濟 (20346) - Younger brother,,0,,,,
+x5,y2,1219,100,劉平,劉平 (1219) - Ego,entry,4,宋,0,0,科舉: 進士(籠統)
+x6,y2,119368,-80,趙氏(劉平妻),趙氏(劉平妻) (119368) - Wife,,0,,,,
+x4,y1,,0,,,,0,,,,
+x5,y1,20450,40,劉季孫,劉季孫 (20450) - Son,,0,,,,
+x6,y1,,0,,,,0,,,,

@@ -1,0 +1,50 @@
+{
+  "app": {
+    "title": "CBDB 家族谱系",
+    "subtitle": "中国历代人物传记资料库 — 亲属关系可视化"
+  },
+  "search": {
+    "placeholder": "输入人物编号（例如 1762）",
+    "button": "搜索",
+    "searching": "搜索中..."
+  },
+  "legend": {
+    "title": "图例",
+    "ego": "本人",
+    "father": "父亲",
+    "mother": "母亲",
+    "brother": "兄弟",
+    "sister": "姐妹",
+    "son": "儿子",
+    "daughter": "女儿",
+    "spouse": "配偶",
+    "concubine": "妾",
+    "ancestor": "先祖",
+    "descendant": "后裔"
+  },
+  "tooltip": {
+    "kinshipPath": "亲属路径",
+    "clickToExpand": "点击展开",
+    "noData": "无附加数据"
+  },
+  "filter": {
+    "title": "筛选",
+    "displayMode": "显示模式",
+    "entry": "条目",
+    "connections": "关联",
+    "relationships": "亲属关系",
+    "gender": "性别",
+    "all": "全部",
+    "male": "男",
+    "female": "女"
+  },
+  "detail": {
+    "viewOnCBDB": "在 CBDB 查看",
+    "personID": "人物编号",
+    "info": "信息"
+  },
+  "error": {
+    "fetchFailed": "数据加载失败，请检查人物编号后重试。",
+    "noResults": "未找到此人物的数据。"
+  }
+}

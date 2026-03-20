@@ -1,0 +1,10 @@
+group,variable,personID,value,text,info,entry,assoc_num,dynasty,yearBirth,yearDeath,examStatus
+x4,y3,22391,-100,吳誥,吳誥 (22391) - Father,,0,,,,
+x5,y3,,0,,,,0,,,,
+x6,y3,22400,60,楊瓘,楊瓘 (22400) - Father-in-law (wife's father),,0,,,,
+x4,y2,22392,-20,吳愈,吳愈 (22392) - Elder brother,,0,,,,
+x5,y2,1978,100,吳懋,吳懋 (1978) - Ego,entry,5,宋,1080,1134,科舉: 進士(籠統) (1106)
+x6,y2,5145,-80,楊氏(吳懋妻),楊氏(吳懋妻) (5145) - Wife,,0,,,,
+x4,y1,,0,,,,0,,,,
+x5,y1,22397,20,陸景端,陸景端 (22397) - Son-in-law,,0,,,,
+x6,y1,,0,,,,0,,,,

@@ -1,0 +1,5 @@
+group,variable,personID,value,text,info,entry,assoc_num,dynasty,yearBirth,yearDeath,examStatus
+x4,y3,,0,,,,0,,,,
+x5,y3,10624,-100,沈時升,沈時升 (10624) - Father,,0,,,,
+x4,y2,1448,-20,沈該,沈該 (1448) - Brother,,6,宋,,1166,科舉: 進士(籠統) (1118)
+x5,y2,1459,100,沈調,沈調 (1459) - Ego,entry,2,宋,0,0,科舉: 進士(籠統) (1112)

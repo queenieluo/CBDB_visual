@@ -1,0 +1,10 @@
+group,variable,personID,value,text,info,entry,assoc_num,dynasty,yearBirth,yearDeath,examStatus
+x4,y3,,0,,,,0,,,,
+x5,y3,19651,-100,李昭逸,李昭逸 (19651) - Father,,0,,,,
+x6,y3,,0,,,,0,,,,
+x4,y2,,0,,,,0,,,,
+x5,y2,1025,100,李含章,李含章 (1025) - Ego,entry,3,宋,0,0,科舉: 進士(籠統) (980)
+x6,y2,,0,,,,0,,,,
+x4,y1,3502,40,李孝先,李孝先 (3502) - Son,,0,,,,
+x5,y1,,0,,,,0,,,,
+x6,y1,19652,40,李師文,李師文 (19652) - Son,,0,,,,

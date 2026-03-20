@@ -1,0 +1,10 @@
+group,variable,personID,value,text,info,entry,assoc_num,dynasty,yearBirth,yearDeath,examStatus
+x4,y3,,0,,,,0,,,,
+x5,y3,27560,-100,李浩,李浩 (27560) - Father,,0,,,,
+x6,y3,,0,,,,0,,,,
+x4,y2,,0,,,,0,,,,
+x5,y2,1053,100,李觀,李觀 (1053) - Ego,entry,3,宋,0,0,科舉: 進士(籠統) (1103)
+x6,y2,,0,,,,0,,,,
+x4,y1,27561,40,李昌諤,李昌諤 (27561) - First son,,0,,,,
+x5,y1,,0,,,,0,,,,
+x6,y1,27562,40,李昌圖,李昌圖 (27562) - Second son,,0,,,,

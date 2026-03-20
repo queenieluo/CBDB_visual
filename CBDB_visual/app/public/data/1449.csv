@@ -1,0 +1,10 @@
+group,variable,personID,value,text,info,entry,assoc_num,dynasty,yearBirth,yearDeath,examStatus
+x3,y3,,0,,,,0,,,,
+x4,y3,,0,,,,0,,,,
+x5,y3,7324,-100,沈扶,沈扶 (7324) - Father,,0,,,,
+x3,y2,41656,-20,吳君庸,吳君庸 (41656) - Wife's sister's husband,,0,,,,
+x4,y2,1453,-20,沈遼,沈遼 (1453) - Younger brother,,6,宋,1032,1085,恩蔭(籠統)
+x5,y2,1449,100,沈遘,沈遘 (1449) - Ego,entry,4,宋,1025,1067,科舉: 進士(籠統) (1049)
+x3,y1,,0,,,,0,,,,
+x4,y1,,0,,,,0,,,,
+x5,y1,18705,40,沈晦,沈晦 (18705) - Grandson,,0,,,,

@@ -1,0 +1,11 @@
+group,variable,personID,value,text,info,entry,assoc_num,dynasty,yearBirth,yearDeath,examStatus
+x1,y3,,0,,,,0,,,,
+x2,y3,,0,,,,0,,,,
+x3,y3,,0,,,,0,,,,
+x4,y3,,0,,,,0,,,,
+x5,y3,3489,-100,李撰,李撰 (3489) - Father,,0,,,,
+x1,y2,12882,-20,李泰來,李泰來 (12882) - Clan junior,,0,,,,
+x2,y2,41435,-20,李彌綸,李彌綸 (41435) - Younger brother,,0,,,,
+x3,y2,3520,-20,李彌正,李彌正 (3520) - Younger brother,,0,,,,
+x4,y2,1062,-20,李彌遜,李彌遜 (1062) - Younger brother,,10,宋,1089,1153,科舉: 進士(籠統) (1109)
+x5,y2,1063,100,李彌大,李彌大 (1063) - Ego,entry,5,宋,1080,1140,科舉: 正奏名進士 (1104)

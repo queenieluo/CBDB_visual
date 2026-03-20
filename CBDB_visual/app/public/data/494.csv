@@ -1,0 +1,9 @@
+group,variable,personID,value,text,info,entry,assoc_num,dynasty,yearBirth,yearDeath,examStatus
+x2,y3,,0,,,,0,,,,
+x3,y3,,0,,,,0,,,,
+x4,y3,,0,,,,0,,,,
+x5,y3,508,-100,周彥質,周彥質 (508) - Father,,4,宋,0,0,科舉: 進士(籠統) (1073)
+x2,y2,16491,40,周待舉,周待舉 (16491) - Adopted grandson,,0,,,,
+x3,y2,16491,40,周待舉,周待舉 (16491) - Grand-nephew (brother's grandson),,0,,,,
+x4,y2,16487,-20,周夫亨,周夫亨 (16487) - Younger brother,,0,,,,
+x5,y2,494,100,周離亨,周離亨 (494) - Ego,entry,4,宋,0,0,科舉: 進士(籠統) (1112)

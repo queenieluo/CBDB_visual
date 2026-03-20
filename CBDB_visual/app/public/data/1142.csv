@@ -1,0 +1,7 @@
+group,variable,personID,value,text,info,entry,assoc_num,dynasty,yearBirth,yearDeath,examStatus
+x5,y3,4145,-100,梁彥昌,梁彥昌 (4145) - Father,,0,,,,
+x6,y3,,0,,,,0,,,,
+x5,y2,1142,100,梁子美,梁子美 (1142) - Ego,entry,3,宋,0,0,
+x6,y2,46411,-80,宋氏(梁子美妻),宋氏(梁子美妻) (46411) - Wife,,0,,,,
+x5,y1,1491,20,蘇遲,蘇遲 (1491) - Son-in-law,,18,宋,0,1155,薦舉 (保任)
+x6,y1,,0,,,,0,,,,

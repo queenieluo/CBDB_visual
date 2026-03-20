@@ -1,0 +1,10 @@
+group,variable,personID,value,text,info,entry,assoc_num,dynasty,yearBirth,yearDeath,examStatus
+x4,y3,7064,60,蘇舜欽,蘇舜欽 (7064) - Father-in-law (wife's father),,0,,,,
+x5,y3,,0,,,,0,,,,
+x6,y3,7102,-20,陳見素,陳見素 (7102) - Uncle (father's brother),,0,,,,
+x4,y2,,0,,,,0,,,,
+x5,y2,53,100,陳紘,陳紘 (53) - Ego,entry,3,宋,0,0,科舉: 進士(籠統) (1049)
+x6,y2,,0,,,,0,,,,
+x4,y1,,0,,,,0,,,,
+x5,y1,7132,40,陳彥默,陳彥默 (7132) - Son,,0,,,,
+x6,y1,,0,,,,0,,,,

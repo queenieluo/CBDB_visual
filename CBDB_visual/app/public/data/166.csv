@@ -1,0 +1,5 @@
+group,variable,personID,value,text,info,entry,assoc_num,dynasty,yearBirth,yearDeath,examStatus
+x4,y3,,0,,,,0,,,,
+x5,y3,1956,60,翁彥國,翁彥國 (1956) - Father-in-law (wife's father),,3,宋,,1127,科舉: 進士(籠統) (1097)
+x4,y2,14961,-20,詹B,詹B (14961) - Lineal ancestor,,0,,,,
+x5,y2,166,100,詹公薦,詹公薦 (166) - Ego,entry,2,宋,0,0,科舉: 進士(籠統) (1112)

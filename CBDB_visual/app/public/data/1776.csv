@@ -1,0 +1,16 @@
+group,variable,personID,value,text,info,entry,assoc_num,dynasty,yearBirth,yearDeath,examStatus
+x3,y3,,0,,,,0,,,,
+x4,y3,,0,,,,0,,,,
+x5,y3,3955,-100,王修,王修 (3955) - Father,,0,,,,
+x6,y3,,0,,,,0,,,,
+x7,y3,,0,,,,0,,,,
+x3,y2,13533,40,晁端稟,晁端稟 (13533) - Granddaughter's husband,,0,,,,
+x4,y2,8153,-20,王旦,王旦 (8153) - Second cousin (grandfather's brother's grandson),,0,,,,
+x5,y2,1776,100,王軫,王軫 (1776) - Ego,entry,6,宋,0,0,科舉: 進士(籠統)
+x6,y2,,0,,,,0,,,,
+x7,y2,,0,,,,0,,,,
+x3,y1,,0,,,,0,,,,
+x4,y1,17883,40,王景章,王景章 (17883) - Son,,0,,,,
+x5,y1,,0,,,,0,,,,
+x6,y1,7119,20,晁仲衍,晁仲衍 (7119) - Son-in-law,,0,,,,
+x7,y1,8031,20,賈昌朝,賈昌朝 (8031) - Son-in-law,,0,,,,

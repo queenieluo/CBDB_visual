@@ -1,0 +1,13 @@
+group,variable,personID,value,text,info,entry,assoc_num,dynasty,yearBirth,yearDeath,examStatus
+x4,y4,,0,,,,0,,,,
+x5,y4,12775,-40,曾會,曾會 (12775) - Grandfather,,0,,,,
+x6,y4,,0,,,,0,,,,
+x4,y3,,0,,,,0,,,,
+x5,y3,1653,60,蔡抗,蔡抗 (1653) - Father-in-law (wife's father),,8,宋,1008,1067,科舉: 進士(籠統) (1034)
+x6,y3,,0,,,,0,,,,
+x4,y2,,0,,,,0,,,,
+x5,y2,1694,100,曾孝序,曾孝序 (1694) - Ego,entry,4,宋,1049,1127,
+x6,y2,,0,,,,0,,,,
+x4,y1,21693,40,曾訏,曾訏 (21693) - Son,,0,,,,
+x5,y1,,0,,,,0,,,,
+x6,y1,3758,20,蘇攜,蘇攜 (3758) - Son-in-law,,0,,,,

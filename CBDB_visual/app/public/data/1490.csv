@@ -1,0 +1,19 @@
+group,variable,personID,value,text,info,entry,assoc_num,dynasty,yearBirth,yearDeath,examStatus
+x2,y3,,0,,,,0,,,,
+x3,y3,,0,,,,0,,,,
+x4,y3,8115,-100,蘇易簡,蘇易簡 (8115) - Father,,0,,,,
+x5,y3,,0,,,,0,,,,
+x6,y3,8153,60,王旦,王旦 (8153) - Father-in-law (wife's father),,0,,,,
+x7,y3,,0,,,,0,,,,
+x2,y2,37397,20,寇仲堅,寇仲堅 (37397) - Third daughter's husband,,0,,,,
+x3,y2,8051,20,韓維,韓維 (8051) - Second daughter's husband,,0,,,,
+x4,y2,37396,20,楊獻民,楊獻民 (37396) - First daughter's husband,,0,,,,
+x5,y2,1490,100,蘇耆,蘇耆 (1490) - Ego,entry,9,宋,987,1035,科舉學校: 恩賜出身、特賜出身等
+x6,y2,5105,-80,王氏(蘇耆妻),王氏(蘇耆妻) (5105) - Wife,,0,,,,
+x7,y2,,0,,,,0,,,,
+x2,y1,,0,,,,0,,,,
+x3,y1,,0,,,,0,,,,
+x4,y1,1505,40,蘇舜元,蘇舜元 (1505) - First son,,11,宋,1006,1054,科舉: 進士(籠統) (1042)
+x5,y1,,0,,,,0,,,,
+x6,y1,7064,40,蘇舜欽,蘇舜欽 (7064) - Second son,,0,,,,
+x7,y1,7065,40,蘇舜賓,蘇舜賓 (7065) - Third son,,0,,,,

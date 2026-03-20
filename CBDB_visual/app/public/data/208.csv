@@ -1,0 +1,7 @@
+group,variable,personID,value,text,info,entry,assoc_num,dynasty,yearBirth,yearDeath,examStatus
+x4,y2,,0,,,,0,,,,
+x5,y2,208,100,張鑄,張鑄 (208) - Ego,entry,2,宋,0,1063,科舉: 進士(籠統) (1012)
+x6,y2,,0,,,,0,,,,
+x4,y1,318,40,張昷之,張昷之 (318) - Nephew (brother's son),,14,宋,985,1062,科舉: 進士(籠統) (1015)
+x5,y1,,0,,,,0,,,,
+x6,y1,1417,20,畢仲游,畢仲游 (1417) - Son-in-law,,7,宋,1047,1121,科舉: 進士(籠統)

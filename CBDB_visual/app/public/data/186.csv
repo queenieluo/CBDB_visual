@@ -1,0 +1,7 @@
+group,variable,personID,value,text,info,entry,assoc_num,dynasty,yearBirth,yearDeath,examStatus
+x4,y3,20689,-100,張希顏,張希顏 (20689) - Father,,0,,,,
+x5,y3,,0,,,,0,,,,
+x6,y3,1349,60,馬亮,馬亮 (1349) - Father-in-law (wife's father),,18,宋,959,1031,科舉: 進士(籠統) (983)
+x4,y2,,0,,,,0,,,,
+x5,y2,186,100,張去惑,張去惑 (186) - Ego,entry,2,宋,0,0,
+x6,y2,,0,,,,0,,,,

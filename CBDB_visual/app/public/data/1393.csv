@@ -1,0 +1,16 @@
+group,variable,personID,value,text,info,entry,assoc_num,dynasty,yearBirth,yearDeath,examStatus
+x3,y3,1391,-100,龐籍,龐籍 (1391) - Father,,20,宋,988,1063,科舉: 進士(籠統) (1015)
+x4,y3,1960,60,吳充,吳充 (1960) - Father-in-law (wife's father),,14,宋,1021,1080,科舉: 進士(籠統) (1038)
+x5,y3,,0,,,,0,,,,
+x6,y3,8031,60,賈昌朝,賈昌朝 (8031) - Father-in-law (wife's father),,0,,,,
+x7,y3,8165,60,吳育,吳育 (8165) - Father-in-law (wife's father),,0,,,,
+x3,y2,,0,,,,0,,,,
+x4,y2,,0,,,,0,,,,
+x5,y2,1393,100,龐元英,龐元英 (1393) - Ego,entry,5,宋,0,0,
+x6,y2,,0,,,,0,,,,
+x7,y2,,0,,,,0,,,,
+x3,y1,,0,,,,0,,,,
+x4,y1,,0,,,,0,,,,
+x5,y1,20788,40,龐恭孫,龐恭孫 (20788) - Son,,0,,,,
+x6,y1,,0,,,,0,,,,
+x7,y1,,0,,,,0,,,,

@@ -1,0 +1,5 @@
+group,variable,personID,value,text,info,entry,assoc_num,dynasty,yearBirth,yearDeath,examStatus
+x4,y3,,0,,,,0,,,,
+x5,y3,11650,-100,陳賡,陳賡 (11650) - Father,,0,,,,
+x4,y2,1953,-20,文彥博,文彥博 (1953) - Marriage relative,,14,宋,1006,1097,科舉: 進士(籠統) (1027)
+x5,y2,16,100,陳安民,陳安民 (16) - Ego,entry,2,宋,0,0,科舉: 進士(籠統) (1057)

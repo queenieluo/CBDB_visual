@@ -1,0 +1,10 @@
+group,variable,personID,value,text,info,entry,assoc_num,dynasty,yearBirth,yearDeath,examStatus
+x4,y3,,0,,,,0,,,,
+x5,y3,20178,-100,林璋,林璋 (20178) - Father,,0,,,,
+x6,y3,,0,,,,0,,,,
+x4,y2,12560,-20,林概,林概 (12560) - Younger brother,,0,,,,
+x5,y2,1170,100,林大聲,林大聲 (1170) - Ego,entry,4,宋,1079,1161,學校: 上舍及第 (1112)
+x6,y2,,0,,,,0,,,,
+x4,y1,12485,40,林采,林采 (12485) - Grandson,,0,,,,
+x5,y1,,0,,,,0,,,,
+x6,y1,12577,40,林果,林果 (12577) - Grandson,,0,,,,

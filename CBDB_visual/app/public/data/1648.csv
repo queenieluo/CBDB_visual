@@ -1,0 +1,7 @@
+group,variable,personID,value,text,info,entry,assoc_num,dynasty,yearBirth,yearDeath,examStatus
+x3,y3,,0,,,,0,,,,
+x4,y3,,0,,,,0,,,,
+x5,y3,21365,-100,蔡淵,蔡淵 (21365) - Father,,0,,,,
+x3,y2,21367,-20,蔡載,蔡載 (21367) - Younger brother,,0,,,,
+x4,y2,21366,-20,蔡放,蔡放 (21366) - Younger brother,,0,,,,
+x5,y2,1648,100,蔡肇,蔡肇 (1648) - Ego,entry,3,宋,,1119,科舉: 進士(籠統) (1079)

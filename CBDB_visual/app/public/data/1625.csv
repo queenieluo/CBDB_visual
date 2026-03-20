@@ -1,0 +1,5 @@
+group,variable,personID,value,text,info,entry,assoc_num,dynasty,yearBirth,yearDeath,examStatus
+x4,y3,,0,,,,0,,,,
+x5,y3,1630,-100,鄧綰,鄧綰 (1630) - Father,,4,宋,1028,1086,科舉: 進士(籠統)
+x4,y2,8125,-20,鄧洵武,鄧洵武 (8125) - Younger brother,,0,,,,
+x5,y2,1625,100,鄧洵仁,鄧洵仁 (1625) - Ego,entry,2,宋,0,0,科舉: 進士(籠統) (1076)

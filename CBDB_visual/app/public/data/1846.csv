@@ -1,0 +1,10 @@
+group,variable,personID,value,text,info,entry,assoc_num,dynasty,yearBirth,yearDeath,examStatus
+x4,y4,,0,,,,0,,,,
+x5,y4,7082,-40,王益,王益 (7082) - Great-great-grandfather,,0,,,,
+x6,y4,,0,,,,0,,,,
+x4,y2,,0,,,,0,,,,
+x5,y2,1846,100,王珪,王珪 (1846) - Ego,entry,3,宋,0,1156,科舉: 進士(籠統) (1128)
+x6,y2,,0,,,,0,,,,
+x4,y1,24842,40,王謙,王謙 (24842) - Nephew (brother's son),,0,,,,
+x5,y1,,0,,,,0,,,,
+x6,y1,24240,40,王庭椿,王庭椿 (24240) - Great-great-grandson,,0,,,,

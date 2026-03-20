@@ -1,0 +1,10 @@
+group,variable,personID,value,text,info,entry,assoc_num,dynasty,yearBirth,yearDeath,examStatus
+x4,y3,15062,-100,黃文慶,黃文慶 (15062) - Father,,0,,,,
+x5,y3,,0,,,,0,,,,
+x6,y3,48654,-40,吳氏(黃文慶妻),吳氏(黃文慶妻) (48654) - Mother,,0,,,,
+x4,y2,,0,,,,0,,,,
+x5,y2,853,100,黃裳,黃裳 (853) - Ego,entry,3,宋,1044,1130,科舉: 進士(籠統) (1082)
+x6,y2,,0,,,,0,,,,
+x4,y1,,0,,,,0,,,,
+x5,y1,15063,20,陳詳,陳詳 (15063) - Son-in-law,,0,,,,
+x6,y1,,0,,,,0,,,,

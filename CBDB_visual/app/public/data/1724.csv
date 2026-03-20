@@ -1,0 +1,19 @@
+group,variable,personID,value,text,info,entry,assoc_num,dynasty,yearBirth,yearDeath,examStatus
+x1,y3,,0,,,,0,,,,
+x2,y3,,0,,,,0,,,,
+x3,y3,,0,,,,0,,,,
+x4,y3,16882,-100,杜彰壽,杜彰壽 (16882) - Father,,0,,,,
+x5,y3,,0,,,,0,,,,
+x6,y3,3013,60,晁仲參,晁仲參 (3013) - Father-in-law (wife's father),,0,,,,
+x1,y2,3886,20,崔延孫,崔延孫 (3886) - Third daughter's husband,,0,,,,
+x2,y2,13,20,晁補之,晁補之 (13) - Second daughter's husband,,16,宋,1049,1106,科舉: 進士(籠統) (1079)
+x3,y2,3666,20,馬希說,馬希說 (3666) - First daughter's husband,,0,,,,
+x4,y2,3917,-20,杜紘,杜紘 (3917) - Younger brother,,0,,,,
+x5,y2,1724,100,杜純,杜純 (1724) - Ego,entry,8,宋,1032,1095,恩蔭(籠統)
+x6,y2,,0,,,,0,,,,
+x1,y1,,0,,,,0,,,,
+x2,y1,,0,,,,0,,,,
+x3,y1,,0,,,,0,,,,
+x4,y1,3918,40,杜開,杜開 (3918) - First son,,0,,,,
+x5,y1,,0,,,,0,,,,
+x6,y1,3914,40,杜欽卨,杜欽卨 (3914) - Second son,,0,,,,

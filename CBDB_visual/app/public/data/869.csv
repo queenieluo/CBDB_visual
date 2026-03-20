@@ -1,0 +1,5 @@
+group,variable,personID,value,text,info,entry,assoc_num,dynasty,yearBirth,yearDeath,examStatus
+x4,y4,,0,,,,0,,,,
+x5,y4,19100,-20,洪湛,洪湛 (19100) - Grand-uncle (grandfather's brother),,0,,,,
+x4,y2,19102,-20,洪中和,洪中和 (19102) - Younger brother,,0,,,,
+x5,y2,869,100,洪中孚,洪中孚 (869) - Ego,entry,2,宋,1049,1131,科舉: 進士(籠統) (1079)

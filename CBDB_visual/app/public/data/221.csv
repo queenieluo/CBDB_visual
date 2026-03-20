@@ -1,0 +1,5 @@
+group,variable,personID,value,text,info,entry,assoc_num,dynasty,yearBirth,yearDeath,examStatus
+x4,y3,,0,,,,0,,,,
+x5,y3,227,-100,張孝純,張孝純 (227) - Father,,3,宋,0,0,科舉: 進士(籠統) (1091)
+x4,y2,323,-20,張穎,張穎 (323) - Brother,,3,宋,0,0,科舉: 進士(籠統) (1128)
+x5,y2,221,100,張顥,張顥 (221) - Ego,entry,2,宋,0,0,

@@ -1,0 +1,10 @@
+group,variable,personID,value,text,info,entry,assoc_num,dynasty,yearBirth,yearDeath,examStatus
+x4,y3,,0,,,,0,,,,
+x5,y3,18869,-100,胡弼,胡弼 (18869) - Father,,0,,,,
+x6,y3,,0,,,,0,,,,
+x4,y2,,0,,,,0,,,,
+x5,y2,820,100,胡令儀,胡令儀 (820) - Ego,entry,3,宋,,,科舉: 明經 (985)
+x6,y2,,0,,,,0,,,,
+x4,y1,1231,20,劉淑,劉淑 (1231) - Son-in-law,,4,宋,0,0,
+x5,y1,,0,,,,0,,,,
+x6,y1,13137,40,胡拱辰,胡拱辰 (13137) - Third son,,0,,,,

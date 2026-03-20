@@ -1,0 +1,13 @@
+group,variable,personID,value,text,info,entry,assoc_num,dynasty,yearBirth,yearDeath,examStatus
+x4,y3,,0,,,,0,,,,
+x5,y3,1722,60,杜杞,杜杞 (1722) - Father-in-law (wife's father),,8,宋,1005,1050,恩蔭(籠統)
+x6,y3,,0,,,,0,,,,
+x7,y3,,0,,,,0,,,,
+x4,y2,,0,,,,0,,,,
+x5,y2,1087,100,李竦,李竦 (1087) - Ego,entry,5,宋,0,0,
+x6,y2,5070,-80,杜氏(李竦妻),杜氏(李竦妻) (5070) - Wife,,0,,,,
+x7,y2,,0,,,,0,,,,
+x4,y1,21174,20,關沅,關沅 (21174) - Son-in-law,,0,,,,
+x5,y1,,0,,,,0,,,,
+x6,y1,21175,20,檀宗臣,檀宗臣 (21175) - Son-in-law,,0,,,,
+x7,y1,21178,20,張近,張近 (21178) - Son-in-law,,0,,,,

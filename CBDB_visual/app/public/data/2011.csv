@@ -1,0 +1,7 @@
+group,variable,personID,value,text,info,entry,assoc_num,dynasty,yearBirth,yearDeath,examStatus
+x3,y3,,0,,,,0,,,,
+x4,y3,,0,,,,0,,,,
+x5,y3,22548,-100,楊希閔,楊希閔 (22548) - Father,,0,,,,
+x3,y2,22550,-20,楊日休,楊日休 (22550) - Younger brother,,0,,,,
+x4,y2,2012,-20,楊日嚴,楊日嚴 (2012) - Younger brother,,4,宋,0,0,科舉: 進士(籠統)
+x5,y2,2011,100,楊日華,楊日華 (2011) - Ego,entry,3,宋,0,0,科舉: 進士(籠統)

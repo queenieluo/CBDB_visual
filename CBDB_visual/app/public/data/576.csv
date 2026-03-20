@@ -1,0 +1,7 @@
+group,variable,personID,value,text,info,entry,assoc_num,dynasty,yearBirth,yearDeath,examStatus
+x4,y3,569,-100,范諷,范諷 (569) - Father,,5,宋,0,0,科舉: 進士(籠統)
+x5,y3,,0,,,,0,,,,
+x6,y3,642,60,韓琚,韓琚 (642) - Father-in-law (wife's father),,4,宋,989,1040,科舉: 進士(籠統) (1015)
+x4,y2,,0,,,,0,,,,
+x5,y2,576,100,范寬之,范寬之 (576) - Ego,entry,2,宋,0,0,
+x6,y2,,0,,,,0,,,,

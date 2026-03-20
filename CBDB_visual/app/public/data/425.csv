@@ -1,0 +1,13 @@
+group,variable,personID,value,text,info,entry,assoc_num,dynasty,yearBirth,yearDeath,examStatus
+x2,y3,,0,,,,0,,,,
+x3,y3,,0,,,,0,,,,
+x4,y3,,0,,,,0,,,,
+x5,y3,12753,-100,鄭文遂,鄭文遂 (12753) - Father,,0,,,,
+x2,y2,12754,-20,鄭戭,鄭戭 (12754) - Younger brother,,0,,,,
+x3,y2,8179,-20,鄭戡,鄭戡 (8179) - Younger brother,,0,,,,
+x4,y2,411,-20,鄭戩,鄭戩 (411) - Younger brother,,12,宋,992,1053,科舉: 正奏名進士 (1024)
+x5,y2,425,100,鄭載,鄭載 (425) - Ego,entry,5,宋,0,0,科舉: 進士(籠統) (1000)
+x2,y1,,0,,,,0,,,,
+x3,y1,,0,,,,0,,,,
+x4,y1,,0,,,,0,,,,
+x5,y1,7186,40,鄭民彝,鄭民彝 (7186) - Nephew (brother's son),,0,,,,

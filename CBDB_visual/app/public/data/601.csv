@@ -1,0 +1,7 @@
+group,variable,personID,value,text,info,entry,assoc_num,dynasty,yearBirth,yearDeath,examStatus
+x4,y3,23968,-100,方勻,方勻 (23968) - Father,,0,,,,
+x5,y3,,0,,,,0,,,,
+x6,y3,134737,-40,孔氏(方師尹母),孔氏(方師尹母) (134737) - Mother,,0,,,,
+x4,y2,,0,,,,0,,,,
+x5,y2,601,100,方師尹,方師尹 (601) - Ego,entry,3,宋,1100,0,科舉: 進士(籠統) (1148)
+x6,y2,134738,-80,傅氏(方師尹妻),傅氏(方師尹妻) (134738) - Wife,,0,,,,

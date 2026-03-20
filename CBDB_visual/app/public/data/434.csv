@@ -1,0 +1,7 @@
+group,variable,personID,value,text,info,entry,assoc_num,dynasty,yearBirth,yearDeath,examStatus
+x4,y3,444,-100,賈收,賈收 (444) - Father,,2,宋,0,0,
+x5,y3,,0,,,,0,,,,
+x6,y3,10451,60,慕容彥逢,慕容彥逢 (10451) - Father-in-law (wife's father),,0,,,,
+x4,y2,,0,,,,0,,,,
+x5,y2,434,100,賈安宅,賈安宅 (434) - Ego,entry,2,宋,0,0,科舉: 進士(籠統) (1109)
+x6,y2,,0,,,,0,,,,

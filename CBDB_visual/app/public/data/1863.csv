@@ -1,0 +1,10 @@
+group,variable,personID,value,text,info,entry,assoc_num,dynasty,yearBirth,yearDeath,examStatus
+x4,y3,,0,,,,0,,,,
+x5,y3,22226,-100,王淮,王淮 (22226) - Father,,0,,,,
+x6,y3,,0,,,,0,,,,
+x4,y2,10211,-20,王當,王當 (10211) - Elder brother,,0,,,,
+x5,y2,1863,100,王賞,王賞 (1863) - Ego,entry,4,宋,0,1149,科舉: 進士(籠統) (1103)
+x6,y2,,0,,,,0,,,,
+x4,y1,10212,40,王稱,王稱 (10212) - Son,,0,,,,
+x5,y1,,0,,,,0,,,,
+x6,y1,22227,40,王養心,王養心 (22227) - Grandson,,0,,,,

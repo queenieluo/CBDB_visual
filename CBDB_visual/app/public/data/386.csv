@@ -1,0 +1,10 @@
+group,variable,personID,value,text,info,entry,assoc_num,dynasty,yearBirth,yearDeath,examStatus
+x4,y3,,0,,,,0,,,,
+x5,y3,16012,-100,趙士雋,趙士雋 (16012) - Father,,0,,,,
+x6,y3,,0,,,,0,,,,
+x4,y2,10497,-20,趙士坦,趙士坦 (10497) - Clan uncle,,0,,,,
+x5,y2,386,100,趙不愚,趙不愚 (386) - Ego,entry,4,宋,0,0,科舉: 進士(籠統) (1160)
+x6,y2,,0,,,,0,,,,
+x4,y1,14774,40,趙善毅,趙善毅 (14774) - First son,,0,,,,
+x5,y1,,0,,,,0,,,,
+x6,y1,14775,40,趙善韸,趙善韸 (14775) - Second son,,0,,,,

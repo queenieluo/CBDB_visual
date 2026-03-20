@@ -1,0 +1,10 @@
+group,variable,personID,value,text,info,entry,assoc_num,dynasty,yearBirth,yearDeath,examStatus
+x4,y3,,0,,,,0,,,,
+x5,y3,15827,-100,紀霖,紀霖 (15827) - Father,,0,,,,
+x6,y3,,0,,,,0,,,,
+x4,y2,,0,,,,0,,,,
+x5,y2,2117,100,紀交,紀交 (2117) - Ego,entry,3,宋,,1148,科舉: 正奏名進士 (1109)
+x6,y2,,0,,,,0,,,,
+x4,y1,15829,40,紀旬,紀旬 (15829) - Son,,0,,,,
+x5,y1,,0,,,,0,,,,
+x6,y1,15830,40,紀匊,紀匊 (15830) - Son,,0,,,,

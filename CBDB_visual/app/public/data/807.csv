@@ -1,0 +1,5 @@
+group,variable,personID,value,text,info,entry,assoc_num,dynasty,yearBirth,yearDeath,examStatus
+x5,y4,810,-40,薛映,薛映 (810) - Grandfather,,7,宋,950,1023,科舉: 進士(籠統) (992)
+x5,y3,18823,-100,薛耀卿,薛耀卿 (18823) - Father,,0,,,,
+x5,y2,807,100,薛紳,薛紳 (807) - Ego,entry,3,宋,0,0,
+x5,y1,449,20,賈黯,賈黯 (449) - Son-in-law,,7,宋,,,科舉: 進士(籠統) (1046)

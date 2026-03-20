@@ -1,0 +1,7 @@
+group,variable,personID,value,text,info,entry,assoc_num,dynasty,yearBirth,yearDeath,examStatus
+x4,y3,,0,,,,0,,,,
+x5,y3,15958,-100,賈,賈 (15958) - Father,,0,,,,
+x4,y2,3212,40,趙宗旦,趙宗旦 (3212) - Granddaughter's husband,,0,,,,
+x5,y2,446,100,賈宗,賈宗 (446) - Ego,entry,3,宋,0,0,
+x4,y1,,0,,,,0,,,,
+x5,y1,5019,40,賈氏(趙宗旦妻),賈氏(趙宗旦妻) (5019) - Granddaughter,,0,,,,

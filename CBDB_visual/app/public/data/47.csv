@@ -1,0 +1,4 @@
+group,variable,personID,value,text,info,entry,assoc_num,dynasty,yearBirth,yearDeath,examStatus
+x5,y3,14542,-100,陳逸,陳逸 (14542) - Father,,0,,,,
+x5,y2,47,100,陳向,陳向 (47) - Ego,entry,2,宋,,,科舉: 進士(籠統) (1059)
+x5,y1,745,20,徐處仁,徐處仁 (745) - Son-in-law,,6,宋,,,科舉: 進士(籠統)

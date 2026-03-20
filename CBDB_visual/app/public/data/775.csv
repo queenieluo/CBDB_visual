@@ -1,0 +1,7 @@
+group,variable,personID,value,text,info,entry,assoc_num,dynasty,yearBirth,yearDeath,examStatus
+x4,y3,,0,,,,0,,,,
+x5,y3,13023,-100,徐祁,徐祁 (13023) - Father,,0,,,,
+x4,y2,753,-20,徐禧,徐禧 (753) - Elder cousin (paternal),,16,宋,1043,1082,薦舉 (保任) (1070)
+x5,y2,775,100,徐禋,徐禋 (775) - Ego,entry,3,宋,0,0,恩蔭(籠統)
+x4,y1,,0,,,,0,,,,
+x5,y1,743,40,徐琛,徐琛 (743) - Son,,2,宋,0,0,科舉: 進士(籠統) (1132)

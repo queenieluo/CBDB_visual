@@ -1,0 +1,13 @@
+group,variable,personID,value,text,info,entry,assoc_num,dynasty,yearBirth,yearDeath,examStatus
+x4,y4,,0,,,,0,,,,
+x5,y4,10884,-40,陳俊卿,陳俊卿 (10884) - Grandfather,,0,,,,
+x6,y4,,0,,,,0,,,,
+x4,y3,,0,,,,0,,,,
+x5,y3,15040,-100,陳夏,陳夏 (15040) - Father,,0,,,,
+x6,y3,,0,,,,0,,,,
+x4,y2,15041,-20,陳咸,陳咸 (15041) - Elder brother,,0,,,,
+x5,y2,108,100,陳越,陳越 (108) - Ego,entry,5,宋,973,1012,科舉制舉: 賢良方正科 (1000)
+x6,y2,,0,,,,0,,,,
+x4,y1,26311,40,陳W,陳W (26311) - Nephew (brother's son),,0,,,,
+x5,y1,,0,,,,0,,,,
+x6,y1,26311,40,陳W,陳W (26311) - Adopted son,,0,,,,

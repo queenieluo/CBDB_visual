@@ -1,0 +1,7 @@
+group,variable,personID,value,text,info,entry,assoc_num,dynasty,yearBirth,yearDeath,examStatus
+x3,y4,,0,,,,0,,,,
+x4,y4,,0,,,,0,,,,
+x5,y4,705,-40,向敏中,向敏中 (705) - Great-grandfather,,53,宋,948,1019,科舉: 進士(籠統) (980)
+x3,y2,9006,-20,趙頊,趙頊 (9006) - Wife's brother,,0,,,,
+x4,y2,710,-20,向宗旦,向宗旦 (710) - Younger brother,,4,宋,0,0,
+x5,y2,711,100,向宗道,向宗道 (711) - Ego,entry,3,宋,0,0,

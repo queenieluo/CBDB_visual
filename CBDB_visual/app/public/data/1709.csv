@@ -1,0 +1,5 @@
+group,variable,personID,value,text,info,entry,assoc_num,dynasty,yearBirth,yearDeath,examStatus
+x4,y4,,0,,,,0,,,,
+x5,y4,1695,-40,曾孝寬,曾孝寬 (1695) - Grandfather,,6,宋,,,恩蔭(籠統)
+x4,y2,8136,-20,曾公亮,曾公亮 (8136) - Great-grandfather's brother,,0,,,,
+x5,y2,1709,100,曾慥,曾慥 (1709) - Ego,entry,2,宋,,1155,

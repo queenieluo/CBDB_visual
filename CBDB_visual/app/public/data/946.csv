@@ -1,0 +1,9 @@
+group,variable,personID,value,text,info,entry,assoc_num,dynasty,yearBirth,yearDeath,examStatus
+x2,y3,,0,,,,0,,,,
+x3,y3,,0,,,,0,,,,
+x4,y3,,0,,,,0,,,,
+x5,y3,960,-20,郭大亨,郭大亨 (960) - Uncle (father's brother),,6,宋,0,0,薦舉 (保任)
+x2,y2,19470,-20,郭倫,郭倫 (19470) - Elder brother,,0,,,,
+x3,y2,19472,-20,郭行中,郭行中 (19472) - Cousin (father's brother's son),,0,,,,
+x4,y2,19471,-20,郭執中,郭執中 (19471) - Cousin (father's brother's son),,0,,,,
+x5,y2,946,100,郭久中,郭久中 (946) - Ego,entry,4,宋,0,0,科舉: 進士(籠統) (1103)

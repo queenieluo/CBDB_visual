@@ -1,0 +1,16 @@
+group,variable,personID,value,text,info,entry,assoc_num,dynasty,yearBirth,yearDeath,examStatus
+x3,y3,,0,,,,0,,,,
+x4,y3,,0,,,,0,,,,
+x5,y3,20671,-100,馬應圖,馬應圖 (20671) - Father,,0,,,,
+x6,y3,,0,,,,0,,,,
+x7,y3,,0,,,,0,,,,
+x3,y2,,0,,,,0,,,,
+x4,y2,119500,-20,馬元吉,馬元吉 (119500) - Elder brother,,0,,,,
+x5,y2,1355,100,馬元方,馬元方 (1355) - Ego,entry,6,宋,0,0,科舉: 進士(籠統) (992)
+x6,y2,,0,,,,0,,,,
+x7,y2,,0,,,,0,,,,
+x3,y1,20672,40,馬僑,馬僑 (20672) - Son,,0,,,,
+x4,y1,1338,40,馬承家,馬承家 (1338) - Great-great-grandson,,1,宋,0,0,
+x5,y1,,0,,,,0,,,,
+x6,y1,1339,40,馬承定,馬承定 (1339) - Great-great-grandson,,1,宋,0,0,
+x7,y1,3664,40,馬承休,馬承休 (3664) - Great-great-grandson,,0,,,,

@@ -1,0 +1,4 @@
+group,variable,personID,value,text,info,entry,assoc_num,dynasty,yearBirth,yearDeath,examStatus
+x5,y3,3060,-20,陳卓,陳卓 (3060) - Uncle (father's brother),,0,,,,
+x5,y2,61,100,陳康民,陳康民 (61) - Ego,entry,2,宋,0,0,科舉: 進士(籠統)
+x5,y1,22,40,陳求道,陳求道 (22) - Son,,4,宋,0,1130,科舉: 進士(籠統)

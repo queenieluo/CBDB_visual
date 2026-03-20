@@ -1,0 +1,11 @@
+group,variable,personID,value,text,info,entry,assoc_num,dynasty,yearBirth,yearDeath,examStatus
+x1,y3,,0,,,,0,,,,
+x2,y3,,0,,,,0,,,,
+x3,y3,,0,,,,0,,,,
+x4,y3,,0,,,,0,,,,
+x5,y3,67,-100,陳貫,陳貫 (67) - Father,,16,宋,,,科舉: 進士(籠統) (1005)
+x1,y2,34100,-20,陳安禮,陳安禮 (34100) - Younger brother,,0,,,,
+x2,y2,18,-20,陳安道,陳安道 (18) - Younger brother,,6,宋,0,0,
+x3,y2,3047,-20,陳安定,陳安定 (3047) - Elder brother,,0,,,,
+x4,y2,17,-20,陳安石,陳安石 (17) - Elder brother,,6,宋,1014,1094,科舉: 進士(籠統) (1061)
+x5,y2,15,100,陳安期,陳安期 (15) - Ego,entry,5,宋,0,0,

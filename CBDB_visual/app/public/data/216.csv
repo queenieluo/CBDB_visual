@@ -1,0 +1,7 @@
+group,variable,personID,value,text,info,entry,assoc_num,dynasty,yearBirth,yearDeath,examStatus
+x4,y3,11705,-100,張君奭,張君奭 (11705) - Father,,0,,,,
+x5,y3,,0,,,,0,,,,
+x6,y3,402,60,趙揚,趙揚 (402) - Father-in-law (wife's father),,7,宋,0,0,科舉: 進士(籠統) (1057)
+x4,y2,,0,,,,0,,,,
+x5,y2,216,100,張諤,張諤 (216) - Ego,entry,2,宋,,1126,科舉: 進士(籠統) (1115)
+x6,y2,,0,,,,0,,,,

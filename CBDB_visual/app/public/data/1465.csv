@@ -1,0 +1,5 @@
+group,variable,personID,value,text,info,entry,assoc_num,dynasty,yearBirth,yearDeath,examStatus
+x5,y3,3723,-100,施大任,施大任 (3723) - Father,,0,,,,
+x6,y3,,0,,,,0,,,,
+x5,y2,1465,100,施坰,施坰 (1465) - Ego,entry,2,宋,0,0,科舉: 進士(籠統) (1106)
+x6,y2,42994,-80,李氏(施坰妻),李氏(施坰妻) (42994) - Wife,,0,,,,

@@ -1,0 +1,10 @@
+group,variable,personID,value,text,info,entry,assoc_num,dynasty,yearBirth,yearDeath,examStatus
+x4,y4,,0,,,,0,,,,
+x5,y4,8075,-40,李昉,李昉 (8075) - Grandfather,,0,,,,
+x6,y4,,0,,,,0,,,,
+x4,y3,279,60,張士遜,張士遜 (279) - Father-in-law (wife's father),,9,宋,964,1049,科舉: 進士(籠統) (992)
+x5,y3,,0,,,,0,,,,
+x6,y3,3541,-20,李宗諤,李宗諤 (3541) - Uncle (father's brother),,0,,,,
+x4,y2,,0,,,,0,,,,
+x5,y2,986,100,李昭遘,李昭遘 (986) - Ego,entry,3,宋,,1059,薦舉 (保任)
+x6,y2,,0,,,,0,,,,

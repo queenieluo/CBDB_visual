@@ -1,0 +1,9 @@
+group,variable,personID,value,text,info,entry,assoc_num,dynasty,yearBirth,yearDeath,examStatus
+x3,y3,,0,,,,0,,,,
+x4,y3,18664,-100,薛得輿,薛得輿 (18664) - Father,,0,,,,
+x5,y3,,0,,,,0,,,,
+x6,y3,255,60,張根,張根 (255) - Father-in-law (wife's father),,14,宋,1062,1121,科舉: 進士(籠統) (1082)
+x3,y2,3390,-20,薛良貴,薛良貴 (3390) - Younger brother,,0,,,,
+x4,y2,805,-20,薛良朋,薛良朋 (805) - Younger brother,,5,宋,1116,1185,科舉: 進士(籠統) (1138)
+x5,y2,804,100,薛良顯,薛良顯 (804) - Ego,entry,4,宋,0,0,科舉: 進士(籠統) (1103)
+x6,y2,,0,,,,0,,,,

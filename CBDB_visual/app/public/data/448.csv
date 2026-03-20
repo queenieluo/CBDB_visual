@@ -1,0 +1,16 @@
+group,variable,personID,value,text,info,entry,assoc_num,dynasty,yearBirth,yearDeath,examStatus
+x3,y3,,0,,,,0,,,,
+x4,y3,,0,,,,0,,,,
+x5,y3,11746,-100,賈緯,賈緯 (11746) - Father,,0,,,,
+x6,y3,,0,,,,0,,,,
+x7,y3,,0,,,,0,,,,
+x3,y2,8031,40,賈昌朝,賈昌朝 (8031) - Grand-nephew (brother's grandson),,0,,,,
+x4,y2,435,40,賈昌衡,賈昌衡 (435) - Grand-nephew (brother's grandson),,4,宋,0,1090,科舉: 進士(籠統)
+x5,y2,448,100,賈琰,賈琰 (448) - Ego,entry,7,宋,,977,恩蔭(籠統)
+x6,y2,,0,,,,0,,,,
+x7,y2,,0,,,,0,,,,
+x3,y1,11749,40,賈汾,賈汾 (11749) - Son,,0,,,,
+x4,y1,11751,40,賈湜,賈湜 (11751) - Son,,0,,,,
+x5,y1,,0,,,,0,,,,
+x6,y1,3218,40,賈昌符,賈昌符 (3218) - Grandson,,0,,,,
+x7,y1,7020,40,賈蕃,賈蕃 (7020) - Great-grandson,,0,,,,

@@ -1,0 +1,9 @@
+group,variable,personID,value,text,info,entry,assoc_num,dynasty,yearBirth,yearDeath,examStatus
+x4,y2,906,-20,高鑄,高鑄 (906) - Cousin (father's brother's son),,1,宋,0,0,
+x5,y2,919,100,高鎛,高鎛 (919) - Ego,entry,4,宋,0,0,科舉: 進士(籠統) (1061)
+x6,y2,,0,,,,0,,,,
+x7,y2,,0,,,,0,,,,
+x4,y1,928,40,高衛,高衛 (928) - Son,,4,宋,0,0,
+x5,y1,,0,,,,0,,,,
+x6,y1,44557,40,高祚,高祚 (44557) - Grandson,,0,,,,
+x7,y1,5062,40,王靜明,王靜明 (5062) - Daughter-in-law (son's wife),,0,,,,

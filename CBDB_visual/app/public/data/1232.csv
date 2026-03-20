@@ -1,0 +1,7 @@
+group,variable,personID,value,text,info,entry,assoc_num,dynasty,yearBirth,yearDeath,examStatus
+x3,y3,,0,,,,0,,,,
+x4,y3,,0,,,,0,,,,
+x5,y3,20343,-100,劉濟,劉濟 (20343) - Father,,0,,,,
+x3,y2,20344,40,劉,劉 (20344) - Only surviving son,,0,,,,
+x4,y2,67,-20,陳貫,陳貫 (67) - Marriage relative,,16,宋,,,科舉: 進士(籠統) (1005)
+x5,y2,1232,100,劉隨,劉隨 (1232) - Ego,entry,3,宋,971,1035,科舉: 進士(籠統) (1005)

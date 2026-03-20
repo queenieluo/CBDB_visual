@@ -1,0 +1,13 @@
+group,variable,personID,value,text,info,entry,assoc_num,dynasty,yearBirth,yearDeath,examStatus
+x2,y3,,0,,,,0,,,,
+x3,y3,,0,,,,0,,,,
+x4,y3,,0,,,,0,,,,
+x5,y3,4190,-100,彭A,彭A (4190) - Father,,0,,,,
+x2,y2,13120,-20,彭汝發,彭汝發 (13120) - Younger brother,,0,,,,
+x3,y2,3708,-20,彭汝霖,彭汝霖 (3708) - Younger brother,,0,,,,
+x4,y2,3707,-20,彭汝方,彭汝方 (3707) - Younger brother,,0,,,,
+x5,y2,1400,100,彭汝礪,彭汝礪 (1400) - Ego,entry,5,宋,1041,1094,科舉: 正奏名進士 (1065)
+x2,y1,,0,,,,0,,,,
+x3,y1,,0,,,,0,,,,
+x4,y1,,0,,,,0,,,,
+x5,y1,7397,20,吳材,吳材 (7397) - Son-in-law,,0,,,,

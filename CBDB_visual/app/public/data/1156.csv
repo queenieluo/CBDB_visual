@@ -1,0 +1,16 @@
+group,variable,personID,value,text,info,entry,assoc_num,dynasty,yearBirth,yearDeath,examStatus
+x3,y3,,0,,,,0,,,,
+x4,y3,,0,,,,0,,,,
+x5,y3,20117,-100,林D,林D (20117) - Father,,0,,,,
+x6,y3,,0,,,,0,,,,
+x7,y3,,0,,,,0,,,,
+x3,y2,20202,40,林駿伯,林駿伯 (20202) - Great-grand-nephew,,0,,,,
+x4,y2,12462,-20,林之懿,林之懿 (12462) - Younger cousin (paternal),,0,,,,
+x5,y2,1156,100,林之奇,林之奇 (1156) - Ego,entry,6,宋,1112,1176,科舉: 進士(籠統) (1151)
+x6,y2,,0,,,,0,,,,
+x7,y2,,0,,,,0,,,,
+x3,y1,,0,,,,0,,,,
+x4,y1,12542,40,林子冲,林子冲 (12542) - Nephew (brother's son),,0,,,,
+x5,y1,,0,,,,0,,,,
+x6,y1,14136,20,陸侃,陸侃 (14136) - Son-in-law,,0,,,,
+x7,y1,20186,40,林耕,林耕 (20186) - Grandson,,0,,,,

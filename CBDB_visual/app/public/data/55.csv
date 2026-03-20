@@ -1,0 +1,13 @@
+group,variable,personID,value,text,info,entry,assoc_num,dynasty,yearBirth,yearDeath,examStatus
+x3,y3,,0,,,,0,,,,
+x4,y3,7102,-100,陳見素,陳見素 (7102) - Father,,0,,,,
+x5,y3,,0,,,,0,,,,
+x6,y3,7034,60,謝綸,謝綸 (7034) - Father-in-law (wife's father),,0,,,,
+x3,y2,7112,40,饒蒙,饒蒙 (7112) - Granddaughter's husband,,0,,,,
+x4,y2,103,40,陳彥武,陳彥武 (103) - Seventh son,,1,宋,0,0,
+x5,y2,55,100,陳繹,陳繹 (55) - Ego,entry,5,宋,1021,1088,科舉: 進士(籠統) (1042)
+x6,y2,,0,,,,0,,,,
+x3,y1,,0,,,,0,,,,
+x4,y1,,0,,,,0,,,,
+x5,y1,7100,20,姚甫,姚甫 (7100) - Son-in-law,,0,,,,
+x6,y1,,0,,,,0,,,,

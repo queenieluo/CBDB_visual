@@ -1,0 +1,7 @@
+group,variable,personID,value,text,info,entry,assoc_num,dynasty,yearBirth,yearDeath,examStatus
+x4,y3,7046,-100,劉光世,劉光世 (7046) - Father,,0,,,,
+x5,y3,,0,,,,0,,,,
+x6,y3,27310,60,李晞說,李晞說 (27310) - Father-in-law (wife's father),,0,,,,
+x4,y2,,0,,,,0,,,,
+x5,y2,1250,100,劉堯仁,劉堯仁 (1250) - Ego,entry,2,宋,0,0,
+x6,y2,,0,,,,0,,,,

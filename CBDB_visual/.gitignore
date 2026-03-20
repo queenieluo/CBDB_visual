@@ -1,0 +1,11 @@
+node_modules/
+app/dist/
+.DS_Store
+*.zip
+demo/
+website/
+*.html
+!app/**/*.html
+meeting*.txt
+may*.txt
+.claude/

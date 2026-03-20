@@ -1,0 +1,13 @@
+group,variable,personID,value,text,info,entry,assoc_num,dynasty,yearBirth,yearDeath,examStatus
+x4,y3,15269,-100,曹勛,曹勛 (15269) - Father,,0,,,,
+x5,y3,,0,,,,0,,,,
+x6,y3,15264,60,洪光祖,洪光祖 (15264) - Father-in-law (wife's father),,0,,,,
+x7,y3,,0,,,,0,,,,
+x4,y2,,0,,,,0,,,,
+x5,y2,1668,100,曹耜,曹耜 (1668) - Ego,entry,5,宋,1137,1197,恩蔭: 大禮蔭補 (1149)
+x6,y2,,0,,,,0,,,,
+x7,y2,,0,,,,0,,,,
+x4,y1,35737,40,曹恕,曹恕 (35737) - First son,,0,,,,
+x5,y1,,0,,,,0,,,,
+x6,y1,35738,40,曹志,曹志 (35738) - Second son,,0,,,,
+x7,y1,35739,40,曹復,曹復 (35739) - Grandson,,0,,,,

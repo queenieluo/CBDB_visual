@@ -1,0 +1,16 @@
+group,variable,personID,value,text,info,entry,assoc_num,dynasty,yearBirth,yearDeath,examStatus
+x3,y3,,0,,,,0,,,,
+x4,y3,,0,,,,0,,,,
+x5,y3,3618,-100,樓异,樓异 (3618) - Father,,0,,,,
+x6,y3,,0,,,,0,,,,
+x7,y3,,0,,,,0,,,,
+x3,y2,,0,,,,0,,,,
+x4,y2,3948,-20,王正己,王正己 (3948) - Wife's brother,,0,,,,
+x5,y2,1265,100,樓璹,樓璹 (1265) - Ego,entry,6,宋,,,恩蔭(籠統)
+x6,y2,,0,,,,0,,,,
+x7,y2,,0,,,,0,,,,
+x3,y1,3616,40,樓鈞,樓鈞 (3616) - Nephew (brother's son),,0,,,,
+x4,y1,3622,40,樓錝,樓錝 (3622) - Nephew (brother's son),,0,,,,
+x5,y1,,0,,,,0,,,,
+x6,y1,3620,40,樓鏜,樓鏜 (3620) - Second son,,0,,,,
+x7,y1,19970,40,樓淵,樓淵 (19970) - Grandson,,0,,,,

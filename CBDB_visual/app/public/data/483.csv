@@ -1,0 +1,10 @@
+group,variable,personID,value,text,info,entry,assoc_num,dynasty,yearBirth,yearDeath,examStatus
+x3,y3,,0,,,,0,,,,
+x4,y3,,0,,,,0,,,,
+x5,y3,16382,-100,周亨,周亨 (16382) - Father,,0,,,,
+x3,y2,16391,40,曾綸,曾綸 (16391) - Granddaughter's husband,,0,,,,
+x4,y2,16371,40,莫伯輿,莫伯輿 (16371) - Granddaughter's husband,,0,,,,
+x5,y2,483,100,周之道,周之道 (483) - Ego,entry,4,宋,1030,1100,科舉: 進士(籠統) (1053)
+x3,y1,,0,,,,0,,,,
+x4,y1,,0,,,,0,,,,
+x5,y1,16389,20,呂益柔,呂益柔 (16389) - Son-in-law,,0,,,,

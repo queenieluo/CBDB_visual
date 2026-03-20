@@ -1,0 +1,13 @@
+group,variable,personID,value,text,info,entry,assoc_num,dynasty,yearBirth,yearDeath,examStatus
+x3,y3,,0,,,,0,,,,
+x4,y3,,0,,,,0,,,,
+x5,y3,37623,-100,鮑粹,鮑粹 (37623) - Father,,0,,,,
+x6,y3,,0,,,,0,,,,
+x3,y2,23367,-20,鮑大百,鮑大百 (23367) - Great-grandfather's brother,,0,,,,
+x4,y2,17404,-20,鮑大易,鮑大易 (17404) - Great-grandfather's brother,,0,,,,
+x5,y2,1414,100,鮑由,鮑由 (1414) - Ego,entry,5,宋,,,科舉: 進士(籠統) (1091)
+x6,y2,,0,,,,0,,,,
+x3,y1,,0,,,,0,,,,
+x4,y1,17406,40,鮑彪,鮑彪 (17406) - Nephew (brother's son),,0,,,,
+x5,y1,,0,,,,0,,,,
+x6,y1,37624,40,鮑延祖,鮑延祖 (37624) - Son,,0,,,,

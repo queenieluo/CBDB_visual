@@ -1,0 +1,5 @@
+group,variable,personID,value,text,info,entry,assoc_num,dynasty,yearBirth,yearDeath,examStatus
+x4,y3,,0,,,,0,,,,
+x5,y3,8166,-100,楊礪,楊礪 (8166) - Father,,0,,,,
+x4,y2,2033,-20,楊嵎,楊嵎 (2033) - Brother,,1,宋,0,0,科舉學校: 恩賜出身、特賜出身等
+x5,y2,1999,100,楊嶠,楊嶠 (1999) - Ego,entry,2,宋,0,0,

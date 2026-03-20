@@ -1,0 +1,5 @@
+group,variable,personID,value,text,info,entry,assoc_num,dynasty,yearBirth,yearDeath,examStatus
+x4,y3,,0,,,,0,,,,
+x5,y3,1575,-20,宋綬,宋綬 (1575) - Uncle (father's brother),,8,宋,991,1040,科舉: 制舉 (籠統) (1008)
+x4,y2,1571,-20,宋敏求,宋敏求 (1571) - Elder cousin (paternal),,10,宋,1019,1079,科舉學校: 恩賜出身、特賜出身等 (1039)
+x5,y2,1556,100,宋昌言,宋昌言 (1556) - Ego,entry,2,宋,0,0,恩蔭(籠統)

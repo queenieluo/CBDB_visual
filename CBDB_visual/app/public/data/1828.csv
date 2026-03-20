@@ -1,0 +1,7 @@
+group,variable,personID,value,text,info,entry,assoc_num,dynasty,yearBirth,yearDeath,examStatus
+x4,y3,1877,-100,王曙,王曙 (1877) - Father,,17,宋,963,1034,科舉: 進士(籠統) (992)
+x5,y3,,0,,,,0,,,,
+x6,y3,11770,60,裴德裕,裴德裕 (11770) - Father-in-law (wife's father),,0,,,,
+x4,y2,22054,-20,王益恭,王益恭 (22054) - Elder brother,,0,,,,
+x5,y2,1828,100,王益柔,王益柔 (1828) - Ego,entry,3,宋,1015,1086,恩蔭(籠統)
+x6,y2,,0,,,,0,,,,

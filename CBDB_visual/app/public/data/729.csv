@@ -1,0 +1,9 @@
+group,variable,personID,value,text,info,entry,assoc_num,dynasty,yearBirth,yearDeath,examStatus
+x4,y3,4165,-100,謝微,謝微 (4165) - Father,,0,,,,
+x5,y3,,0,,,,0,,,,
+x6,y3,1651,60,蔡襄,蔡襄 (1651) - Father-in-law (wife's father),,21,宋,1012,1067,科舉: 進士(籠統) (1030)
+x7,y3,861,-20,黃宗旦,黃宗旦 (861) - Uncle (mother's brother),,6,宋,0,0,科舉: 正奏名進士 (998)
+x4,y2,,0,,,,0,,,,
+x5,y2,729,100,謝仲規,謝仲規 (729) - Ego,entry,3,宋,0,0,科舉: 進士(籠統) (1049)
+x6,y2,,0,,,,0,,,,
+x7,y2,,0,,,,0,,,,

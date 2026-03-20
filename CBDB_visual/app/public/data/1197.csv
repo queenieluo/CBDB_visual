@@ -1,0 +1,7 @@
+group,variable,personID,value,text,info,entry,assoc_num,dynasty,yearBirth,yearDeath,examStatus
+x4,y2,10623,-20,劉筠,劉筠 (10623) - Clan uncle,,0,,,,
+x5,y2,1197,100,劉航,劉航 (1197) - Ego,entry,4,宋,0,0,科舉: 進士(籠統) (1038)
+x6,y2,339338,-80,李氏(劉航妻),李氏(劉航妻) (339338) - Wife,,0,,,,
+x4,y1,7045,40,劉安世,劉安世 (7045) - Son,,0,,,,
+x5,y1,,0,,,,0,,,,
+x6,y1,1223,40,劉伯英,劉伯英 (1223) - Grandson,,2,宋,0,0,

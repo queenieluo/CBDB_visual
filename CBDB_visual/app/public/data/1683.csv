@@ -1,0 +1,5 @@
+group,variable,personID,value,text,info,entry,assoc_num,dynasty,yearBirth,yearDeath,examStatus
+x4,y3,,0,,,,0,,,,
+x5,y3,21818,-100,崔敏中,崔敏中 (21818) - Father,,0,,,,
+x4,y2,21820,-20,錢顗,錢顗 (21820) - Second wife's father,,0,,,,
+x5,y2,1683,100,崔遹,崔遹 (1683) - Ego,entry,2,宋,1049,1100,科舉: 正奏名諸科(不含明經、明法)

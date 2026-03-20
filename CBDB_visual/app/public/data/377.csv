@@ -1,0 +1,9 @@
+group,variable,personID,value,text,info,entry,assoc_num,dynasty,yearBirth,yearDeath,examStatus
+x4,y3,10458,-100,趙子漪,趙子漪 (10458) - Father,,0,,,,
+x5,y3,,0,,,,0,,,,
+x6,y3,19329,60,李復,李復 (19329) - Father-in-law (wife's father),,0,,,,
+x7,y3,27343,60,張宗望,張宗望 (27343) - Father-in-law (wife's father),,0,,,,
+x4,y2,,0,,,,0,,,,
+x5,y2,377,100,趙伯牛,趙伯牛 (377) - Ego,entry,3,宋,0,0,
+x6,y2,,0,,,,0,,,,
+x7,y2,,0,,,,0,,,,

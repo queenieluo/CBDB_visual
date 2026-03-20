@@ -1,0 +1,10 @@
+group,variable,personID,value,text,info,entry,assoc_num,dynasty,yearBirth,yearDeath,examStatus
+x4,y4,,0,,,,0,,,,
+x5,y4,98,-40,陳堯佐,陳堯佐 (98) - Great-grandfather,,18,宋,963,1044,科舉: 進士(籠統) (989)
+x6,y4,,0,,,,0,,,,
+x4,y3,14211,-100,陳知祥,陳知祥 (14211) - Father,,0,,,,
+x5,y3,,0,,,,0,,,,
+x6,y3,27198,60,胡G,胡G (27198) - Father-in-law (wife's father),,0,,,,
+x4,y2,15281,-20,陳蕡,陳蕡 (15281) - Younger cousin (paternal),,0,,,,
+x5,y2,101,100,陳兗,陳兗 (101) - Ego,entry,4,宋,,,恩蔭(籠統)
+x6,y2,,0,,,,0,,,,

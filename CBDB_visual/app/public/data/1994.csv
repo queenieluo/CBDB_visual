@@ -1,0 +1,10 @@
+group,variable,personID,value,text,info,entry,assoc_num,dynasty,yearBirth,yearDeath,examStatus
+x4,y3,119809,-100,楊居簡,楊居簡 (119809) - Father,,0,,,,
+x5,y3,,0,,,,0,,,,
+x6,y3,2073,60,晏殊,晏殊 (2073) - Father-in-law (wife's father),,27,宋,991,1055,科舉: 進士(籠統) (1005)
+x4,y2,22420,-20,楊寘,楊寘 (22420) - Younger brother,,0,,,,
+x5,y2,1994,100,楊察,楊察 (1994) - Ego,entry,5,宋,1011,1056,科舉: 進士(籠統) (1034)
+x6,y2,,0,,,,0,,,,
+x4,y1,4051,40,楊庶,楊庶 (4051) - Nephew (brother's son),,0,,,,
+x5,y1,,0,,,,0,,,,
+x6,y1,4051,40,楊庶,楊庶 (4051) - Adopted son,,0,,,,

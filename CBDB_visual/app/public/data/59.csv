@@ -1,0 +1,10 @@
+group,variable,personID,value,text,info,entry,assoc_num,dynasty,yearBirth,yearDeath,examStatus
+x4,y3,99,-100,陳堯咨,陳堯咨 (99) - Father,,12,宋,0,0,科舉: 進士(籠統) (1000)
+x5,y3,,0,,,,0,,,,
+x6,y3,809,60,薛顏,薛顏 (809) - Father-in-law (wife's father),,7,宋,953,1025,科舉: 正奏名諸科(不含明經、明法)
+x4,y2,,0,,,,0,,,,
+x5,y2,59,100,陳榮古,陳榮古 (59) - Ego,entry,4,宋,0,0,
+x6,y2,,0,,,,0,,,,
+x4,y1,26471,40,陳知德,陳知德 (26471) - Son,,0,,,,
+x5,y1,,0,,,,0,,,,
+x6,y1,5389,40,陳氏(趙世瑞妻),陳氏(趙世瑞妻) (5389) - Granddaughter,,0,,,,

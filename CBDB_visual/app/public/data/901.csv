@@ -1,0 +1,9 @@
+group,variable,personID,value,text,info,entry,assoc_num,dynasty,yearBirth,yearDeath,examStatus
+x2,y3,,0,,,,0,,,,
+x3,y3,,0,,,,0,,,,
+x4,y3,,0,,,,0,,,,
+x5,y3,902,-100,孔延之,孔延之 (902) - Father,,8,宋,1014,1074,科舉: 進士(籠統) (1042)
+x2,y2,24201,-20,孔宗武,孔宗武 (24201) - 6th generation descendant,,0,,,,
+x3,y2,3439,-20,孔文仲,孔文仲 (3439) - Elder brother,,0,,,,
+x4,y2,3438,-20,孔武仲,孔武仲 (3438) - Elder brother,,0,,,,
+x5,y2,901,100,孔平仲,孔平仲 (901) - Ego,entry,4,宋,0,0,科舉: 正奏名進士 (1065)

@@ -1,0 +1,5 @@
+group,variable,personID,value,text,info,entry,assoc_num,dynasty,yearBirth,yearDeath,examStatus
+x4,y4,,0,,,,0,,,,
+x5,y4,16904,-40,范迪簡,范迪簡 (16904) - Grandfather,,0,,,,
+x4,y2,16910,40,范機,范機 (16910) - Grand-nephew (brother's grandson),,0,,,,
+x5,y2,563,100,范漴,范漴 (563) - Ego,entry,2,宋,0,0,薦舉 (保任)

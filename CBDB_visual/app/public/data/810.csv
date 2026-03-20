@@ -1,0 +1,13 @@
+group,variable,personID,value,text,info,entry,assoc_num,dynasty,yearBirth,yearDeath,examStatus
+x4,y3,3387,-100,薛允中,薛允中 (3387) - Father,,0,,,,
+x5,y3,,0,,,,0,,,,
+x6,y3,8076,60,李沆,李沆 (8076) - Father-in-law (wife's father),,0,,,,
+x7,y3,13515,60,王準,王準 (13515) - Father-in-law (wife's father),,0,,,,
+x4,y2,95047,-20,薛震,薛震 (95047) - 8th generation ancestor,,0,,,,
+x5,y2,810,100,薛映,薛映 (810) - Ego,entry,7,宋,950,1023,科舉: 進士(籠統) (992)
+x6,y2,,0,,,,0,,,,
+x7,y2,,0,,,,0,,,,
+x4,y1,3388,40,薛季卿,薛季卿 (3388) - Son,,0,,,,
+x5,y1,,0,,,,0,,,,
+x6,y1,18823,40,薛耀卿,薛耀卿 (18823) - Son,,0,,,,
+x7,y1,807,40,薛紳,薛紳 (807) - Grandson,,3,宋,0,0,
