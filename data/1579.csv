@@ -1,0 +1,13 @@
+group,variable,personID,value,text,info,entry,assoc_num,dynasty,yearBirth,yearDeath,examStatus
+x4,y3,,0,,,,0,,,,
+x5,y3,21446,-100,宋鸞,宋鸞 (21446) - Father,,0,,,,
+x6,y3,,0,,,,0,,,,
+x7,y3,,0,,,,0,,,,
+x4,y2,18433,40,宋寧遠,宋寧遠 (18433) - Fourth son,,0,,,,
+x5,y2,1579,100,宋璫,宋璫 (1579) - Ego,entry,5,宋,933,993,科舉: 進士(籠統) (967)
+x6,y2,,0,,,,0,,,,
+x7,y2,,0,,,,0,,,,
+x4,y1,18431,40,宋明遠,宋明遠 (18431) - First son,,0,,,,
+x5,y1,,0,,,,0,,,,
+x6,y1,18430,40,宋柔遠,宋柔遠 (18430) - Second son,,0,,,,
+x7,y1,18432,40,宋垂遠,宋垂遠 (18432) - Third son,,0,,,,

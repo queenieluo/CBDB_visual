@@ -1,0 +1,5 @@
+group,variable,personID,value,text,info,entry,assoc_num,dynasty,yearBirth,yearDeath,examStatus
+x4,y3,,0,,,,0,,,,
+x5,y3,34100,60,陳安禮,陳安禮 (34100) - Father-in-law (wife's father),,0,,,,
+x4,y2,593,-20,范雍,范雍 (593) - Great-grandfather's brother,,14,宋,979,1046,科舉: 正奏名進士 (1000)
+x5,y2,592,100,范域,范域 (592) - Ego,entry,2,宋,0,0,

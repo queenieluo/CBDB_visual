@@ -1,0 +1,7 @@
+group,variable,personID,value,text,info,entry,assoc_num,dynasty,yearBirth,yearDeath,examStatus
+x3,y3,,0,,,,0,,,,
+x4,y3,,0,,,,0,,,,
+x5,y3,24284,-100,許宗舉,許宗舉 (24284) - Father,,0,,,,
+x3,y2,11625,-20,汪藻,汪藻 (11625) - Marriage relative,,0,,,,
+x4,y2,375,-20,趙抃,趙抃 (375) - Wife's grandfather,,14,宋,1008,1084,科舉: 進士(籠統) (1049)
+x5,y2,780,100,許幾,許幾 (780) - Ego,entry,3,宋,1054,1115,科舉: 進士(籠統) (1073)

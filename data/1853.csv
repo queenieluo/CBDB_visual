@@ -1,0 +1,7 @@
+group,variable,personID,value,text,info,entry,assoc_num,dynasty,yearBirth,yearDeath,examStatus
+x4,y4,,0,,,,0,,,,
+x5,y4,12858,-40,王延,王延 (12858) - Grandfather,,0,,,,
+x4,y2,22118,-20,王淮,王淮 (22118) - Younger brother,,0,,,,
+x5,y2,1853,100,王沔,王沔 (1853) - Ego,entry,3,宋,950,992,科舉: 進士(籠統) (977)
+x4,y1,,0,,,,0,,,,
+x5,y1,12355,40,王睦,王睦 (12355) - Son,,0,,,,

@@ -1,0 +1,13 @@
+group,variable,personID,value,text,info,entry,assoc_num,dynasty,yearBirth,yearDeath,examStatus
+x3,y4,,0,,,,0,,,,
+x4,y4,,0,,,,0,,,,
+x5,y4,17911,-40,孫鎰,孫鎰 (17911) - Grandfather,,0,,,,
+x3,y3,,0,,,,0,,,,
+x4,y3,,0,,,,0,,,,
+x5,y3,17912,-100,孫庸,孫庸 (17912) - Father,,0,,,,
+x3,y2,17914,-20,孫侑,孫侑 (17914) - Younger brother,,0,,,,
+x4,y2,17913,-20,孫僅,孫僅 (17913) - Younger brother,,0,,,,
+x5,y2,1525,100,孫何,孫何 (1525) - Ego,entry,5,宋,961,1004,科舉: 正奏名進士 (992)
+x3,y1,,0,,,,0,,,,
+x4,y1,,0,,,,0,,,,
+x5,y1,120002,40,孫言,孫言 (120002) - Son,,0,,,,

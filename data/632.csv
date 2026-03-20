@@ -1,0 +1,22 @@
+group,variable,personID,value,text,info,entry,assoc_num,dynasty,yearBirth,yearDeath,examStatus
+x1,y4,,0,,,,0,,,,
+x2,y4,,0,,,,0,,,,
+x3,y4,,0,,,,0,,,,
+x4,y4,,0,,,,0,,,,
+x5,y4,8051,-40,韓維,韓維 (8051) - Grandfather,,0,,,,
+x6,y4,,0,,,,0,,,,
+x7,y4,,0,,,,0,,,,
+x1,y2,670,40,韓元龍,韓元龍 (670) - Grand-nephew (brother's grandson),,8,宋,0,0,恩蔭(籠統)
+x2,y2,669,40,韓元吉,韓元吉 (669) - Grand-nephew (brother's grandson),,11,宋,1118,1187,恩蔭(籠統)
+x3,y2,16825,-20,李宗任,李宗任 (16825) - Second wife's father,,0,,,,
+x4,y2,3041,-20,錢端義,錢端義 (3041) - First wife's father,,0,,,,
+x5,y2,632,100,韓球,韓球 (632) - Ego,entry,11,宋,,1150,
+x6,y2,5033,-20,李氏(韓球妻),李氏(韓球妻) (5033) - Second wife,,0,,,,
+x7,y2,,0,,,,0,,,,
+x1,y1,,0,,,,0,,,,
+x2,y1,,0,,,,0,,,,
+x3,y1,1363,20,孟充,孟充 (1363) - Son-in-law,,0,宋,0,0,
+x4,y1,13551,20,晁子健,晁子健 (13551) - Son-in-law,,0,,,,
+x5,y1,,0,,,,0,,,,
+x6,y1,37270,40,韓曮,韓曮 (37270) - First son,,0,,,,
+x7,y1,37271,40,韓歷,韓歷 (37271) - Second son,,0,,,,

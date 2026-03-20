@@ -1,0 +1,7 @@
+group,variable,personID,value,text,info,entry,assoc_num,dynasty,yearBirth,yearDeath,examStatus
+x4,y3,,0,,,,0,,,,
+x5,y3,22014,-100,王端甫,王端甫 (22014) - Father,,0,,,,
+x4,y2,630,-20,韓琦,韓琦 (630) - Wife's grandfather,,24,宋,1008,1075,科舉: 進士(籠統) (1027)
+x5,y2,1854,100,王敏文,王敏文 (1854) - Ego,entry,3,宋,0,0,
+x4,y1,,0,,,,0,,,,
+x5,y1,22015,40,王湘,王湘 (22015) - Son,,0,,,,

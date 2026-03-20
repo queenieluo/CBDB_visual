@@ -1,0 +1,10 @@
+group,variable,personID,value,text,info,entry,assoc_num,dynasty,yearBirth,yearDeath,examStatus
+x4,y3,,0,,,,0,,,,
+x5,y3,19653,-100,李磻,李磻 (19653) - Father,,0,,,,
+x6,y3,,0,,,,0,,,,
+x4,y2,19665,40,李鼐,李鼐 (19665) - Only son,,0,,,,
+x5,y2,1038,100,李宏,李宏 (1038) - Ego,entry,4,宋,1088,1154,科舉: 進士(籠統) (1115)
+x6,y2,,0,,,,0,,,,
+x4,y1,4032,20,翁升之,翁升之 (4032) - Son-in-law,,0,,,,
+x5,y1,,0,,,,0,,,,
+x6,y1,19666,40,李兼,李兼 (19666) - Grandson,,0,,,,

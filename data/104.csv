@@ -1,0 +1,10 @@
+group,variable,personID,value,text,info,entry,assoc_num,dynasty,yearBirth,yearDeath,examStatus
+x4,y3,,0,,,,0,,,,
+x5,y3,26496,-100,陳易,陳易 (26496) - Father,,0,,,,
+x6,y3,,0,,,,0,,,,
+x4,y2,,0,,,,0,,,,
+x5,y2,104,100,陳祐之,陳祐之 (104) - Ego,entry,3,宋,0,0,
+x6,y2,,0,,,,0,,,,
+x4,y1,5246,20,陳氏(趙仲全妻),陳氏(趙仲全妻) (5246) - Daughter,,0,,,,
+x5,y1,,0,,,,0,,,,
+x6,y1,16011,20,趙仲全,趙仲全 (16011) - Son-in-law,,0,,,,

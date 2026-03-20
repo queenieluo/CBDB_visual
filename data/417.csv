@@ -1,0 +1,10 @@
+group,variable,personID,value,text,info,entry,assoc_num,dynasty,yearBirth,yearDeath,examStatus
+x4,y4,,0,,,,0,,,,
+x5,y4,25256,-40,鄭太初,鄭太初 (25256) - Grandfather,,0,,,,
+x6,y4,,0,,,,0,,,,
+x4,y2,,0,,,,0,,,,
+x5,y2,417,100,鄭驤,鄭驤 (417) - Ego,entry,3,宋,0,1127,科舉: 進士(籠統) (1100)
+x6,y2,,0,,,,0,,,,
+x4,y1,406,40,鄭靄,鄭靄 (406) - Son,,1,宋,0,0,
+x5,y1,,0,,,,0,,,,
+x6,y1,408,40,鄭震,鄭震 (408) - Son,,1,宋,0,0,

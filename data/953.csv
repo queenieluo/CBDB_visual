@@ -1,0 +1,10 @@
+group,variable,personID,value,text,info,entry,assoc_num,dynasty,yearBirth,yearDeath,examStatus
+x4,y3,3458,-100,郭源明,郭源明 (3458) - Father,,0,,,,
+x5,y3,,0,,,,0,,,,
+x6,y3,7011,60,張諷,張諷 (7011) - Father-in-law (wife's father),,0,,,,
+x4,y2,8116,-20,蘇頌,蘇頌 (8116) - Wife's uncle,,0,,,,
+x5,y2,953,100,郭茂恂,郭茂恂 (953) - Ego,entry,5,宋,0,0,
+x6,y2,,0,,,,0,,,,
+x4,y1,24823,40,郭,郭 (24823) - Son,,0,,,,
+x5,y1,,0,,,,0,,,,
+x6,y1,8097,20,路允迪,路允迪 (8097) - Son-in-law,,0,,,,

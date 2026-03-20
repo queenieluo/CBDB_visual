@@ -1,0 +1,10 @@
+group,variable,personID,value,text,info,entry,assoc_num,dynasty,yearBirth,yearDeath,examStatus
+x4,y3,,0,,,,0,,,,
+x5,y3,11057,-100,楊灝,楊灝 (11057) - Father,,0,,,,
+x6,y3,,0,,,,0,,,,
+x4,y2,11059,40,楊光旦,楊光旦 (11059) - Fourth son,,0,,,,
+x5,y2,1996,100,楊椿,楊椿 (1996) - Ego,entry,4,宋,1095,1167,科舉: 進士(籠統) (1124)
+x6,y2,,0,,,,0,,,,
+x4,y1,22424,40,楊光祖,楊光祖 (22424) - Nephew (brother's son),,0,,,,
+x5,y1,,0,,,,0,,,,
+x6,y1,22425,40,楊環,楊環 (22425) - Grandson,,0,,,,

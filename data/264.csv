@@ -1,0 +1,10 @@
+group,variable,personID,value,text,info,entry,assoc_num,dynasty,yearBirth,yearDeath,examStatus
+x4,y3,21988,-100,張D,張D (21988) - Father,,0,,,,
+x5,y3,,0,,,,0,,,,
+x6,y3,46837,-40,駱氏(張嵲母),駱氏(張嵲母) (46837) - Mother,,0,,,,
+x4,y2,,0,,,,0,,,,
+x5,y2,264,100,張嵲,張嵲 (264) - Ego,entry,3,宋,1096,1148,學校: 上舍及第 (1121)
+x6,y2,,0,,,,0,,,,
+x4,y1,,0,,,,0,,,,
+x5,y1,119942,40,張昌時,張昌時 (119942) - Son,,0,,,,
+x6,y1,,0,,,,0,,,,

@@ -1,0 +1,11 @@
+group,variable,personID,value,text,info,entry,assoc_num,dynasty,yearBirth,yearDeath,examStatus
+x3,y2,,0,,,,0,,,,
+x4,y2,13711,-20,張照,張照 (13711) - Lineal ancestor,,0,,,,
+x5,y2,245,100,張若谷,張若谷 (245) - Ego,entry,5,宋,0,0,科舉: 進士(籠統) (992)
+x6,y2,,0,,,,0,,,,
+x7,y2,,0,,,,0,,,,
+x3,y1,3150,40,張奎,張奎 (3150) - Son,,0,,,,
+x4,y1,202,40,張覲,張覲 (202) - Grandson,,1,宋,0,0,
+x5,y1,,0,,,,0,,,,
+x6,y1,203,40,張靚,張靚 (203) - Grandson,,2,宋,0,0,科舉: 進士(籠統) (1070)
+x7,y1,13716,40,張洙,張洙 (13716) - Great-grandson,,0,,,,

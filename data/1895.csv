@@ -1,0 +1,7 @@
+group,variable,personID,value,text,info,entry,assoc_num,dynasty,yearBirth,yearDeath,examStatus
+x4,y3,,0,,,,0,,,,
+x5,y3,1922,-100,王沿,王沿 (1922) - Father,,3,宋,0,1044,科舉: 正奏名進士 (1024)
+x4,y2,3996,-20,王豫,王豫 (3996) - Younger brother,,0,,,,
+x5,y2,1895,100,王鼎,王鼎 (1895) - Ego,entry,3,宋,0,0,科舉: 進士(籠統)
+x4,y1,,0,,,,0,,,,
+x5,y1,24276,20,孫侔,孫侔 (24276) - Son-in-law,,0,,,,

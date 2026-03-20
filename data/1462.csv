@@ -1,0 +1,13 @@
+group,variable,personID,value,text,info,entry,assoc_num,dynasty,yearBirth,yearDeath,examStatus
+x4,y3,,0,,,,0,,,,
+x5,y3,20974,-100,師均,師均 (20974) - Father,,0,,,,
+x6,y3,,0,,,,0,,,,
+x7,y3,,0,,,,0,,,,
+x4,y2,3721,-20,師頌,師頌 (3721) - Elder brother,,0,,,,
+x5,y2,1462,100,師頏,師頏 (1462) - Ego,entry,5,宋,936,1002,科舉: 進士(籠統) (961)
+x6,y2,,0,,,,0,,,,
+x7,y2,,0,,,,0,,,,
+x4,y1,20975,40,師仲回,師仲回 (20975) - First son,,0,,,,
+x5,y1,,0,,,,0,,,,
+x6,y1,20976,40,師仲宰,師仲宰 (20976) - Second son,,0,,,,
+x7,y1,20977,40,師仲說,師仲說 (20977) - Third son,,0,,,,

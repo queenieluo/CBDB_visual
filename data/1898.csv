@@ -1,0 +1,5 @@
+group,variable,personID,value,text,info,entry,assoc_num,dynasty,yearBirth,yearDeath,examStatus
+x4,y3,,0,,,,0,,,,
+x5,y3,1933,-100,王說,王說 (1933) - Father,,9,宋,1028,1101,科舉: 進士(籠統)
+x4,y2,8116,-20,蘇頌,蘇頌 (8116) - Wife's grandfather,,0,,,,
+x5,y2,1898,100,王琮,王琮 (1898) - Ego,entry,2,宋,0,1154,科舉: 進士(籠統)

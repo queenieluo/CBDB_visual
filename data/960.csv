@@ -1,0 +1,19 @@
+group,variable,personID,value,text,info,entry,assoc_num,dynasty,yearBirth,yearDeath,examStatus
+x3,y3,,0,,,,0,,,,
+x4,y3,,0,,,,0,,,,
+x5,y3,19498,-100,郭友直,郭友直 (19498) - Father,,0,,,,
+x6,y3,,0,,,,0,,,,
+x7,y3,,0,,,,0,,,,
+x8,y3,,0,,,,0,,,,
+x3,y2,,0,,,,0,,,,
+x4,y2,,0,,,,0,,,,
+x5,y2,960,100,郭大亨,郭大亨 (960) - Ego,entry,6,宋,0,0,薦舉 (保任)
+x6,y2,,0,,,,0,,,,
+x7,y2,,0,,,,0,,,,
+x8,y2,,0,,,,0,,,,
+x3,y1,946,40,郭久中,郭久中 (946) - Nephew (brother's son),,4,宋,0,0,科舉: 進士(籠統) (1103)
+x4,y1,959,40,郭大中,郭大中 (959) - Nephew (brother's son),,1,宋,0,0,
+x5,y1,,0,,,,0,,,,
+x6,y1,19470,40,郭倫,郭倫 (19470) - Nephew (brother's son),,0,,,,
+x7,y1,19507,40,郭黃中,郭黃中 (19507) - Nephew (brother's son),,0,,,,
+x8,y1,19508,40,郭美中,郭美中 (19508) - Nephew (brother's son),,0,,,,

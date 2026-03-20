@@ -1,0 +1,7 @@
+group,variable,personID,value,text,info,entry,assoc_num,dynasty,yearBirth,yearDeath,examStatus
+x3,y3,,0,,,,0,,,,
+x4,y3,,0,,,,0,,,,
+x5,y3,3599,-100,劉詵,劉詵 (3599) - Father,,0,,,,
+x3,y2,12567,40,劉沐,劉沐 (12567) - Grand-nephew (brother's grandson),,0,,,,
+x4,y2,12453,40,劉潮,劉潮 (12453) - Grand-nephew (brother's grandson),,0,,,,
+x5,y2,1252,100,劉彥適,劉彥適 (1252) - Ego,entry,3,宋,0,0,科舉: 進士(籠統) (1106)

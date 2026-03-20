@@ -1,0 +1,11 @@
+group,variable,personID,value,text,info,entry,assoc_num,dynasty,yearBirth,yearDeath,examStatus
+x3,y2,22660,-20,姚勔,姚勔 (22660) - Clan grandfather,,0,,,,
+x4,y2,7100,-20,姚甫,姚甫 (7100) - Clan grandfather,,0,,,,
+x5,y2,2043,100,姚舜明,姚舜明 (2043) - Ego,entry,6,宋,0,0,科舉: 正奏名進士 (1097)
+x6,y2,,0,,,,0,,,,
+x7,y2,,0,,,,0,,,,
+x3,y1,26978,40,姚寔,姚寔 (26978) - Nephew (brother's son),,0,,,,
+x4,y1,10757,40,姚宏,姚宏 (10757) - First son,,0,,,,
+x5,y1,,0,,,,0,,,,
+x6,y1,10758,40,姚寬,姚寬 (10758) - Second son,,0,,,,
+x7,y1,4056,40,姚憲,姚憲 (4056) - Third son,,0,,,,

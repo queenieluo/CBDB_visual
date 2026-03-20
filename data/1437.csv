@@ -1,0 +1,10 @@
+group,variable,personID,value,text,info,entry,assoc_num,dynasty,yearBirth,yearDeath,examStatus
+x4,y3,20846,-100,邵遇,邵遇 (20846) - Father,,0,,,,
+x5,y3,,0,,,,0,,,,
+x6,y3,465,60,蔣堂,蔣堂 (465) - Father-in-law (wife's father),,8,宋,980,1054,科舉: 進士(籠統) (1012)
+x4,y2,,0,,,,0,,,,
+x5,y2,1437,100,邵必,邵必 (1437) - Ego,entry,4,宋,,,科舉: 正奏名進士 (1038)
+x6,y2,,0,,,,0,,,,
+x4,y1,1435,40,邵亢,邵亢 (1435) - Nephew (brother's son),,7,宋,1014,1074,科舉: 制舉 (籠統)
+x5,y1,,0,,,,0,,,,
+x6,y1,20853,40,邵納史,邵納史 (20853) - Son,,0,,,,

@@ -1,0 +1,13 @@
+group,variable,personID,value,text,info,entry,assoc_num,dynasty,yearBirth,yearDeath,examStatus
+x3,y3,,0,,,,0,,,,
+x4,y3,,0,,,,0,,,,
+x5,y3,10220,-100,張文蔚,張文蔚 (10220) - Father,,0,,,,
+x6,y3,,0,,,,0,,,,
+x3,y2,14007,40,張縯,張縯 (14007) - Great-grand-nephew,,0,,,,
+x4,y2,10221,-20,張唐英,張唐英 (10221) - Elder brother,,0,,,,
+x5,y2,272,100,張商英,張商英 (272) - Ego,entry,5,宋,1043,1121,科舉: 進士(籠統) (1065)
+x6,y2,,0,,,,0,,,,
+x3,y1,,0,,,,0,,,,
+x4,y1,41130,40,李元崇,李元崇 (41130) - Nephew (sister's son),,0,,,,
+x5,y1,,0,,,,0,,,,
+x6,y1,1081,20,李士觀,李士觀 (1081) - Son-in-law,,3,宋,0,0,科舉: 進士(籠統) (1091)

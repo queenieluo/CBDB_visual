@@ -1,0 +1,10 @@
+group,variable,personID,value,text,info,entry,assoc_num,dynasty,yearBirth,yearDeath,examStatus
+x4,y3,21275,-100,孫貫之,孫貫之 (21275) - Father,,0,,,,
+x5,y3,,0,,,,0,,,,
+x6,y3,5354,-40,楊氏(孫昌齡母),楊氏(孫昌齡母) (5354) - Mother,,0,,,,
+x4,y2,,0,,,,0,,,,
+x5,y2,1510,100,孫昌齡,孫昌齡 (1510) - Ego,entry,3,宋,0,0,科舉: 正奏名進士 (1046)
+x6,y2,,0,,,,0,,,,
+x4,y1,,0,,,,0,,,,
+x5,y1,21278,40,孫,孫 (21278) - Son,,0,,,,
+x6,y1,,0,,,,0,,,,

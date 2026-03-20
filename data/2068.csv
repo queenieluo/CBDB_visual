@@ -1,0 +1,10 @@
+group,variable,personID,value,text,info,entry,assoc_num,dynasty,yearBirth,yearDeath,examStatus
+x4,y3,,0,,,,0,,,,
+x5,y3,22738,-100,閻貽慶,閻貽慶 (22738) - Father,,0,,,,
+x6,y3,,0,,,,0,,,,
+x4,y2,1881,-20,王素,王素 (1881) - Marriage relative,,9,宋,1007,1073,科舉學校: 恩賜出身、特賜出身等
+x5,y2,2068,100,閻詢,閻詢 (2068) - Ego,entry,4,宋,,,科舉: 進士(籠統)
+x6,y2,,0,,,,0,,,,
+x4,y1,22739,40,閻仲甫,閻仲甫 (22739) - Son,,0,,,,
+x5,y1,,0,,,,0,,,,
+x6,y1,22745,40,閻B,閻B (22745) - Son,,0,,,,

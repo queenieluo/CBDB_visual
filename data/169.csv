@@ -1,0 +1,9 @@
+group,variable,personID,value,text,info,entry,assoc_num,dynasty,yearBirth,yearDeath,examStatus
+x4,y3,,0,,,,0,,,,
+x5,y3,13351,-100,詹文,詹文 (13351) - Father,,0,,,,
+x6,y3,,0,,,,0,,,,
+x7,y3,,0,,,,0,,,,
+x4,y2,16618,-20,劉握,劉握 (16618) - Wife's grandfather,,0,,,,
+x5,y2,169,100,詹度,詹度 (169) - Ego,entry,4,宋,0,0,
+x6,y2,49886,-80,王氏(詹度妻),王氏(詹度妻) (49886) - Wife,,0,,,,
+x7,y2,49887,-80,劉氏(詹度妻),劉氏(詹度妻) (49887) - Wife,,0,,,,

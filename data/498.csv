@@ -1,0 +1,5 @@
+group,variable,personID,value,text,info,entry,assoc_num,dynasty,yearBirth,yearDeath,examStatus
+x4,y3,,0,,,,0,,,,
+x5,y3,16421,-100,周喻,周喻 (16421) - Father,,0,,,,
+x4,y2,1933,-20,王說,王說 (1933) - Wife's grandfather,,9,宋,1028,1101,科舉: 進士(籠統)
+x5,y2,498,100,周紳,周紳 (498) - Ego,entry,2,宋,0,0,科舉: 進士(籠統) (1076)

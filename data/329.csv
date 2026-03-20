@@ -1,0 +1,5 @@
+group,variable,personID,value,text,info,entry,assoc_num,dynasty,yearBirth,yearDeath,examStatus
+x4,y3,,0,,,,0,,,,
+x5,y3,119929,-100,張貫,張貫 (119929) - Father,,0,,,,
+x4,y2,15912,-20,李發,李發 (15912) - Younger sister's husband,,0,,,,
+x5,y2,329,100,張運,張運 (329) - Ego,entry,2,宋,1097,1171,科舉: 進士(籠統) (1121)

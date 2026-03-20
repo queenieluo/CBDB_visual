@@ -1,0 +1,16 @@
+group,variable,personID,value,text,info,entry,assoc_num,dynasty,yearBirth,yearDeath,examStatus
+x3,y3,,0,,,,0,,,,
+x4,y3,21590,-100,田延昭,田延昭 (21590) - Father,,0,,,,
+x5,y3,,0,,,,0,,,,
+x6,y3,3313,60,富言,富言 (3313) - Father-in-law (wife's father),,0,,,,
+x7,y3,,0,,,,0,,,,
+x3,y2,21595,40,田亙,田亙 (21595) - Adopted grandson,,0,,,,
+x4,y2,21595,40,田亙,田亙 (21595) - Grand-nephew (brother's grandson),,0,,,,
+x5,y2,1617,100,田況,田況 (1617) - Ego,entry,9,宋,1005,1063,科舉: 進士(籠統) (1030)
+x6,y2,5118,-80,富氏(富言女),富氏(富言女) (5118) - Wife,,0,,,,
+x7,y2,,0,,,,0,,,,
+x3,y1,21593,40,田至安,田至安 (21593) - Nephew (brother's son),,0,,,,
+x4,y1,21594,40,田至平,田至平 (21594) - Nephew (brother's son),,0,,,,
+x5,y1,,0,,,,0,,,,
+x6,y1,21599,40,田晝,田晝 (21599) - Nephew (brother's son),,0,,,,
+x7,y1,21593,40,田至安,田至安 (21593) - Adopted son,,0,,,,

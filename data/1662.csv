@@ -1,0 +1,10 @@
+group,variable,personID,value,text,info,entry,assoc_num,dynasty,yearBirth,yearDeath,examStatus
+x4,y3,3954,60,王獻臣,王獻臣 (3954) - Father-in-law (wife's father),,0,,,,
+x5,y3,,0,,,,0,,,,
+x6,y3,1646,-20,蔡齊,蔡齊 (1646) - Uncle (father's brother),,12,宋,988,1039,科舉: 進士(籠統) (1015)
+x4,y2,,0,,,,0,,,,
+x5,y2,1662,100,蔡延慶,蔡延慶 (1662) - Ego,entry,5,宋,1029,1090,科舉: 進士(籠統)
+x6,y2,5121,-80,王氏(蔡延慶妻),王氏(蔡延慶妻) (5121) - Wife,,0,,,,
+x4,y1,1954,20,文永世,文永世 (1954) - Son-in-law,,4,宋,0,0,
+x5,y1,,0,,,,0,,,,
+x6,y1,12105,40,蔡迨,蔡迨 (12105) - Great-grandson,,0,,,,

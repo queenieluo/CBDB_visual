@@ -1,0 +1,7 @@
+group,variable,personID,value,text,info,entry,assoc_num,dynasty,yearBirth,yearDeath,examStatus
+x4,y4,,0,,,,0,,,,
+x5,y4,3306,-40,傅珏,傅珏 (3306) - Grandfather,,0,,,,
+x4,y3,,0,,,,0,,,,
+x5,y3,3307,-100,傅立,傅立 (3307) - Father,,0,,,,
+x4,y2,14444,40,傅察,傅察 (14444) - Grand-nephew (brother's grandson),,0,,,,
+x5,y2,627,100,傅堯俞,傅堯俞 (627) - Ego,entry,3,宋,,,科舉: 進士(籠統) (1042)

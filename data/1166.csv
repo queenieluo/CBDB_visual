@@ -1,0 +1,13 @@
+group,variable,personID,value,text,info,entry,assoc_num,dynasty,yearBirth,yearDeath,examStatus
+x4,y3,11464,-100,林概,林概 (11464) - Father,,0,,,,
+x5,y3,,0,,,,0,,,,
+x6,y3,42565,-100,林概,林概 (42565) - Father,,0,,,,
+x7,y3,14253,60,李頎,李頎 (14253) - Father-in-law (wife's father),,0,,,,
+x4,y2,,0,,,,0,,,,
+x5,y2,1166,100,林邵,林邵 (1166) - Ego,entry,4,宋,0,0,科舉: 進士(籠統) (1059)
+x6,y2,,0,,,,0,,,,
+x7,y2,,0,,,,0,,,,
+x4,y1,,0,,,,0,,,,
+x5,y1,8086,40,林攄,林攄 (8086) - Son,,0,,,,
+x6,y1,,0,,,,0,,,,
+x7,y1,,0,,,,0,,,,

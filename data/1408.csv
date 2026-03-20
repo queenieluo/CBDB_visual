@@ -1,0 +1,7 @@
+group,variable,personID,value,text,info,entry,assoc_num,dynasty,yearBirth,yearDeath,examStatus
+x4,y3,,0,,,,0,,,,
+x5,y3,3706,-100,蒲師道,蒲師道 (3706) - Father,,0,,,,
+x6,y3,,0,,,,0,,,,
+x4,y2,1407,40,蒲贄,蒲贄 (1407) - Grand-nephew (brother's grandson),,1,宋,0,0,科舉: 進士(籠統) (1121)
+x5,y2,1408,100,蒲宗孟,蒲宗孟 (1408) - Ego,entry,3,宋,,,科舉: 進士(籠統) (1053)
+x6,y2,51105,-80,陳氏(蒲宗孟妻),陳氏(蒲宗孟妻) (51105) - Wife,,0,,,,

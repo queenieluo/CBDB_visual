@@ -1,0 +1,5 @@
+group,variable,personID,value,text,info,entry,assoc_num,dynasty,yearBirth,yearDeath,examStatus
+x4,y3,,0,,,,0,,,,
+x5,y3,1218,-100,劉蟠,劉蟠 (1218) - Father,,1,宋,919,991,科舉: 進士(籠統) (949)
+x4,y2,10621,-20,劉庚,劉庚 (10621) - Clan nephew,,0,,,,
+x5,y2,1203,100,劉鍇,劉鍇 (1203) - Ego,entry,2,宋,0,0,科舉: 進士(籠統) (1000)

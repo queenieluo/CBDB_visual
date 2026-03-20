@@ -1,0 +1,7 @@
+group,variable,personID,value,text,info,entry,assoc_num,dynasty,yearBirth,yearDeath,examStatus
+x4,y3,,0,,,,0,,,,
+x5,y3,13678,-100,張霖,張霖 (13678) - Father,,0,,,,
+x4,y2,13680,-20,張序,張序 (13680) - Younger brother,,0,,,,
+x5,y2,209,100,張巨,張巨 (209) - Ego,entry,3,宋,0,0,科舉: 正奏名諸科(不含明經、明法) (1057)
+x4,y1,,0,,,,0,,,,
+x5,y1,13681,40,張訢,張訢 (13681) - Grandson,,0,,,,

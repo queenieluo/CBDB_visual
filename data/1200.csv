@@ -1,0 +1,13 @@
+group,variable,personID,value,text,info,entry,assoc_num,dynasty,yearBirth,yearDeath,examStatus
+x3,y3,,0,,,,0,,,,
+x4,y3,3603,-100,劉顏,劉顏 (3603) - Father,,0,,,,
+x5,y3,,0,,,,0,,,,
+x6,y3,1646,60,蔡齊,蔡齊 (1646) - Father-in-law (wife's father),,12,宋,988,1039,科舉: 進士(籠統) (1015)
+x3,y2,36629,40,劉寬夫,劉寬夫 (36629) - Sixth son,,0,,,,
+x4,y2,36628,40,劉敦夫,劉敦夫 (36628) - Fifth son,,0,,,,
+x5,y2,1200,100,劉庠,劉庠 (1200) - Ego,entry,6,宋,1023,1086,科舉: 進士(籠統) (1057)
+x6,y2,,0,,,,0,,,,
+x3,y1,,0,,,,0,,,,
+x4,y1,36630,20,朱師略,朱師略 (36630) - Son-in-law,,0,,,,
+x5,y1,,0,,,,0,,,,
+x6,y1,36627,40,劉端夫,劉端夫 (36627) - First son,,0,,,,

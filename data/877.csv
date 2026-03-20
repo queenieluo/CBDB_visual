@@ -1,0 +1,19 @@
+group,variable,personID,value,text,info,entry,assoc_num,dynasty,yearBirth,yearDeath,examStatus
+x2,y3,,0,,,,0,,,,
+x3,y3,,0,,,,0,,,,
+x4,y3,,0,,,,0,,,,
+x5,y3,120123,-100,任載,任載 (120123) - Father,,0,,,,
+x6,y3,,0,,,,0,,,,
+x7,y3,,0,,,,0,,,,
+x2,y2,875,-20,任中正,任中正 (875) - Elder brother,,6,宋,,,科舉: 進士(籠統)
+x3,y2,876,-20,任中行,任中行 (876) - Brother,,3,宋,0,0,
+x4,y2,3425,-20,任圜,任圜 (3425) - Clan 6th-gen ancestor,,0,,,,
+x5,y2,877,100,任中師,任中師 (877) - Ego,entry,8,宋,,,科舉: 進士(籠統) (1009)
+x6,y2,,0,,,,0,,,,
+x7,y2,,0,,,,0,,,,
+x2,y1,,0,,,,0,,,,
+x3,y1,18270,40,任元之,任元之 (18270) - Nephew (brother's son),,0,,,,
+x4,y1,18271,40,任慶之,任慶之 (18271) - Nephew (brother's son),,0,,,,
+x5,y1,,0,,,,0,,,,
+x6,y1,26235,40,任A,任A (26235) - Nephew (brother's son),,0,,,,
+x7,y1,3428,40,任拱之,任拱之 (3428) - Son,,0,,,,

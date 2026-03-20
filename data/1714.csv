@@ -1,0 +1,13 @@
+group,variable,personID,value,text,info,entry,assoc_num,dynasty,yearBirth,yearDeath,examStatus
+x4,y4,18917,-40,鄒霖,鄒霖 (18917) - Great-grandfather,,0,,,,
+x5,y4,,0,,,,0,,,,
+x6,y4,18918,-40,鄒戩,鄒戩 (18918) - Grandfather,,0,,,,
+x7,y4,,0,,,,0,,,,
+x4,y3,12591,-100,鄒洞,鄒洞 (12591) - Father,,0,,,,
+x5,y3,,0,,,,0,,,,
+x6,y3,3888,-20,鄒浩,鄒浩 (3888) - Uncle (father's brother),,0,,,,
+x7,y3,135574,-40,石氏(鄒樗母),石氏(鄒樗母) (135574) - Mother,,0,,,,
+x4,y2,,0,,,,0,,,,
+x5,y2,1714,100,鄒樗,鄒樗 (1714) - Ego,entry,6,宋,1109,0,科舉: 進士(籠統) (1148)
+x6,y2,135575,-80,歐陽氏(鄒樗妻),歐陽氏(鄒樗妻) (135575) - Wife,,0,,,,
+x7,y2,,0,,,,0,,,,

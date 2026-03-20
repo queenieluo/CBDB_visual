@@ -1,0 +1,4 @@
+group,variable,personID,value,text,info,entry,assoc_num,dynasty,yearBirth,yearDeath,examStatus
+x5,y4,332,-40,張詠,張詠 (332) - Grandfather,,6,宋,946,1015,科舉: 進士(籠統) (980)
+x5,y3,13793,-100,張從質,張從質 (13793) - Father,,0,,,,
+x5,y2,273,100,張紳,張紳 (273) - Ego,entry,2,宋,0,0,

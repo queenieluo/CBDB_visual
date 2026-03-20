@@ -1,0 +1,16 @@
+group,variable,personID,value,text,info,entry,assoc_num,dynasty,yearBirth,yearDeath,examStatus
+x3,y3,,0,,,,0,,,,
+x4,y3,,0,,,,0,,,,
+x5,y3,21610,-100,田懿,田懿 (21610) - Father,,0,,,,
+x6,y3,,0,,,,0,,,,
+x7,y3,,0,,,,0,,,,
+x3,y2,,0,,,,0,,,,
+x4,y2,,0,,,,0,,,,
+x5,y2,1615,100,田錫,田錫 (1615) - Ego,entry,5,宋,940,1003,科舉: 進士(籠統) (978)
+x6,y2,,0,,,,0,,,,
+x7,y2,,0,,,,0,,,,
+x3,y1,21611,40,田慶餘,田慶餘 (21611) - Second son,,0,,,,
+x4,y1,21612,40,田偃,田偃 (21612) - Great-grandson,,0,,,,
+x5,y1,,0,,,,0,,,,
+x6,y1,21613,40,田徽,田徽 (21613) - Great-grandson,,0,,,,
+x7,y1,21614,40,田育,田育 (21614) - Great-great-grandson,,0,,,,

@@ -1,0 +1,7 @@
+group,variable,personID,value,text,info,entry,assoc_num,dynasty,yearBirth,yearDeath,examStatus
+x4,y3,24374,-100,周L,周L (24374) - Father,,0,,,,
+x5,y3,,0,,,,0,,,,
+x6,y3,16400,-20,周常,周常 (16400) - Uncle (father's brother),,0,,,,
+x4,y2,7199,-20,周武仲,周武仲 (7199) - Elder brother,,0,,,,
+x5,y2,484,100,周莊仲,周莊仲 (484) - Ego,entry,3,宋,,,科舉: 進士(籠統) (1115)
+x6,y2,,0,,,,0,,,,

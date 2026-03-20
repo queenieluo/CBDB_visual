@@ -1,0 +1,16 @@
+group,variable,personID,value,text,info,entry,assoc_num,dynasty,yearBirth,yearDeath,examStatus
+x2,y3,,0,,,,0,,,,
+x3,y3,,0,,,,0,,,,
+x4,y3,3418,-100,黃湜,黃湜 (3418) - Father,,0,,,,
+x5,y3,,0,,,,0,,,,
+x6,y3,20415,60,劉渙,劉渙 (20415) - Father-in-law (wife's father),,0,,,,
+x2,y2,17532,-20,黃庠,黃庠 (17532) - Elder cousin (paternal),,0,,,,
+x3,y2,18931,-20,黃昭,黃昭 (18931) - Elder brother,,0,,,,
+x4,y2,12995,-20,黃庶,黃庶 (12995) - Elder brother,,0,,,,
+x5,y2,851,100,黃廉,黃廉 (851) - Ego,entry,7,宋,,,科舉: 進士(籠統) (1061)
+x6,y2,48629,-80,章氏(黃廉妻),章氏(黃廉妻) (48629) - Wife,,0,,,,
+x2,y1,,0,,,,0,,,,
+x3,y1,,0,,,,0,,,,
+x4,y1,,0,,,,0,,,,
+x5,y1,856,40,黃叔敖,黃叔敖 (856) - Son,,7,宋,0,0,科舉: 進士(籠統) (1091)
+x6,y1,,0,,,,0,,,,

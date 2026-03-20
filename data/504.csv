@@ -1,0 +1,22 @@
+group,variable,personID,value,text,info,entry,assoc_num,dynasty,yearBirth,yearDeath,examStatus
+x1,y3,,0,,,,0,,,,
+x2,y3,,0,,,,0,,,,
+x3,y3,,0,,,,0,,,,
+x4,y3,16405,-100,周輔成,周輔成 (16405) - Father,,0,,,,
+x5,y3,,0,,,,0,,,,
+x6,y3,30528,60,陸參,陸參 (30528) - Father-in-law (wife's father),,0,,,,
+x7,y3,415,-20,鄭向,鄭向 (415) - Uncle (mother's brother),,5,宋,0,0,科舉: 進士(籠統) (980)
+x1,y2,16414,-20,周塤,周塤 (16414) - 9th generation descendant,,0,,,,
+x2,y2,16554,-20,周子亮,周子亮 (16554) - Clan grandson,,0,,,,
+x3,y2,16411,-20,周意,周意 (16411) - Younger cousin (paternal),,0,,,,
+x4,y2,3706,-20,蒲師道,蒲師道 (3706) - Second wife's father,,0,,,,
+x5,y2,504,100,周敦頤,周敦頤 (504) - Ego,entry,15,宋,1017,1073,恩蔭(籠統) (1036)
+x6,y2,5024,-20,陸氏(周敦頤妻),陸氏(周敦頤妻) (5024) - First wife,,0,,,,
+x7,y2,5025,-20,蒲氏(周敦頤妻),蒲氏(周敦頤妻) (5025) - Second wife,,0,,,,
+x1,y1,,0,,,,0,,,,
+x2,y1,,0,,,,0,,,,
+x3,y1,15291,40,周壽,周壽 (15291) - First son,,0,,,,
+x4,y1,16407,40,周燾,周燾 (16407) - Second son,,0,,,,
+x5,y1,,0,,,,0,,,,
+x6,y1,16409,40,周興裔,周興裔 (16409) - Great-grandson,,0,,,,
+x7,y1,16413,40,周直卿,周直卿 (16413) - Great-grandson,,0,,,,

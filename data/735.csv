@@ -1,0 +1,13 @@
+group,variable,personID,value,text,info,entry,assoc_num,dynasty,yearBirth,yearDeath,examStatus
+x4,y3,,0,,,,0,,,,
+x5,y3,18564,-100,鮮于至,鮮于至 (18564) - Father,,0,,,,
+x6,y3,,0,,,,0,,,,
+x7,y3,,0,,,,0,,,,
+x4,y2,,0,,,,0,,,,
+x5,y2,735,100,鮮于侁,鮮于侁 (735) - Ego,entry,4,宋,1019,1087,科舉: 進士(籠統) (1038)
+x6,y2,,0,,,,0,,,,
+x7,y2,,0,,,,0,,,,
+x4,y1,736,40,鮮于師中,鮮于師中 (736) - Nephew (brother's son),,2,宋,0,0,
+x5,y1,,0,,,,0,,,,
+x6,y1,7242,40,鮮于群,鮮于群 (7242) - Second son,,0,,,,
+x7,y1,3368,40,鮮于綽,鮮于綽 (3368) - Third son,,0,,,,

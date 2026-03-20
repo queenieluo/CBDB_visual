@@ -1,0 +1,7 @@
+group,variable,personID,value,text,info,entry,assoc_num,dynasty,yearBirth,yearDeath,examStatus
+x4,y3,1661,-100,蔡挺,蔡挺 (1661) - Father,,14,宋,1014,1079,科舉: 進士(籠統) (1034)
+x5,y3,,0,,,,0,,,,
+x6,y3,217,60,張方平,張方平 (217) - Father-in-law (wife's father),,7,宋,1007,1091,科舉: 制舉 (籠統) (1034)
+x4,y2,,0,,,,0,,,,
+x5,y2,1660,100,蔡天申,蔡天申 (1660) - Ego,entry,2,宋,,1074,
+x6,y2,,0,,,,0,,,,

@@ -1,0 +1,10 @@
+group,variable,personID,value,text,info,entry,assoc_num,dynasty,yearBirth,yearDeath,examStatus
+x4,y3,11893,-100,游光濟,游光濟 (11893) - Father,,0,,,,
+x5,y3,,0,,,,0,,,,
+x6,y3,11890,60,張程,張程 (11890) - Father-in-law (wife's father),,0,,,,
+x4,y2,12609,40,游議,游議 (12609) - Seventh son,,0,,,,
+x5,y2,2081,100,游師雄,游師雄 (2081) - Ego,entry,4,宋,1038,1097,科舉: 進士(籠統) (1065)
+x6,y2,,0,,,,0,,,,
+x4,y1,,0,,,,0,,,,
+x5,y1,11894,40,游靖,游靖 (11894) - First son,,0,,,,
+x6,y1,,0,,,,0,,,,

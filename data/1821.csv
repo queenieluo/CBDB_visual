@@ -1,0 +1,7 @@
+group,variable,personID,value,text,info,entry,assoc_num,dynasty,yearBirth,yearDeath,examStatus
+x4,y3,8145,-100,王舉正,王舉正 (8145) - Father,,0,,,,
+x5,y3,,0,,,,0,,,,
+x6,y3,3210,60,趙守節,趙守節 (3210) - Father-in-law (wife's father),,0,,,,
+x4,y2,8127,-20,狄青,狄青 (8127) - Unknown relationship,,0,,,,
+x5,y2,1821,100,王誨,王誨 (1821) - Ego,entry,3,宋,0,0,
+x6,y2,,0,,,,0,,,,

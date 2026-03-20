@@ -1,0 +1,7 @@
+group,variable,personID,value,text,info,entry,assoc_num,dynasty,yearBirth,yearDeath,examStatus
+x4,y3,46456,-100,康遠,康遠 (46456) - Father,,0,,,,
+x5,y3,,0,,,,0,,,,
+x6,y3,46457,-40,范氏(康遠妻),范氏(康遠妻) (46457) - Mother,,0,,,,
+x4,y2,,0,,,,0,,,,
+x5,y2,891,100,康執權,康執權 (891) - Ego,entry,2,宋,0,0,學校: 上舍及第
+x6,y2,,0,,,,0,,,,

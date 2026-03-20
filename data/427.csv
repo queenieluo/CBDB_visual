@@ -1,0 +1,7 @@
+group,variable,personID,value,text,info,entry,assoc_num,dynasty,yearBirth,yearDeath,examStatus
+x4,y3,,0,,,,0,,,,
+x5,y3,413,-100,鄭僅,鄭僅 (413) - Father,,4,宋,1047,1113,科舉: 進士(籠統)
+x4,y2,426,-20,鄭資之,鄭資之 (426) - Brother,,2,宋,0,0,
+x5,y2,427,100,鄭望之,鄭望之 (427) - Ego,entry,3,宋,1078,1161,科舉: 進士(籠統) (1106)
+x4,y1,,0,,,,0,,,,
+x5,y1,25261,40,鄭伯俊,鄭伯俊 (25261) - Great-grandson,,0,,,,

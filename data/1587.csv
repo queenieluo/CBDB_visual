@@ -1,0 +1,7 @@
+group,variable,personID,value,text,info,entry,assoc_num,dynasty,yearBirth,yearDeath,examStatus
+x4,y3,21484,-100,譚昉,譚昉 (21484) - Father,,0,,,,
+x5,y3,,0,,,,0,,,,
+x6,y3,21483,60,謝立,謝立 (21483) - Father-in-law (wife's father),,0,,,,
+x4,y2,,0,,,,0,,,,
+x5,y2,1587,100,譚掞,譚掞 (1587) - Ego,entry,3,宋,0,0,科舉: 鄉貢舉人 (宋代賓貢) (1079)
+x6,y2,5117,-80,謝氏(譚掞妻),謝氏(譚掞妻) (5117) - Wife,,0,,,,

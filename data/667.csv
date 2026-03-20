@@ -1,0 +1,9 @@
+group,variable,personID,value,text,info,entry,assoc_num,dynasty,yearBirth,yearDeath,examStatus
+x3,y3,,0,,,,0,,,,
+x4,y3,8050,-100,韓世忠,韓世忠 (8050) - Father,,0,,,,
+x5,y3,,0,,,,0,,,,
+x6,y3,53953,-40,茅氏(韓世忠妻),茅氏(韓世忠妻) (53953) - Mother,,0,,,,
+x3,y2,3331,-20,韓彥古,韓彥古 (3331) - Younger brother,,0,,,,
+x4,y2,3330,-20,韓彥質,韓彥質 (3330) - Younger brother,,0,,,,
+x5,y2,667,100,韓彥直,韓彥直 (667) - Ego,entry,5,宋,1131,0,科舉: 進士(籠統) (1148)
+x6,y2,135722,-80,王氏(韓彥直妻),王氏(韓彥直妻) (135722) - Wife,,0,,,,

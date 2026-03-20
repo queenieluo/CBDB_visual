@@ -1,0 +1,13 @@
+group,variable,personID,value,text,info,entry,assoc_num,dynasty,yearBirth,yearDeath,examStatus
+x4,y3,,0,,,,0,,,,
+x5,y3,22562,-20,楊虞,楊虞 (22562) - Uncle (father's brother),,0,,,,
+x6,y3,,0,,,,0,,,,
+x7,y3,,0,,,,0,,,,
+x4,y2,2024,-20,楊覃,楊覃 (2024) - Elder cousin (paternal),,9,宋,958,1011,科舉: 進士(籠統) (983)
+x5,y2,2028,100,楊蛻,楊蛻 (2028) - Ego,entry,5,宋,0,0,科舉: 進士(籠統)
+x6,y2,,0,,,,0,,,,
+x7,y2,,0,,,,0,,,,
+x4,y1,5032,20,楊氏(韓瀆妻),楊氏(韓瀆妻) (5032) - Daughter,,0,,,,
+x5,y1,,0,,,,0,,,,
+x6,y1,27109,40,楊公適,楊公適 (27109) - Son,,0,,,,
+x7,y1,4175,20,韓瀆,韓瀆 (4175) - Son-in-law,,0,,,,

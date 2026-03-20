@@ -1,0 +1,5 @@
+group,variable,personID,value,text,info,entry,assoc_num,dynasty,yearBirth,yearDeath,examStatus
+x4,y3,,0,,,,0,,,,
+x5,y3,14253,-20,李頎,李頎 (14253) - Uncle (father's brother),,0,,,,
+x4,y2,3484,-20,李之儀,李之儀 (3484) - Younger cousin (paternal),,0,,,,
+x5,y2,1000,100,李之純,李之純 (1000) - Ego,entry,2,宋,,,科舉: 進士(籠統)

@@ -1,0 +1,5 @@
+group,variable,personID,value,text,info,entry,assoc_num,dynasty,yearBirth,yearDeath,examStatus
+x4,y4,,0,,,,0,,,,
+x5,y4,3916,-40,杜鎬,杜鎬 (3916) - Grandfather,,0,,,,
+x4,y2,1722,-20,杜杞,杜杞 (1722) - Younger brother,,8,宋,1005,1050,恩蔭(籠統)
+x5,y2,1725,100,杜植,杜植 (1725) - Ego,entry,2,宋,0,0,

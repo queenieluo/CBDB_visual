@@ -1,0 +1,10 @@
+group,variable,personID,value,text,info,entry,assoc_num,dynasty,yearBirth,yearDeath,examStatus
+x4,y3,,0,,,,0,,,,
+x5,y3,1422,-100,卞袞,卞袞 (1422) - Father,,3,宋,960,1004,科舉: 進士(籠統) (983)
+x6,y3,,0,,,,0,,,,
+x4,y2,,0,,,,0,,,,
+x5,y2,1421,100,卞咸,卞咸 (1421) - Ego,entry,3,宋,0,0,
+x6,y2,,0,,,,0,,,,
+x4,y1,36757,20,卞氏(陳仲孫妻),卞氏(陳仲孫妻) (36757) - Daughter,,0,,,,
+x5,y1,,0,,,,0,,,,
+x6,y1,36758,20,陳仲孫,陳仲孫 (36758) - Son-in-law,,0,,,,

@@ -1,0 +1,10 @@
+group,variable,personID,value,text,info,entry,assoc_num,dynasty,yearBirth,yearDeath,examStatus
+x4,y4,20857,-40,邵岳,邵岳 (20857) - Great-grandfather,,0,,,,
+x5,y4,,0,,,,0,,,,
+x6,y4,20858,-40,邵崇德,邵崇德 (20858) - Grandfather,,0,,,,
+x4,y3,,0,,,,0,,,,
+x5,y3,20859,-100,邵簡,邵簡 (20859) - Father,,0,,,,
+x6,y3,,0,,,,0,,,,
+x4,y2,,0,,,,0,,,,
+x5,y2,1440,100,邵曄,邵曄 (1440) - Ego,entry,3,宋,952,1014,科舉: 進士(籠統) (983)
+x6,y2,,0,,,,0,,,,

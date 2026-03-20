@@ -1,0 +1,10 @@
+group,variable,personID,value,text,info,entry,assoc_num,dynasty,yearBirth,yearDeath,examStatus
+x3,y3,,0,,,,0,,,,
+x4,y3,,0,,,,0,,,,
+x5,y3,1600,-100,唐肅,唐肅 (1600) - Father,,6,宋,0,1030,科舉: 正奏名進士 (998)
+x3,y2,8136,-20,曾公亮,曾公亮 (8136) - Marriage relative,,0,,,,
+x4,y2,8031,-20,賈昌朝,賈昌朝 (8031) - Marriage relative,,0,,,,
+x5,y2,1595,100,唐詢,唐詢 (1595) - Ego,entry,4,宋,1005,1064,科舉: 制舉 (籠統) (1027)
+x3,y1,,0,,,,0,,,,
+x4,y1,,0,,,,0,,,,
+x5,y1,3828,40,唐坰,唐坰 (3828) - Son,,0,,,,

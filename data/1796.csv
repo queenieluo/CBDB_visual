@@ -1,0 +1,7 @@
+group,variable,personID,value,text,info,entry,assoc_num,dynasty,yearBirth,yearDeath,examStatus
+x4,y4,,0,,,,0,,,,
+x5,y4,1762,-40,王安石,王安石 (1762) - Great-grandfather,,25,宋,1021,1086,科舉: 進士(籠統) (1042)
+x4,y3,,0,,,,0,,,,
+x5,y3,21969,-100,王桐,王桐 (21969) - Father,,0,,,,
+x4,y2,36517,40,王宜之,王宜之 (36517) - Only son,,0,,,,
+x5,y2,1796,100,王珏,王珏 (1796) - Ego,entry,3,宋,1112,1164,恩蔭(籠統) (1132)

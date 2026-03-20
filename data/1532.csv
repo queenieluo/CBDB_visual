@@ -1,0 +1,11 @@
+group,variable,personID,value,text,info,entry,assoc_num,dynasty,yearBirth,yearDeath,examStatus
+x3,y2,7060,-20,歐陽棐,歐陽棐 (7060) - Marriage relative,,0,,,,
+x4,y2,7017,-20,趙㞦,趙㞦 (7017) - Marriage relative,,0,,,,
+x5,y2,1532,100,孫固,孫固 (1532) - Ego,entry,6,宋,1016,1090,科舉: 進士(籠統)
+x6,y2,,0,,,,0,,,,
+x7,y2,,0,,,,0,,,,
+x3,y1,5034,20,孫氏(韓純彥妻),孫氏(韓純彥妻) (5034) - Daughter,,0,,,,
+x4,y1,7031,20,韓純彥,韓純彥 (7031) - Son-in-law,,0,,,,
+x5,y1,,0,,,,0,,,,
+x6,y1,8154,20,王巖叟,王巖叟 (8154) - Son-in-law,,0,,,,
+x7,y1,1538,40,孫樸,孫樸 (1538) - First son,,1,宋,,,

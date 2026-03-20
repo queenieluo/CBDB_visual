@@ -1,0 +1,10 @@
+group,variable,personID,value,text,info,entry,assoc_num,dynasty,yearBirth,yearDeath,examStatus
+x4,y3,593,-100,范雍,范雍 (593) - Father,,14,宋,979,1046,科舉: 正奏名進士 (1000)
+x5,y3,,0,,,,0,,,,
+x6,y3,98,60,陳堯佐,陳堯佐 (98) - Father-in-law (wife's father),,18,宋,963,1044,科舉: 進士(籠統) (989)
+x4,y2,,0,,,,0,,,,
+x5,y2,585,100,范宗傑,范宗傑 (585) - Ego,entry,4,宋,0,1045,
+x6,y2,,0,,,,0,,,,
+x4,y1,586,40,范子奇,范子奇 (586) - Son,,3,宋,,,恩蔭(籠統)
+x5,y1,,0,,,,0,,,,
+x6,y1,587,40,范子儀,范子儀 (587) - Son,,2,宋,1033,1083,恩蔭(籠統)

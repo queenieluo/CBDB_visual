@@ -1,0 +1,11 @@
+group,variable,personID,value,text,info,entry,assoc_num,dynasty,yearBirth,yearDeath,examStatus
+x1,y3,,0,,,,0,,,,
+x2,y3,,0,,,,0,,,,
+x3,y3,,0,,,,0,,,,
+x4,y3,,0,,,,0,,,,
+x5,y3,19611,-100,李陟,李陟 (19611) - Father,,0,,,,
+x1,y2,3645,20,呂之問,呂之問 (3645) - Fifth daughter's husband,,0,,,,
+x2,y2,37415,20,羅浹,羅浹 (37415) - First daughter's husband,,0,,,,
+x3,y2,37414,40,李持正,李持正 (37414) - Only son,,0,,,,
+x4,y2,7304,-20,呂公綽,呂公綽 (7304) - Second wife's father,,0,,,,
+x5,y2,1013,100,李中師,李中師 (1013) - Ego,entry,7,宋,1015,1075,科舉: 進士(籠統) (1034)

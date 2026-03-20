@@ -1,0 +1,10 @@
+group,variable,personID,value,text,info,entry,assoc_num,dynasty,yearBirth,yearDeath,examStatus
+x3,y3,,0,,,,0,,,,
+x4,y3,,0,,,,0,,,,
+x5,y3,3537,-20,李遵勗,李遵勗 (3537) - Uncle (father's brother),,0,,,,
+x3,y2,16829,-20,李端愨,李端愨 (16829) - Younger brother,,0,,,,
+x4,y2,3543,-20,李端懿,李端懿 (3543) - Elder brother,,0,,,,
+x5,y2,1103,100,李端願,李端願 (1103) - Ego,entry,4,宋,0,0,
+x3,y1,,0,,,,0,,,,
+x4,y1,,0,,,,0,,,,
+x5,y1,16828,40,李評,李評 (16828) - Son,,0,,,,

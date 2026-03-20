@@ -1,0 +1,13 @@
+group,variable,personID,value,text,info,entry,assoc_num,dynasty,yearBirth,yearDeath,examStatus
+x4,y3,,0,,,,0,,,,
+x5,y3,3241,-100,周述,周述 (3241) - Father,,0,,,,
+x6,y3,,0,,,,0,,,,
+x7,y3,,0,,,,0,,,,
+x4,y2,,0,,,,0,,,,
+x5,y2,480,100,周嘉正,周嘉正 (480) - Ego,entry,4,宋,970,1033,科舉: 正奏名進士 (992)
+x6,y2,,0,,,,0,,,,
+x7,y2,,0,,,,0,,,,
+x4,y1,18646,40,周奉先,周奉先 (18646) - Nephew (brother's son),,0,,,,
+x5,y1,,0,,,,0,,,,
+x6,y1,3250,40,周彥先,周彥先 (3250) - Second son,,0,,,,
+x7,y1,10186,40,周茂先,周茂先 (10186) - Third son,,0,,,,

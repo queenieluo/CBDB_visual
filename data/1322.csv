@@ -1,0 +1,13 @@
+group,variable,personID,value,text,info,entry,assoc_num,dynasty,yearBirth,yearDeath,examStatus
+x4,y3,8099,-100,呂好問,呂好問 (8099) - Father,,0,,,,
+x5,y3,,0,,,,0,,,,
+x6,y3,51607,60,蔡燡,蔡燡 (51607) - Father-in-law (wife's father),,0,,,,
+x7,y3,385304,60,李與權,李與權 (385304) - Father-in-law (wife's father),,0,,,,
+x4,y2,,0,,,,0,,,,
+x5,y2,1322,100,呂忱中,呂忱中 (1322) - Ego,entry,6,宋,1098,1162,恩蔭(籠統)
+x6,y2,385305,-80,李氏(呂忱中妻),李氏(呂忱中妻) (385305) - Wife,,0,,,,
+x7,y2,,0,,,,0,,,,
+x4,y1,385306,20,陳伯駉,陳伯駉 (385306) - Son-in-law,,0,,,,
+x5,y1,,0,,,,0,,,,
+x6,y1,385307,40,呂大信,呂大信 (385307) - Adopted son,,0,,,,
+x7,y1,,0,,,,0,,,,

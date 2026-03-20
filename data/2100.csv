@@ -1,0 +1,5 @@
+group,variable,personID,value,text,info,entry,assoc_num,dynasty,yearBirth,yearDeath,examStatus
+x4,y2,17150,-20,宇文從禮,宇文從禮 (17150) - Lineal ancestor,,0,,,,
+x5,y2,2100,100,宇文昌齡,宇文昌齡 (2100) - Ego,entry,2,宋,,,科舉: 進士(籠統) (1076)
+x4,y1,,0,,,,0,,,,
+x5,y1,2099,40,宇文常,宇文常 (2099) - Son,,1,宋,0,0,

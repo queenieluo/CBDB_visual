@@ -1,0 +1,9 @@
+group,variable,personID,value,text,info,entry,assoc_num,dynasty,yearBirth,yearDeath,examStatus
+x3,y3,,0,,,,0,,,,
+x4,y3,20158,60,林輝,林輝 (20158) - Father-in-law (wife's father),,0,,,,
+x5,y3,,0,,,,0,,,,
+x6,y3,11135,-20,余象,余象 (11135) - Uncle (father's brother),,0,,,,
+x3,y2,11136,-20,余元一,余元一 (11136) - Lineal descendant,,0,,,,
+x4,y2,12621,-20,余,余 (12621) - Clan nephew,,0,,,,
+x5,y2,2093,100,余授,余授 (2093) - Ego,entry,4,宋,0,0,科舉: 進士(籠統) (1073)
+x6,y2,,0,,,,0,,,,

@@ -1,0 +1,10 @@
+group,variable,personID,value,text,info,entry,assoc_num,dynasty,yearBirth,yearDeath,examStatus
+x4,y3,,0,,,,0,,,,
+x5,y3,13373,-100,周協,周協 (13373) - Father,,0,,,,
+x6,y3,,0,,,,0,,,,
+x4,y2,,0,,,,0,,,,
+x5,y2,510,100,周約,周約 (510) - Ego,entry,3,宋,0,0,科舉: 正奏名諸科(不含明經、明法)
+x6,y2,,0,,,,0,,,,
+x4,y1,30503,20,周琬,周琬 (30503) - Daughter,,0,,,,
+x5,y1,,0,,,,0,,,,
+x6,y1,13368,20,關景仁,關景仁 (13368) - Son-in-law,,0,,,,

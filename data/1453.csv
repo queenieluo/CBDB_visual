@@ -1,0 +1,13 @@
+group,variable,personID,value,text,info,entry,assoc_num,dynasty,yearBirth,yearDeath,examStatus
+x3,y3,,0,,,,0,,,,
+x4,y3,7324,-100,沈扶,沈扶 (7324) - Father,,0,,,,
+x5,y3,,0,,,,0,,,,
+x6,y3,7011,60,張諷,張諷 (7011) - Father-in-law (wife's father),,0,,,,
+x3,y2,97648,-20,沈邁,沈邁 (97648) - Elder brother,,0,,,,
+x4,y2,1449,-20,沈遘,沈遘 (1449) - Elder brother,,4,宋,1025,1067,科舉: 進士(籠統) (1049)
+x5,y2,1453,100,沈遼,沈遼 (1453) - Ego,entry,6,宋,1032,1085,恩蔭(籠統)
+x6,y2,,0,,,,0,,,,
+x3,y1,,0,,,,0,,,,
+x4,y1,3160,20,張壽光,張壽光 (3160) - Son-in-law,,0,,,,
+x5,y1,,0,,,,0,,,,
+x6,y1,3669,20,馬永譽,馬永譽 (3669) - Son-in-law,,0,,,,

@@ -1,0 +1,4 @@
+group,variable,personID,value,text,info,entry,assoc_num,dynasty,yearBirth,yearDeath,examStatus
+x5,y4,4082,-40,燕肅,燕肅 (4082) - Grandfather,,0,,,,
+x5,y3,2061,-100,燕度,燕度 (2061) - Father,,3,宋,,,科舉: 進士(籠統)
+x5,y2,2062,100,燕瑛,燕瑛 (2062) - Ego,entry,2,宋,1077,1126,恩蔭(籠統)

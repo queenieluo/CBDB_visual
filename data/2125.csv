@@ -1,0 +1,16 @@
+group,variable,personID,value,text,info,entry,assoc_num,dynasty,yearBirth,yearDeath,examStatus
+x3,y3,,0,,,,0,,,,
+x4,y3,,0,,,,0,,,,
+x5,y3,1562,-20,宋棐,宋棐 (1562) - Uncle (father's brother),,7,宋,,,科舉: 進士(籠統) (1115)
+x6,y3,,0,,,,0,,,,
+x7,y3,,0,,,,0,,,,
+x3,y2,3813,-20,宋煜,宋煜 (3813) - Cousin (father's brother's son),,0,,,,
+x4,y2,10962,-20,宋理,宋理 (10962) - Great-grandfather's brother,,0,,,,
+x5,y2,2125,100,宋藻,宋藻 (2125) - Ego,entry,6,宋,0,0,科舉: 進士(籠統) (1138)
+x6,y2,,0,,,,0,,,,
+x7,y2,,0,,,,0,,,,
+x3,y1,,0,,,,0,,,,
+x4,y1,11478,40,宋可觀,宋可觀 (11478) - Son,,0,,,,
+x5,y1,,0,,,,0,,,,
+x6,y1,10975,40,宋鈞,宋鈞 (10975) - Grandson,,0,,,,
+x7,y1,12810,40,宋鑑,宋鑑 (12810) - Grandson,,0,,,,

@@ -1,0 +1,7 @@
+group,variable,personID,value,text,info,entry,assoc_num,dynasty,yearBirth,yearDeath,examStatus
+x4,y3,1521,-100,孫覺,孫覺 (1521) - Father,,7,宋,1028,1090,科舉: 正奏名進士 (1049)
+x5,y3,,0,,,,0,,,,
+x6,y3,971,60,李常,李常 (971) - Father-in-law (wife's father),,13,宋,1027,1090,科舉: 進士(籠統) (1049)
+x4,y2,7111,-20,黃庭堅,黃庭堅 (7111) - Younger sister's husband,,0,,,,
+x5,y2,1530,100,孫端,孫端 (1530) - Ego,entry,3,宋,0,0,
+x6,y2,,0,,,,0,,,,

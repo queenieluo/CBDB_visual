@@ -1,0 +1,5 @@
+group,variable,personID,value,text,info,entry,assoc_num,dynasty,yearBirth,yearDeath,examStatus
+x4,y4,,0,,,,0,,,,
+x5,y4,245,-40,張若谷,張若谷 (245) - Grandfather,,5,宋,0,0,科舉: 進士(籠統) (992)
+x4,y2,202,-20,張覲,張覲 (202) - Cousin (father's brother's son),,1,宋,0,0,
+x5,y2,203,100,張靚,張靚 (203) - Ego,entry,2,宋,0,0,科舉: 進士(籠統) (1070)

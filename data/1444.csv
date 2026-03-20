@@ -1,0 +1,7 @@
+group,variable,personID,value,text,info,entry,assoc_num,dynasty,yearBirth,yearDeath,examStatus
+x4,y3,20869,-100,沈千,沈千 (20869) - Father,,0,,,,
+x5,y3,,0,,,,0,,,,
+x6,y3,39845,-40,陳氏(沈昭遠母),陳氏(沈昭遠母) (39845) - Mother,,0,,,,
+x4,y2,,0,,,,0,,,,
+x5,y2,1444,100,沈昭遠,沈昭遠 (1444) - Ego,entry,3,宋,,1152,科舉: 進士(籠統) (1118)
+x6,y2,39848,-80,曹氏(沈昭遠妻),曹氏(沈昭遠妻) (39848) - Wife,,0,,,,

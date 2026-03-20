@@ -1,0 +1,5 @@
+group,variable,personID,value,text,info,entry,assoc_num,dynasty,yearBirth,yearDeath,examStatus
+x4,y4,,0,,,,0,,,,
+x5,y4,13005,-40,余良肱,余良肱 (13005) - Grandfather,,0,,,,
+x4,y2,13007,-20,余彥直,余彥直 (13007) - Younger brother,,0,,,,
+x5,y2,2095,100,余彥明,余彥明 (2095) - Ego,entry,2,宋,0,0,科舉: 進士(籠統) (1085)

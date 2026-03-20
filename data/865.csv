@@ -1,0 +1,7 @@
+group,variable,personID,value,text,info,entry,assoc_num,dynasty,yearBirth,yearDeath,examStatus
+x3,y3,,0,,,,0,,,,
+x4,y3,,0,,,,0,,,,
+x5,y3,3419,-100,黃挺,黃挺 (3419) - Father,,0,,,,
+x3,y2,18945,-20,黃頡,黃頡 (18945) - Younger brother,,0,,,,
+x4,y2,18944,-20,黃彥,黃彥 (18944) - Younger brother,,0,,,,
+x5,y2,865,100,黃顏,黃顏 (865) - Ego,entry,3,宋,0,0,科舉: 進士(籠統) (1063)

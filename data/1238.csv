@@ -1,0 +1,10 @@
+group,variable,personID,value,text,info,entry,assoc_num,dynasty,yearBirth,yearDeath,examStatus
+x3,y3,,0,,,,0,,,,
+x4,y3,,0,,,,0,,,,
+x5,y3,3584,-100,劉歛止,劉歛止 (3584) - Father,,0,,,,
+x3,y2,1217,-20,劉寧止,劉寧止 (1217) - Younger brother,,3,宋,0,0,科舉: 進士(籠統) (1121)
+x4,y2,3587,-20,劉嶠,劉嶠 (3587) - Elder brother,,0,,,,
+x5,y2,1238,100,劉岑,劉岑 (1238) - Ego,entry,4,宋,1087,1167,科舉: 進士(籠統) (1124)
+x3,y1,,0,,,,0,,,,
+x4,y1,,0,,,,0,,,,
+x5,y1,25604,20,陸彥昭,陸彥昭 (25604) - Son-in-law,,0,,,,

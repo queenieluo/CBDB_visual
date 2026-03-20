@@ -1,0 +1,16 @@
+group,variable,personID,value,text,info,entry,assoc_num,dynasty,yearBirth,yearDeath,examStatus
+x3,y3,,0,,,,0,,,,
+x4,y3,,0,,,,0,,,,
+x5,y3,3414,-100,黃孝綽,黃孝綽 (3414) - Father,,0,,,,
+x6,y3,,0,,,,0,,,,
+x7,y3,,0,,,,0,,,,
+x3,y2,1650,20,蔡居厚,蔡居厚 (1650) - Second daughter's husband,,2,宋,0,0,科舉: 進士(籠統)
+x4,y2,36444,20,王續,王續 (36444) - First daughter's husband,,0,,,,
+x5,y2,845,100,黃莘,黃莘 (845) - Ego,entry,6,宋,1021,1085,科舉: 進士(籠統) (1053)
+x6,y2,,0,,,,0,,,,
+x7,y2,,0,,,,0,,,,
+x3,y1,,0,,,,0,,,,
+x4,y1,36441,40,黃材,黃材 (36441) - First son,,0,,,,
+x5,y1,,0,,,,0,,,,
+x6,y1,36442,40,黃樞,黃樞 (36442) - Second son,,0,,,,
+x7,y1,36443,40,黃杞,黃杞 (36443) - Third son,,0,,,,

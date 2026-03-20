@@ -1,0 +1,9 @@
+group,variable,personID,value,text,info,entry,assoc_num,dynasty,yearBirth,yearDeath,examStatus
+x4,y4,,0,,,,0,,,,
+x5,y4,8119,-40,宋庠,宋庠 (8119) - Great-grandfather,,0,,,,
+x4,y3,,0,,,,0,,,,
+x5,y3,18311,-100,宋,宋 (18311) - Father,,0,,,,
+x4,y2,3795,40,宋仲甫,宋仲甫 (3795) - Only surviving son,,0,,,,
+x5,y2,1583,100,宋㬇,宋㬇 (1583) - Ego,entry,4,宋,1086,1161,恩蔭(籠統) (1114)
+x4,y1,,0,,,,0,,,,
+x5,y1,1561,40,宋仲堪,宋仲堪 (1561) - Nephew (brother's son),,1,宋,0,0,

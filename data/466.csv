@@ -1,0 +1,10 @@
+group,variable,personID,value,text,info,entry,assoc_num,dynasty,yearBirth,yearDeath,examStatus
+x4,y3,3233,-100,蔣之美,蔣之美 (3233) - Father,,0,,,,
+x5,y3,,0,,,,0,,,,
+x6,y3,461,-20,蔣之奇,蔣之奇 (461) - Uncle (father's brother),,10,宋,1031,1104,科舉: 進士(籠統) (1057)
+x4,y2,,0,,,,0,,,,
+x5,y2,466,100,蔣璨,蔣璨 (466) - Ego,entry,3,宋,1085,1159,科舉: 進士(籠統) (1148)
+x6,y2,,0,,,,0,,,,
+x4,y1,,0,,,,0,,,,
+x5,y1,16814,20,李處全,李處全 (16814) - Son-in-law,,0,,,,
+x6,y1,,0,,,,0,,,,

@@ -1,0 +1,7 @@
+group,variable,personID,value,text,info,entry,assoc_num,dynasty,yearBirth,yearDeath,examStatus
+x4,y3,,0,,,,0,,,,
+x5,y3,1491,-100,蘇遲,蘇遲 (1491) - Father,,18,宋,0,1155,薦舉 (保任)
+x4,y2,16871,-20,韓宗恕,韓宗恕 (16871) - Wife's grandfather,,0,,,,
+x5,y2,1496,100,蘇籀,蘇籀 (1496) - Ego,entry,3,宋,1091,1164,恩蔭(籠統)
+x4,y1,,0,,,,0,,,,
+x5,y1,19175,40,蘇适,蘇适 (19175) - Adopted son,,0,,,,

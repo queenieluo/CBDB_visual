@@ -1,0 +1,10 @@
+group,variable,personID,value,text,info,entry,assoc_num,dynasty,yearBirth,yearDeath,examStatus
+x4,y3,,0,,,,0,,,,
+x5,y3,50191,-100,趙叡,趙叡 (50191) - Father,,0,,,,
+x6,y3,,0,,,,0,,,,
+x4,y2,,0,,,,0,,,,
+x5,y2,348,100,趙昌言,趙昌言 (348) - Ego,entry,3,宋,945,1009,科舉: 進士(籠統) (978)
+x6,y2,,0,,,,0,,,,
+x4,y1,51035,40,趙慶嗣,趙慶嗣 (51035) - Son,,0,,,,
+x5,y1,,0,,,,0,,,,
+x6,y1,8153,20,王旦,王旦 (8153) - Son-in-law,,0,,,,

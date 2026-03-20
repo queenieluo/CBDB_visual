@@ -1,0 +1,10 @@
+group,variable,personID,value,text,info,entry,assoc_num,dynasty,yearBirth,yearDeath,examStatus
+x4,y3,,0,,,,0,,,,
+x5,y3,19509,-100,郭熙,郭熙 (19509) - Father,,0,,,,
+x6,y3,,0,,,,0,,,,
+x4,y2,,0,,,,0,,,,
+x5,y2,316,100,郭思,郭思 (316) - Ego,entry,3,宋,0,0,科舉: 進士(籠統) (1082)
+x6,y2,,0,,,,0,,,,
+x4,y1,961,40,郭游卿,郭游卿 (961) - Son,,2,宋,0,0,
+x5,y1,,0,,,,0,,,,
+x6,y1,19510,40,郭道卿,郭道卿 (19510) - Son,,0,,,,

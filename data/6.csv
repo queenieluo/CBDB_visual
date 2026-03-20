@@ -1,0 +1,17 @@
+group,variable,personID,value,text,info,entry,assoc_num,dynasty,yearBirth,yearDeath,examStatus
+x3,y4,,0,,,,0,,,,
+x4,y4,,0,,,,0,,,,
+x5,y4,3003,-40,柴賡,柴賡 (3003) - Great-great-grandfather,,0,,,,
+x6,y4,,0,,,,0,,,,
+x3,y3,,0,,,,0,,,,
+x4,y3,,0,,,,0,,,,
+x5,y3,13331,-100,柴自牧,柴自牧 (13331) - Father,,0,,,,
+x6,y3,,0,,,,0,,,,
+x3,y2,22954,40,柴有朋,柴有朋 (22954) - Great-grand-nephew,,0,,,,
+x4,y2,350,-20,趙齊,趙齊 (350) - First wife's father,,1,宋,0,0,
+x5,y2,6,100,柴成務,柴成務 (6) - Ego,entry,6,宋,934,1004,科舉: 正奏名進士 (968)
+x6,y2,,0,,,,0,,,,
+x3,y1,,0,,,,0,,,,
+x4,y1,43275,40,柴貽範,柴貽範 (43275) - Son,,0,,,,
+x5,y1,,0,,,,0,,,,
+x6,y1,7013,20,張太初,張太初 (7013) - Son-in-law,,0,,,,

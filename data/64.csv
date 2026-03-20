@@ -1,0 +1,10 @@
+group,variable,personID,value,text,info,entry,assoc_num,dynasty,yearBirth,yearDeath,examStatus
+x4,y3,3070,-100,陳亢,陳亢 (3070) - Father,,0,,,,
+x5,y3,,0,,,,0,,,,
+x6,y3,122,60,程師孟,程師孟 (122) - Father-in-law (wife's father),,13,宋,1009,1086,科舉: 進士(籠統) (1034)
+x4,y2,,0,,,,0,,,,
+x5,y2,64,100,陳廓,陳廓 (64) - Ego,entry,4,宋,1056,1110,科舉: 進士(籠統) (1076)
+x6,y2,,0,,,,0,,,,
+x4,y1,14609,40,陳珹,陳珹 (14609) - First son,,0,,,,
+x5,y1,,0,,,,0,,,,
+x6,y1,14608,40,陳瑭,陳瑭 (14608) - Second son,,0,,,,

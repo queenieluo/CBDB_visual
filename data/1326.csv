@@ -1,0 +1,9 @@
+group,variable,personID,value,text,info,entry,assoc_num,dynasty,yearBirth,yearDeath,examStatus
+x2,y3,,0,,,,0,,,,
+x3,y3,,0,,,,0,,,,
+x4,y3,,0,,,,0,,,,
+x5,y3,11659,-100,呂蕡,呂蕡 (11659) - Father,,0,,,,
+x2,y2,11663,-20,呂大臨,呂大臨 (11663) - Younger brother,,0,,,,
+x3,y2,11661,-20,呂大鈞,呂大鈞 (11661) - Younger brother,,0,,,,
+x4,y2,1327,-20,呂大防,呂大防 (1327) - Younger brother,,9,宋,1027,1097,科舉: 正奏名進士 (1049)
+x5,y2,1326,100,呂大忠,呂大忠 (1326) - Ego,entry,4,宋,0,0,科舉: 進士(籠統) (1053)

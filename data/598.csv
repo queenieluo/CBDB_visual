@@ -1,0 +1,5 @@
+group,variable,personID,value,text,info,entry,assoc_num,dynasty,yearBirth,yearDeath,examStatus
+x4,y4,,0,,,,0,,,,
+x5,y4,11411,-40,方峻,方峻 (11411) - Great-grandfather,,0,,,,
+x4,y2,11419,-20,方翥,方翥 (11419) - Younger cousin (paternal),,0,,,,
+x5,y2,598,100,方略,方略 (598) - Ego,entry,2,宋,0,0,科舉: 進士(籠統) (1106)

@@ -1,0 +1,7 @@
+group,variable,personID,value,text,info,entry,assoc_num,dynasty,yearBirth,yearDeath,examStatus
+x4,y3,37768,-100,王德,王德 (37768) - Father,,0,,,,
+x5,y3,,0,,,,0,,,,
+x6,y3,13515,-20,王準,王準 (13515) - Uncle (father's brother),,0,,,,
+x4,y2,1845,-20,王珪,王珪 (1845) - Younger cousin (paternal),,30,宋,1019,1085,科舉: 進士(籠統) (1042)
+x5,y2,1765,100,王琪,王琪 (1765) - Ego,entry,3,宋,,,科舉: 進士(籠統) (1042)
+x6,y2,,0,,,,0,,,,

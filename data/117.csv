@@ -1,0 +1,7 @@
+group,variable,personID,value,text,info,entry,assoc_num,dynasty,yearBirth,yearDeath,examStatus
+x5,y3,15782,-100,程逵,程逵 (15782) - Father,,0,,,,
+x6,y3,,0,,,,0,,,,
+x5,y2,117,100,程克俊,程克俊 (117) - Ego,entry,3,宋,1089,1157,科舉: 進士(籠統) (1124)
+x6,y2,49169,-80,朱氏(程克俊妻),朱氏(程克俊妻) (49169) - Wife,,0,,,,
+x5,y1,15762,40,程相,程相 (15762) - Son,,0,,,,
+x6,y1,,0,,,,0,,,,

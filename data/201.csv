@@ -1,0 +1,9 @@
+group,variable,personID,value,text,info,entry,assoc_num,dynasty,yearBirth,yearDeath,examStatus
+x3,y3,,0,,,,0,,,,
+x4,y3,47178,-100,張默,張默 (47178) - Father,,0,,,,
+x5,y3,,0,,,,0,,,,
+x6,y3,13721,60,鄧密,鄧密 (13721) - Father-in-law (wife's father),,0,,,,
+x3,y2,13713,-20,張詡,張詡 (13713) - Elder brother,,0,,,,
+x4,y2,13711,-20,張照,張照 (13711) - Lineal ancestor,,0,,,,
+x5,y2,201,100,張致遠,張致遠 (201) - Ego,entry,4,宋,1090,1147,科舉: 進士(籠統) (1121)
+x6,y2,,0,,,,0,,,,

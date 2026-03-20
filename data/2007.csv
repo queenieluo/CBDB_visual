@@ -1,0 +1,10 @@
+group,variable,personID,value,text,info,entry,assoc_num,dynasty,yearBirth,yearDeath,examStatus
+x4,y3,12394,-100,楊宗道,楊宗道 (12394) - Father,,0,,,,
+x5,y3,,0,,,,0,,,,
+x6,y3,3498,60,李H,李H (3498) - Father-in-law (wife's father),,0,,,,
+x4,y2,,0,,,,0,,,,
+x5,y2,2007,100,楊繪,楊繪 (2007) - Ego,entry,4,宋,,,科舉: 進士(籠統) (1053)
+x6,y2,,0,,,,0,,,,
+x4,y1,3284,20,范百慮,范百慮 (3284) - Son-in-law,,0,,,,
+x5,y1,,0,,,,0,,,,
+x6,y1,38917,40,申積中,申積中 (38917) - Adopted son,,0,,,,

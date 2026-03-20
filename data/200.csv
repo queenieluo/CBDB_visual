@@ -1,0 +1,11 @@
+group,variable,personID,value,text,info,entry,assoc_num,dynasty,yearBirth,yearDeath,examStatus
+x3,y2,7228,40,富紹京,富紹京 (7228) - Grand-nephew's daughter's husband,,0,,,,
+x4,y2,10681,40,杜訢,杜訢 (10681) - Granddaughter's husband,,0,,,,
+x5,y2,200,100,張知白,張知白 (200) - Ego,entry,6,宋,,1028,科舉: 進士(籠統) (989)
+x6,y2,47164,-80,王氏(張知白妻),王氏(張知白妻) (47164) - Wife,,0,,,,
+x7,y2,,0,,,,0,,,,
+x3,y1,,0,,,,0,,,,
+x4,y1,3171,40,張子思,張子思 (3171) - Nephew (brother's son),,0,,,,
+x5,y1,,0,,,,0,,,,
+x6,y1,3171,40,張子思,張子思 (3171) - Adopted son,,0,,,,
+x7,y1,5175,40,張氏(杜訢妻),張氏(杜訢妻) (5175) - Granddaughter,,0,,,,

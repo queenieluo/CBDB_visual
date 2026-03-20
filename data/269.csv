@@ -1,0 +1,10 @@
+group,variable,personID,value,text,info,entry,assoc_num,dynasty,yearBirth,yearDeath,examStatus
+x3,y3,,0,,,,0,,,,
+x4,y3,,0,,,,0,,,,
+x5,y3,214,-100,張諤,張諤 (214) - Father,,1,宋,0,0,
+x3,y2,3137,-20,張震,張震 (3137) - Clan junior,,0,,,,
+x4,y2,8023,-20,趙普,趙普 (8023) - Wife's uncle,,0,,,,
+x5,y2,269,100,張秉,張秉 (269) - Ego,entry,4,宋,0,0,科舉: 進士(籠統) (980)
+x3,y1,,0,,,,0,,,,
+x4,y1,,0,,,,0,,,,
+x5,y1,3549,20,李宥,李宥 (3549) - Son-in-law,,0,,,,

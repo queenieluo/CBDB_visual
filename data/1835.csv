@@ -1,0 +1,4 @@
+group,variable,personID,value,text,info,entry,assoc_num,dynasty,yearBirth,yearDeath,examStatus
+x5,y3,11968,-100,王翰,王翰 (11968) - Father,,0,,,,
+x5,y2,1835,100,王逵,王逵 (1835) - Ego,entry,2,宋,991,1072,科舉: 進士(籠統) (1019)
+x5,y1,1913,40,王子淵,王子淵 (1913) - Second son,,2,宋,0,0,

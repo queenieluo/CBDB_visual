@@ -1,0 +1,7 @@
+group,variable,personID,value,text,info,entry,assoc_num,dynasty,yearBirth,yearDeath,examStatus
+x4,y3,,0,,,,0,,,,
+x5,y3,15629,-100,汪瑄,汪瑄 (15629) - Father,,0,,,,
+x4,y2,15632,-20,汪希旦,汪希旦 (15632) - Younger brother,,0,,,,
+x5,y2,1757,100,汪叔詹,汪叔詹 (1757) - Ego,entry,3,宋,1081,1160,科舉: 進士(籠統) (1106)
+x4,y1,,0,,,,0,,,,
+x5,y1,15635,40,汪若海,汪若海 (15635) - Second son,,0,,,,

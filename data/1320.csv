@@ -1,0 +1,16 @@
+group,variable,personID,value,text,info,entry,assoc_num,dynasty,yearBirth,yearDeath,examStatus
+x3,y3,,0,,,,0,,,,
+x4,y3,8099,-100,呂好問,呂好問 (8099) - Father,,0,,,,
+x5,y3,,0,,,,0,,,,
+x6,y3,1954,60,文永世,文永世 (1954) - Father-in-law (wife's father),,4,宋,0,0,
+x7,y3,7012,60,章甫,章甫 (7012) - Father-in-law (wife's father),,0,,,,
+x3,y2,,0,,,,0,,,,
+x4,y2,1954,-20,文永世,文永世 (1954) - Second wife's father,,4,宋,0,0,
+x5,y2,1320,100,呂弸中,呂弸中 (1320) - Ego,entry,8,宋,1090,1146,其他蔭補(確定非聖節、大禮、致仕、遺表、死事蔭補)
+x6,y2,,0,,,,0,,,,
+x7,y2,,0,,,,0,,,,
+x3,y1,3652,40,呂大器,呂大器 (3652) - First son,,0,,,,
+x4,y1,17903,40,呂大倫,呂大倫 (17903) - Second son,,0,,,,
+x5,y1,,0,,,,0,,,,
+x6,y1,3655,40,呂祖儉,呂祖儉 (3655) - Grandson,,0,,,,
+x7,y1,7055,40,呂祖謙,呂祖謙 (7055) - Grandson,,0,,,,

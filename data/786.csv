@@ -1,0 +1,9 @@
+group,variable,personID,value,text,info,entry,assoc_num,dynasty,yearBirth,yearDeath,examStatus
+x3,y3,,0,,,,0,,,,
+x4,y3,8030,60,鄭雍,鄭雍 (8030) - Father-in-law (wife's father),,0,,,,
+x5,y3,,0,,,,0,,,,
+x6,y3,11987,-20,許穎,許穎 (11987) - Uncle (father's brother),,0,,,,
+x3,y2,11989,40,許安雅,許安雅 (11989) - Grand-nephew (brother's grandson),,0,,,,
+x4,y2,11988,-20,許噩,許噩 (11988) - Younger brother,,0,,,,
+x5,y2,786,100,許懋,許懋 (786) - Ego,entry,4,宋,0,0,科舉: 正奏名進士 (1046)
+x6,y2,,0,,,,0,,,,

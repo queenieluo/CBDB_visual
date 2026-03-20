@@ -1,0 +1,7 @@
+group,variable,personID,value,text,info,entry,assoc_num,dynasty,yearBirth,yearDeath,examStatus
+x3,y4,,0,,,,0,,,,
+x4,y4,,0,,,,0,,,,
+x5,y4,1591,-20,湯東野,湯東野 (1591) - Grand-uncle (grandfather's brother),,7,宋,,1135,科舉: 進士(籠統) (1124)
+x3,y2,3822,-20,湯淵,湯淵 (3822) - Cousin (father's brother's son),,0,,,,
+x4,y2,3821,-20,湯泳,湯泳 (3821) - Cousin (father's brother's son),,0,,,,
+x5,y2,1588,100,湯沂,湯沂 (1588) - Ego,entry,3,宋,0,0,

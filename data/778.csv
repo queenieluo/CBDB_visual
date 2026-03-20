@@ -1,0 +1,7 @@
+group,variable,personID,value,text,info,entry,assoc_num,dynasty,yearBirth,yearDeath,examStatus
+x4,y3,11962,-100,許拯,許拯 (11962) - Father,,0,,,,
+x5,y3,,0,,,,0,,,,
+x6,y3,1435,60,邵亢,邵亢 (1435) - Father-in-law (wife's father),,7,宋,1014,1074,科舉: 制舉 (籠統)
+x4,y2,11979,-20,許昌齡,許昌齡 (11979) - Clan uncle,,0,,,,
+x5,y2,778,100,許安世,許安世 (778) - Ego,entry,3,宋,,1084,科舉: 正奏名進士 (1067)
+x6,y2,,0,,,,0,,,,

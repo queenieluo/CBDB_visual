@@ -1,0 +1,7 @@
+group,variable,personID,value,text,info,entry,assoc_num,dynasty,yearBirth,yearDeath,examStatus
+x4,y3,,0,,,,0,,,,
+x5,y3,7008,60,程坦,程坦 (7008) - Father-in-law (wife's father),,0,,,,
+x4,y2,11707,-20,張崏,張崏 (11707) - Younger brother,,0,,,,
+x5,y2,234,100,張峋,張峋 (234) - Ego,entry,3,宋,0,0,科舉: 進士(籠統)
+x4,y1,,0,,,,0,,,,
+x5,y1,21399,20,孫昭遠,孫昭遠 (21399) - Son-in-law,,0,,,,

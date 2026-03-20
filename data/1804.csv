@@ -1,0 +1,10 @@
+group,variable,personID,value,text,info,entry,assoc_num,dynasty,yearBirth,yearDeath,examStatus
+x4,y3,,0,,,,0,,,,
+x5,y3,1855,-100,王明,王明 (1855) - Father,,6,宋,919,991,薦舉 (保任)
+x6,y3,,0,,,,0,,,,
+x4,y2,1886,-20,王挺,王挺 (1886) - Elder brother,,2,宋,0,0,科舉: 進士(籠統)
+x5,y2,1804,100,王扶,王扶 (1804) - Ego,entry,4,宋,0,0,科舉: 進士(籠統)
+x6,y2,,0,,,,0,,,,
+x4,y1,21840,40,王D,王D (21840) - Son,,0,,,,
+x5,y1,,0,,,,0,,,,
+x6,y1,1844,40,王廣淵,王廣淵 (1844) - Grandson,,7,宋,,,科舉: 進士(籠統)

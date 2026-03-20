@@ -1,0 +1,19 @@
+group,variable,personID,value,text,info,entry,assoc_num,dynasty,yearBirth,yearDeath,examStatus
+x2,y3,,0,,,,0,,,,
+x3,y3,,0,,,,0,,,,
+x4,y3,11560,-100,周元長,周元長 (11560) - Father,,0,,,,
+x5,y3,,0,,,,0,,,,
+x6,y3,1201,60,劉彝,劉彝 (1201) - Father-in-law (wife's father),,7,宋,1022,1091,科舉: 進士(籠統) (1046)
+x7,y3,,0,,,,0,,,,
+x2,y2,4159,40,李K,李K (4159) - Granddaughter's husband,,0,,,,
+x3,y2,3128,40,張津,張津 (3128) - Granddaughter's husband,,0,,,,
+x4,y2,497,40,周伯俊,周伯俊 (497) - Grand-nephew (brother's grandson),,2,宋,0,0,
+x5,y2,476,100,周池,周池 (476) - Ego,entry,9,宋,0,0,科舉: 進士(籠統) (1070)
+x6,y2,5021,-80,劉氏(周楙母),劉氏(周楙母) (5021) - Wife,,0,,,,
+x7,y2,,0,,,,0,,,,
+x2,y1,,0,,,,0,,,,
+x3,y1,,0,,,,0,,,,
+x4,y1,11561,40,周楙,周楙 (11561) - First son,,0,,,,
+x5,y1,,0,,,,0,,,,
+x6,y1,3247,40,周伯駿,周伯駿 (3247) - Grandson,,0,,,,
+x7,y1,16392,40,周仲昌,周仲昌 (16392) - Grandson,,0,,,,

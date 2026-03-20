@@ -1,0 +1,10 @@
+group,variable,personID,value,text,info,entry,assoc_num,dynasty,yearBirth,yearDeath,examStatus
+x4,y3,,0,,,,0,,,,
+x5,y3,1609,-100,滕知白,滕知白 (1609) - Father,,1,宋,0,0,
+x6,y3,,0,,,,0,,,,
+x4,y2,,0,,,,0,,,,
+x5,y2,1610,100,滕涉,滕涉 (1610) - Ego,entry,3,宋,0,0,
+x6,y2,,0,,,,0,,,,
+x4,y1,1881,20,王素,王素 (1881) - Son-in-law,,9,宋,1007,1073,科舉學校: 恩賜出身、特賜出身等
+x5,y1,,0,,,,0,,,,
+x6,y1,7019,20,嵇穎,嵇穎 (7019) - Son-in-law,,0,,,,

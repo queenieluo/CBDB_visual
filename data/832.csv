@@ -1,0 +1,9 @@
+group,variable,personID,value,text,info,entry,assoc_num,dynasty,yearBirth,yearDeath,examStatus
+x2,y3,,0,,,,0,,,,
+x3,y3,,0,,,,0,,,,
+x4,y3,,0,,,,0,,,,
+x5,y3,8064,-100,胡宿,胡宿 (8064) - Father,,0,,,,
+x2,y2,833,-20,胡宗愈,胡宗愈 (833) - Younger brother,,10,宋,1029,1094,科舉: 進士(籠統) (1059)
+x3,y2,830,-20,胡宗回,胡宗回 (830) - Younger brother,,4,宋,,1108,科舉: 進士(籠統) (1065)
+x4,y2,1314,-20,呂公著,呂公著 (1314) - Marriage relative,,27,宋,1018,1089,科舉: 進士(籠統) (1042)
+x5,y2,832,100,胡宗炎,胡宗炎 (832) - Ego,entry,4,宋,0,0,科舉 (籠統) (1065)

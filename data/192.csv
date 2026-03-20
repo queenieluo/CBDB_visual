@@ -1,0 +1,7 @@
+group,variable,personID,value,text,info,entry,assoc_num,dynasty,yearBirth,yearDeath,examStatus
+x4,y4,,0,,,,0,,,,
+x5,y4,1389,-40,潘美,潘美 (1389) - Maternal grandfather,,18,宋,921,987,
+x4,y3,,0,,,,0,,,,
+x5,y3,7149,-100,張昭允,張昭允 (7149) - Father,,0,,,,
+x4,y2,226,-20,張象中,張象中 (226) - Cousin (father's brother's son),,8,宋,0,0,科舉: 進士(籠統) (1024)
+x5,y2,192,100,張正中,張正中 (192) - Ego,entry,3,宋,0,0,

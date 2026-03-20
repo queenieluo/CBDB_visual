@@ -1,0 +1,7 @@
+group,variable,personID,value,text,info,entry,assoc_num,dynasty,yearBirth,yearDeath,examStatus
+x4,y3,,0,,,,0,,,,
+x5,y3,15542,-100,胡文修,胡文修 (15542) - Father,,0,,,,
+x4,y2,16895,-20,胡觀國,胡觀國 (16895) - Brother,,0,,,,
+x5,y2,834,100,胡彥國,胡彥國 (834) - Ego,entry,3,宋,0,0,
+x4,y1,,0,,,,0,,,,
+x5,y1,16900,20,徐端卿,徐端卿 (16900) - Son-in-law,,0,,,,

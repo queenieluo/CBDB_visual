@@ -1,0 +1,7 @@
+group,variable,personID,value,text,info,entry,assoc_num,dynasty,yearBirth,yearDeath,examStatus
+x4,y3,,0,,,,0,,,,
+x5,y3,24971,-100,張成,張成 (24971) - Father,,0,,,,
+x4,y2,13759,-20,張言,張言 (13759) - Clan grandson,,0,,,,
+x5,y2,218,100,張傅,張傅 (218) - Ego,entry,3,宋,0,0,科舉: 進士(籠統)
+x4,y1,,0,,,,0,,,,
+x5,y1,24972,40,張彭,張彭 (24972) - Son,,0,,,,

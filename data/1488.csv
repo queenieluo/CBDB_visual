@@ -1,0 +1,28 @@
+group,variable,personID,value,text,info,entry,assoc_num,dynasty,yearBirth,yearDeath,examStatus
+x1,y3,,0,,,,0,,,,
+x2,y3,,0,,,,0,,,,
+x3,y3,,0,,,,0,,,,
+x4,y3,1486,-100,司馬池,司馬池 (1486) - Father,,12,宋,980,1041,科舉: 進士(籠統) (1005)
+x5,y3,,0,,,,0,,,,
+x6,y3,299,60,張存,張存 (299) - Father-in-law (wife's father),,4,宋,986,1071,科舉: 進士(籠統) (1005)
+x7,y3,3746,-20,司馬沂,司馬沂 (3746) - Uncle (father's brother),,0,,,,
+x8,y3,,0,,,,0,,,,
+x9,y3,,0,,,,0,,,,
+x1,y2,18225,40,司馬槙,司馬槙 (18225) - Grand-nephew (brother's grandson),,0,,,,
+x2,y2,7338,40,司馬棫,司馬棫 (7338) - Grand-nephew (brother's grandson),,0,,,,
+x3,y2,21225,-20,司馬諮,司馬諮 (21225) - Elder cousin (paternal),,0,,,,
+x4,y2,3748,-20,司馬旦,司馬旦 (3748) - Elder brother,,0,,,,
+x5,y2,1488,100,司馬光,司馬光 (1488) - Ego,entry,36,宋,1019,1086,科舉: 進士(籠統) (1038)
+x6,y2,38769,-80,張氏（司馬光妻）,張氏（司馬光妻） (38769) - Wife,,0,,,,
+x7,y2,,0,,,,0,,,,
+x8,y2,,0,,,,0,,,,
+x9,y2,,0,,,,0,,,,
+x1,y1,21226,40,司馬京,司馬京 (21226) - Nephew (brother's son),,0,,,,
+x2,y1,21236,40,司馬宗召,司馬宗召 (21236) - Nephew (brother's son),,0,,,,
+x3,y1,38721,40,司馬方,司馬方 (38721) - Nephew (brother's son),,0,,,,
+x4,y1,38727,40,司馬齊,司馬齊 (38727) - Nephew (brother's son),,0,,,,
+x5,y1,,0,,,,0,,,,
+x6,y1,38732,40,司馬元,司馬元 (38732) - Nephew (brother's son),,0,,,,
+x7,y1,38742,40,司馬稟,司馬稟 (38742) - Nephew (brother's son),,0,,,,
+x8,y1,38788,40,司馬良,司馬良 (38788) - Nephew (brother's son),,0,,,,
+x9,y1,38814,40,司馬育,司馬育 (38814) - Nephew (brother's son),,0,,,,

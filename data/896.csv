@@ -1,0 +1,7 @@
+group,variable,personID,value,text,info,entry,assoc_num,dynasty,yearBirth,yearDeath,examStatus
+x3,y3,,0,,,,0,,,,
+x4,y3,,0,,,,0,,,,
+x5,y3,3432,-100,康倬,康倬 (3432) - Father,,0,,,,
+x3,y2,19280,-20,康譽之,康譽之 (19280) - Younger brother,,0,,,,
+x4,y2,19279,-20,康舉之,康舉之 (19279) - Younger brother,,0,,,,
+x5,y2,896,100,康與之,康與之 (896) - Ego,entry,3,宋,0,0,薦舉 (保任) (1127)

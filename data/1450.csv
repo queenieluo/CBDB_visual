@@ -1,0 +1,5 @@
+group,variable,personID,value,text,info,entry,assoc_num,dynasty,yearBirth,yearDeath,examStatus
+x4,y3,,0,,,,0,,,,
+x5,y3,7323,-100,沈周,沈周 (7323) - Father,,0,,,,
+x4,y2,27005,-20,張牧,張牧 (27005) - Wife's grandfather,,0,,,,
+x5,y2,1450,100,沈括,沈括 (1450) - Ego,entry,2,宋,1029,1093,科舉: 進士(籠統) (1063)

@@ -1,0 +1,4 @@
+group,variable,personID,value,text,info,entry,assoc_num,dynasty,yearBirth,yearDeath,examStatus
+x5,y4,375,-20,趙抃,趙抃 (375) - Grand-uncle (grandfather's brother),,14,宋,1008,1084,科舉: 進士(籠統) (1049)
+x5,y3,20954,-100,趙峻,趙峻 (20954) - Father,,0,,,,
+x5,y2,373,100,趙霈,趙霈 (373) - Ego,entry,2,宋,0,1145,科舉: 進士(籠統) (1115)

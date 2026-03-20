@@ -1,0 +1,5 @@
+group,variable,personID,value,text,info,entry,assoc_num,dynasty,yearBirth,yearDeath,examStatus
+x4,y3,,0,,,,0,,,,
+x5,y3,1273,-100,盧秉,盧秉 (1273) - Father,,5,宋,0,1092,科舉: 進士(籠統) (1049)
+x4,y2,1267,-20,盧知原,盧知原 (1267) - Elder brother,,4,宋,,1141,恩蔭(籠統)
+x5,y2,1270,100,盧法原,盧法原 (1270) - Ego,entry,2,宋,0,0,學校: 上舍及第

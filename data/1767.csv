@@ -1,0 +1,7 @@
+group,variable,personID,value,text,info,entry,assoc_num,dynasty,yearBirth,yearDeath,examStatus
+x4,y3,3941,-100,王洙,王洙 (3941) - Father,,0,,,,
+x5,y3,,0,,,,0,,,,
+x6,y3,899,60,寇平,寇平 (899) - Father-in-law (wife's father),,3,宋,1004,1065,科舉: 進士(籠統) (1034)
+x4,y2,,0,,,,0,,,,
+x5,y2,1767,100,王欽臣,王欽臣 (1767) - Ego,entry,2,宋,,,科舉學校: 恩賜出身、特賜出身等 (1086)
+x6,y2,,0,,,,0,,,,

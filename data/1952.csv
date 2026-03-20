@@ -1,0 +1,5 @@
+group,variable,personID,value,text,info,entry,assoc_num,dynasty,yearBirth,yearDeath,examStatus
+x4,y3,,0,,,,0,,,,
+x5,y3,1953,-100,文彥博,文彥博 (1953) - Father,,14,宋,1006,1097,科舉: 進士(籠統) (1027)
+x4,y2,7391,-20,文及甫,文及甫 (7391) - Brother,,0,,,,
+x5,y2,1952,100,文保雍,文保雍 (1952) - Ego,entry,2,宋,0,0,

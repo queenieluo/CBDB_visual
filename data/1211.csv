@@ -1,0 +1,5 @@
+group,variable,personID,value,text,info,entry,assoc_num,dynasty,yearBirth,yearDeath,examStatus
+x4,y4,,0,,,,0,,,,
+x5,y4,1245,-40,劉鎡,劉鎡 (1245) - Grandfather,,1,宋,0,0,科舉: 進士(籠統) (1094)
+x4,y2,1213,-20,劉敏士,劉敏士 (1213) - Cousin (father's brother's son),,1,宋,0,0,
+x5,y2,1211,100,劉敏求,劉敏求 (1211) - Ego,entry,2,宋,0,0,

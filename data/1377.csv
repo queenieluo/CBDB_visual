@@ -1,0 +1,7 @@
+group,variable,personID,value,text,info,entry,assoc_num,dynasty,yearBirth,yearDeath,examStatus
+x4,y3,,0,,,,0,,,,
+x5,y3,23849,-100,毌D,毌D (23849) - Father,,0,,,,
+x4,y2,23850,-20,毌湜,毌湜 (23850) - Elder brother,,0,,,,
+x5,y2,1377,100,毌沆,毌沆 (1377) - Ego,entry,3,宋,0,0,
+x4,y1,,0,,,,0,,,,
+x5,y1,4182,40,毌A,毌A (4182) - Son,,0,,,,

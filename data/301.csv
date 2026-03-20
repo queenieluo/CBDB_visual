@@ -1,0 +1,5 @@
+group,variable,personID,value,text,info,entry,assoc_num,dynasty,yearBirth,yearDeath,examStatus
+x4,y3,,0,,,,0,,,,
+x5,y3,13573,-100,張方回,張方回 (13573) - Father,,0,,,,
+x4,y2,225,-20,張瓌,張瓌 (225) - Elder brother,,5,宋,,,科舉: 正奏名進士 (1024)
+x5,y2,301,100,張璪,張璪 (301) - Ego,entry,2,宋,0,1093,科舉: 進士(籠統) (1057)

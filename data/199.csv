@@ -1,0 +1,13 @@
+group,variable,personID,value,text,info,entry,assoc_num,dynasty,yearBirth,yearDeath,examStatus
+x3,y3,,0,,,,0,,,,
+x4,y3,7021,60,周知默,周知默 (7021) - Father-in-law (wife's father),,0,,,,
+x5,y3,,0,,,,0,,,,
+x6,y3,12409,-20,張磐,張磐 (12409) - Uncle (father's brother),,0,,,,
+x3,y2,255,-20,張根,張根 (255) - Elder cousin (paternal),,14,宋,1062,1121,科舉: 進士(籠統) (1082)
+x4,y2,13669,-20,張樸,張樸 (13669) - Cousin (father's brother's son),,0,,,,
+x5,y2,199,100,張植,張植 (199) - Ego,entry,7,宋,1070,1132,科舉: 進士(籠統) (1094)
+x6,y2,46796,-80,周氏(張植妻),周氏(張植妻) (46796) - Wife,,0,,,,
+x3,y1,,0,,,,0,,,,
+x4,y1,8019,40,張燾,張燾 (8019) - Nephew (brother's son),,0,,,,
+x5,y1,,0,,,,0,,,,
+x6,y1,13961,20,臧漢之,臧漢之 (13961) - Son-in-law,,0,,,,

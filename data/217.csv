@@ -1,0 +1,16 @@
+group,variable,personID,value,text,info,entry,assoc_num,dynasty,yearBirth,yearDeath,examStatus
+x2,y3,,0,,,,0,,,,
+x3,y3,,0,,,,0,,,,
+x4,y3,3173,-100,張堯卿,張堯卿 (3173) - Father,,0,,,,
+x5,y3,,0,,,,0,,,,
+x6,y3,7056,60,馬絳,馬絳 (7056) - Father-in-law (wife's father),,0,,,,
+x2,y2,13774,40,張毣,張毣 (13774) - Grand-nephew (brother's grandson),,0,,,,
+x3,y2,13612,40,張恕,張恕 (13612) - Only surviving son,,0,,,,
+x4,y2,13612,40,張恕,張恕 (13612) - Youngest son,,0,,,,
+x5,y2,217,100,張方平,張方平 (217) - Ego,entry,7,宋,1007,1091,科舉: 制舉 (籠統) (1034)
+x6,y2,,0,,,,0,,,,
+x2,y1,,0,,,,0,,,,
+x3,y1,,0,,,,0,,,,
+x4,y1,1660,20,蔡天申,蔡天申 (1660) - Son-in-law,,2,宋,,1074,
+x5,y1,,0,,,,0,,,,
+x6,y1,7084,20,王鞏,王鞏 (7084) - Son-in-law,,0,,,,

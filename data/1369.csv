@@ -1,0 +1,9 @@
+group,variable,personID,value,text,info,entry,assoc_num,dynasty,yearBirth,yearDeath,examStatus
+x4,y3,20728,-100,莫援,莫援 (20728) - Father,,0,,,,
+x5,y3,,0,,,,0,,,,
+x6,y3,48252,-40,胡氏(莫援妻),胡氏(莫援妻) (48252) - Mother,,0,,,,
+x7,y3,,0,,,,0,,,,
+x4,y2,,0,,,,0,,,,
+x5,y2,1369,100,莫將,莫將 (1369) - Ego,entry,4,宋,0,1146,科舉: 進士(籠統)
+x6,y2,48253,-20,李氏(莫將妻),李氏(莫將妻) (48253) - First wife,,0,,,,
+x7,y2,53892,-20,章氏(莫將妻),章氏(莫將妻) (53892) - Second wife,,0,,,,

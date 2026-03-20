@@ -1,0 +1,10 @@
+group,variable,personID,value,text,info,entry,assoc_num,dynasty,yearBirth,yearDeath,examStatus
+x4,y3,16532,-20,俞偉,俞偉 (16532) - Uncle (father's brother),,0,,,,
+x5,y3,,0,,,,0,,,,
+x6,y3,44109,-40,辜氏(俞充母),辜氏(俞充母) (44109) - Mother,,0,,,,
+x4,y2,16537,40,俞疇,俞疇 (16537) - Great-grand-nephew,,0,,,,
+x5,y2,2082,100,俞充,俞充 (2082) - Ego,entry,4,宋,,,科舉: 正奏名進士 (1059)
+x6,y2,,0,,,,0,,,,
+x4,y1,,0,,,,0,,,,
+x5,y1,16536,40,俞次皋,俞次皋 (16536) - Son,,0,,,,
+x6,y1,,0,,,,0,,,,

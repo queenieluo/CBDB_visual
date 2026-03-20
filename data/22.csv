@@ -1,0 +1,10 @@
+group,variable,personID,value,text,info,entry,assoc_num,dynasty,yearBirth,yearDeath,examStatus
+x4,y3,,0,,,,0,,,,
+x5,y3,61,-100,陳康民,陳康民 (61) - Father,,2,宋,0,0,科舉: 進士(籠統)
+x6,y3,,0,,,,0,,,,
+x4,y2,,0,,,,0,,,,
+x5,y2,22,100,陳求道,陳求道 (22) - Ego,entry,4,宋,0,1130,科舉: 進士(籠統)
+x6,y2,119376,-80,蔡氏(陳求道妻),蔡氏(陳求道妻) (119376) - Wife,,0,,,,
+x4,y1,15047,40,陳符,陳符 (15047) - First son,,0,,,,
+x5,y1,,0,,,,0,,,,
+x6,y1,15046,40,陳佺,陳佺 (15046) - Second son,,0,,,,

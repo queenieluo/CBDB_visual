@@ -1,0 +1,7 @@
+group,variable,personID,value,text,info,entry,assoc_num,dynasty,yearBirth,yearDeath,examStatus
+x3,y3,,0,,,,0,,,,
+x4,y3,,0,,,,0,,,,
+x5,y3,3597,-100,劉拱,劉拱 (3597) - Father,,0,,,,
+x3,y2,1238,-20,劉岑,劉岑 (1238) - Elder brother,,4,宋,1087,1167,科舉: 進士(籠統) (1124)
+x4,y2,3594,-20,劉一止,劉一止 (3594) - Cousin (father's brother's son),,0,,,,
+x5,y2,1217,100,劉寧止,劉寧止 (1217) - Ego,entry,3,宋,0,0,科舉: 進士(籠統) (1121)

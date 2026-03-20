@@ -1,0 +1,7 @@
+group,variable,personID,value,text,info,entry,assoc_num,dynasty,yearBirth,yearDeath,examStatus
+x4,y4,,0,,,,0,,,,
+x5,y4,3469,-40,李A,李A (3469) - Grandfather,,0,,,,
+x4,y3,,0,,,,0,,,,
+x5,y3,19602,-20,李N,李N (19602) - Uncle (father's brother),,0,,,,
+x4,y2,5236,-20,李珏,李珏 (5236) - Younger female cousin (paternal),,0,,,,
+x5,y2,1004,100,李梲,李梲 (1004) - Ego,entry,3,宋,0,0,

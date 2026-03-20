@@ -1,0 +1,13 @@
+group,variable,personID,value,text,info,entry,assoc_num,dynasty,yearBirth,yearDeath,examStatus
+x4,y4,,0,,,,0,,,,
+x5,y4,8064,-40,胡宿,胡宿 (8064) - Grandfather,,0,,,,
+x6,y4,,0,,,,0,,,,
+x4,y3,18839,-100,胡宗質,胡宗質 (18839) - Father,,0,,,,
+x5,y3,,0,,,,0,,,,
+x6,y3,8030,60,鄭雍,鄭雍 (8030) - Father-in-law (wife's father),,0,,,,
+x4,y2,,0,,,,0,,,,
+x5,y2,818,100,胡奕脩,胡奕脩 (818) - Ego,entry,4,宋,1058,1108,恩蔭(籠統)
+x6,y2,,0,,,,0,,,,
+x4,y1,,0,,,,0,,,,
+x5,y1,816,40,胡紡,胡紡 (816) - Nephew (brother's son),,1,宋,0,0,
+x6,y1,,0,,,,0,,,,

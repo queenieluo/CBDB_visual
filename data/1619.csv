@@ -1,0 +1,5 @@
+group,variable,personID,value,text,info,entry,assoc_num,dynasty,yearBirth,yearDeath,examStatus
+x4,y3,,0,,,,0,,,,
+x5,y3,24397,-20,田亮,田亮 (24397) - Uncle (father's brother),,0,,,,
+x4,y2,8089,-20,劉摯,劉摯 (8089) - Marriage relative,,0,,,,
+x5,y2,1619,100,田子諒,田子諒 (1619) - Ego,entry,2,宋,0,0,

@@ -1,0 +1,10 @@
+group,variable,personID,value,text,info,entry,assoc_num,dynasty,yearBirth,yearDeath,examStatus
+x4,y3,3127,-100,張制,張制 (3127) - Father,,0,,,,
+x5,y3,,0,,,,0,,,,
+x6,y3,7295,60,劉幾道,劉幾道 (7295) - Father-in-law (wife's father),,0,,,,
+x4,y2,1229,-20,劉師道,劉師道 (1229) - Wife's uncle,,3,宋,961,1014,科舉: 進士(籠統) (985)
+x5,y2,267,100,張保雍,張保雍 (267) - Ego,entry,4,宋,975,1033,科舉: 進士(籠統) (1005)
+x6,y2,,0,,,,0,,,,
+x4,y1,,0,,,,0,,,,
+x5,y1,7173,40,張彥博,張彥博 (7173) - Son,,0,,,,
+x6,y1,,0,,,,0,,,,

@@ -1,0 +1,7 @@
+group,variable,personID,value,text,info,entry,assoc_num,dynasty,yearBirth,yearDeath,examStatus
+x4,y3,,0,,,,0,,,,
+x5,y3,26130,-100,周緒,周緒 (26130) - Father,,0,,,,
+x4,y2,489,-20,周澣,周澣 (489) - Elder brother,,2,宋,0,0,
+x5,y2,499,100,周實,周實 (499) - Ego,entry,3,宋,0,0,
+x4,y1,,0,,,,0,,,,
+x5,y1,26131,40,周宗古,周宗古 (26131) - Son,,0,,,,

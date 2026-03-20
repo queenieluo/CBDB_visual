@@ -1,0 +1,7 @@
+group,variable,personID,value,text,info,entry,assoc_num,dynasty,yearBirth,yearDeath,examStatus
+x3,y3,,0,,,,0,,,,
+x4,y3,,0,,,,0,,,,
+x5,y3,10178,-100,周濤,周濤 (10178) - Father,,0,,,,
+x3,y2,10180,-20,周秘,周秘 (10180) - Younger brother,,0,,,,
+x4,y2,485,-20,周穜,周穜 (485) - Elder brother,,4,宋,0,0,科舉: 正奏名進士 (1076)
+x5,y2,481,100,周秩,周秩 (481) - Ego,entry,3,宋,0,0,科舉: 進士(籠統) (1076)

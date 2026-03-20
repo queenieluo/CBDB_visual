@@ -1,0 +1,10 @@
+group,variable,personID,value,text,info,entry,assoc_num,dynasty,yearBirth,yearDeath,examStatus
+x4,y3,,0,,,,0,,,,
+x5,y3,3089,-100,陳宗旦,陳宗旦 (3089) - Father,,0,,,,
+x6,y3,,0,,,,0,,,,
+x4,y2,14301,40,陳粹父,陳粹父 (14301) - Youngest son,,0,,,,
+x5,y2,25,100,陳洎,陳洎 (25) - Ego,entry,4,宋,,1049,
+x6,y2,,0,,,,0,,,,
+x4,y1,3051,40,陳琪,陳琪 (3051) - First son,,0,,,,
+x5,y1,,0,,,,0,,,,
+x6,y1,14300,40,陳某(陳洎子),陳某(陳洎子) (14300) - Second son,,0,,,,

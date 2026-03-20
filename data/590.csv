@@ -1,0 +1,7 @@
+group,variable,personID,value,text,info,entry,assoc_num,dynasty,yearBirth,yearDeath,examStatus
+x4,y3,582,-100,范鏜,范鏜 (582) - Father,,3,宋,0,0,科舉: 正奏名進士 (1073)
+x5,y3,,0,,,,0,,,,
+x6,y3,21435,60,孫宗鑑,孫宗鑑 (21435) - Father-in-law (wife's father),,0,,,,
+x4,y2,12973,-20,范寅敷,范寅敷 (12973) - Elder brother,,0,,,,
+x5,y2,590,100,范寅秩,范寅秩 (590) - Ego,entry,3,宋,0,0,恩蔭(籠統)
+x6,y2,,0,,,,0,,,,

@@ -1,0 +1,16 @@
+group,variable,personID,value,text,info,entry,assoc_num,dynasty,yearBirth,yearDeath,examStatus
+x3,y3,,0,,,,0,,,,
+x4,y3,13734,-100,張昭易,張昭易 (13734) - Father,,0,,,,
+x5,y3,,0,,,,0,,,,
+x6,y3,7149,-20,張昭允,張昭允 (7149) - Uncle (father's brother),,0,,,,
+x7,y3,,0,,,,0,,,,
+x3,y2,1389,-20,潘美,潘美 (1389) - Cousin's husband (father's brother's daughter's husband),,18,宋,921,987,
+x4,y2,192,-20,張正中,張正中 (192) - Cousin (father's brother's son),,3,宋,0,0,
+x5,y2,226,100,張象中,張象中 (226) - Ego,entry,8,宋,0,0,科舉: 進士(籠統) (1024)
+x6,y2,,0,,,,0,,,,
+x7,y2,,0,,,,0,,,,
+x3,y1,306,40,張宗彝,張宗彝 (306) - Son,,1,宋,0,0,科舉: 進士(籠統) (1030)
+x4,y1,7170,40,張宗古,張宗古 (7170) - Son,,0,,,,
+x5,y1,,0,,,,0,,,,
+x6,y1,275,40,張升卿,張升卿 (275) - Grandson,,13,宋,0,0,
+x7,y1,7167,40,張挺卿,張挺卿 (7167) - Grandson,,0,,,,

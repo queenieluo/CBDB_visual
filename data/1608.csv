@@ -1,0 +1,13 @@
+group,variable,personID,value,text,info,entry,assoc_num,dynasty,yearBirth,yearDeath,examStatus
+x3,y3,,0,,,,0,,,,
+x4,y3,21571,-100,滕中,滕中 (21571) - Father,,0,,,,
+x5,y3,,0,,,,0,,,,
+x6,y3,4171,-20,滕元發,滕元發 (4171) - Uncle (father's brother),,0,,,,
+x3,y2,119767,-20,滕華實,滕華實 (119767) - Younger brother,,0,,,,
+x4,y2,119768,-20,滕綯,滕綯 (119768) - Elder brother,,0,,,,
+x5,y2,1608,100,滕茂實,滕茂實 (1608) - Ego,entry,6,宋,0,1128,科舉: 進士(籠統) (1118)
+x6,y2,,0,,,,0,,,,
+x3,y1,,0,,,,0,,,,
+x4,y1,21581,40,滕膺,滕膺 (21581) - Nephew (brother's son),,0,,,,
+x5,y1,,0,,,,0,,,,
+x6,y1,21586,40,滕修,滕修 (21586) - Son,,0,,,,

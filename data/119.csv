@@ -1,0 +1,9 @@
+group,variable,personID,value,text,info,entry,assoc_num,dynasty,yearBirth,yearDeath,examStatus
+x4,y4,,0,,,,0,,,,
+x5,y4,15709,-40,程適,程適 (15709) - Grandfather,,0,,,,
+x4,y3,,0,,,,0,,,,
+x5,y3,15565,-100,程宗顏,程宗顏 (15565) - Father,,0,,,,
+x4,y2,15569,40,程叔達,程叔達 (15569) - Grand-nephew (brother's grandson),,0,,,,
+x5,y2,119,100,程邁,程邁 (119) - Ego,entry,4,宋,1068,1145,科舉: 進士(籠統) (1100)
+x4,y1,,0,,,,0,,,,
+x5,y1,15642,40,程渭老,程渭老 (15642) - Grandson,,0,,,,

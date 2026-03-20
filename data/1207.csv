@@ -1,0 +1,16 @@
+group,variable,personID,value,text,info,entry,assoc_num,dynasty,yearBirth,yearDeath,examStatus
+x3,y3,,0,,,,0,,,,
+x4,y3,1226,-100,劉式,劉式 (1226) - Father,,8,宋,949,997,科舉: 正奏名諸科(不含明經、明法)
+x5,y3,,0,,,,0,,,,
+x6,y3,15706,60,王礪,王礪 (15706) - Father-in-law (wife's father),,0,,,,
+x7,y3,,0,,,,0,,,,
+x3,y2,659,40,韓宗直,韓宗直 (659) - Granddaughter's husband,,5,宋,0,0,
+x4,y2,3580,40,劉敞,劉敞 (3580) - Eldest surviving son,,0,,,,
+x5,y2,1207,100,劉立之,劉立之 (1207) - Ego,entry,9,宋,,,科舉: 進士(籠統) (1008)
+x6,y2,51931,-80,王氏(劉立之妻),王氏(劉立之妻) (51931) - Wife,,0,,,,
+x7,y2,,0,,,,0,,,,
+x3,y1,27000,40,劉敔,劉敔 (27000) - Nephew (brother's son),,0,,,,
+x4,y1,7011,20,張諷,張諷 (7011) - Son-in-law,,0,,,,
+x5,y1,,0,,,,0,,,,
+x6,y1,1220,40,劉攽,劉攽 (1220) - Second son,,8,宋,,,科舉: 進士(籠統) (1046)
+x7,y1,4148,40,劉放,劉放 (4148) - Third son,,0,,,,

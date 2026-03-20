@@ -1,0 +1,13 @@
+group,variable,personID,value,text,info,entry,assoc_num,dynasty,yearBirth,yearDeath,examStatus
+x3,y2,,0,,,,0,,,,
+x4,y2,37906,40,王掞,王掞 (37906) - Youngest son,,0,,,,
+x5,y2,1855,100,王明,王明 (1855) - Ego,entry,6,宋,919,991,薦舉 (保任)
+x6,y2,,0,,,,0,,,,
+x7,y2,,0,,,,0,,,,
+x8,y2,,0,,,,0,,,,
+x3,y1,1886,40,王挺,王挺 (1886) - First son,,2,宋,0,0,科舉: 進士(籠統)
+x4,y1,1804,40,王扶,王扶 (1804) - Second son,,4,宋,0,0,科舉: 進士(籠統)
+x5,y1,,0,,,,0,,,,
+x6,y1,22250,40,王師顏,王師顏 (22250) - Grandson,,0,,,,
+x7,y1,121401,40,王師顏,王師顏 (121401) - Grandson,,0,,,,
+x8,y1,1844,40,王廣淵,王廣淵 (1844) - Great-grandson,,7,宋,,,科舉: 進士(籠統)

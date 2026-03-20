@@ -1,0 +1,9 @@
+group,variable,personID,value,text,info,entry,assoc_num,dynasty,yearBirth,yearDeath,examStatus
+x4,y2,429,-20,鄭佑,鄭佑 (429) - Brother,,2,宋,0,0,
+x5,y2,413,100,鄭僅,鄭僅 (413) - Ego,entry,4,宋,1047,1113,科舉: 進士(籠統)
+x6,y2,,0,,,,0,,,,
+x7,y2,,0,,,,0,,,,
+x4,y1,426,40,鄭資之,鄭資之 (426) - Son,,2,宋,0,0,
+x5,y1,,0,,,,0,,,,
+x6,y1,427,40,鄭望之,鄭望之 (427) - Son,,3,宋,1078,1161,科舉: 進士(籠統) (1106)
+x7,y1,25491,40,鄭L,鄭L (25491) - Grandson,,0,,,,

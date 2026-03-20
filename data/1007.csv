@@ -1,0 +1,5 @@
+group,variable,personID,value,text,info,entry,assoc_num,dynasty,yearBirth,yearDeath,examStatus
+x4,y3,,0,,,,0,,,,
+x5,y3,3483,-100,李建中,李建中 (3483) - Father,,0,,,,
+x4,y2,3488,-20,李周道,李周道 (3488) - Elder brother,,0,,,,
+x5,y2,1007,100,李周士,李周士 (1007) - Ego,entry,2,宋,0,0,科舉: 進士(籠統) (988)

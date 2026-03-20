@@ -1,0 +1,7 @@
+group,variable,personID,value,text,info,entry,assoc_num,dynasty,yearBirth,yearDeath,examStatus
+x4,y3,21831,-100,杜輔世,杜輔世 (21831) - Father,,0,,,,
+x5,y3,,0,,,,0,,,,
+x6,y3,13073,60,黃相,黃相 (13073) - Father-in-law (wife's father),,0,,,,
+x4,y2,3915,-20,杜甫,杜甫 (3915) - Lineal ancestor,,0,,,,
+x5,y2,1726,100,杜莘老,杜莘老 (1726) - Ego,entry,3,宋,1107,1164,科舉: 進士(籠統) (1138)
+x6,y2,,0,,,,0,,,,

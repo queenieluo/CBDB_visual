@@ -1,0 +1,7 @@
+group,variable,personID,value,text,info,entry,assoc_num,dynasty,yearBirth,yearDeath,examStatus
+x4,y3,7011,-100,張諷,張諷 (7011) - Father,,0,,,,
+x5,y3,,0,,,,0,,,,
+x6,y3,233,-20,張詢,張詢 (233) - Uncle (father's brother),,4,宋,0,0,科舉: 進士(籠統) (1059)
+x4,y2,,0,,,,0,,,,
+x5,y2,328,100,張元方,張元方 (328) - Ego,entry,2,宋,0,0,科舉: 進士(籠統) (1073)
+x6,y2,,0,,,,0,,,,

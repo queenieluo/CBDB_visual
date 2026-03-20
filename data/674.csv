@@ -1,0 +1,7 @@
+group,variable,personID,value,text,info,entry,assoc_num,dynasty,yearBirth,yearDeath,examStatus
+x5,y3,8053,-100,何執中,何執中 (8053) - Father,,0,,,,
+x6,y3,,0,,,,0,,,,
+x5,y2,674,100,何偁,何偁 (674) - Ego,entry,3,宋,1121,1178,科舉: 進士(籠統)
+x6,y2,42106,-80,石氏(何偁妻),石氏(何偁妻) (42106) - Wife,,0,,,,
+x5,y1,12732,40,何澹,何澹 (12732) - Son,,0,,,,
+x6,y1,,0,,,,0,,,,

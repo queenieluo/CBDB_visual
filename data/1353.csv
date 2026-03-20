@@ -1,0 +1,9 @@
+group,variable,personID,value,text,info,entry,assoc_num,dynasty,yearBirth,yearDeath,examStatus
+x2,y3,,0,,,,0,,,,
+x3,y3,,0,,,,0,,,,
+x4,y3,,0,,,,0,,,,
+x5,y3,15487,-100,馬某,馬某 (15487) - Father,,0,,,,
+x2,y2,15490,-20,馬存,馬存 (15490) - Clan grandson,,0,,,,
+x3,y2,15489,-20,馬順,馬順 (15489) - Clan nephew,,0,,,,
+x4,y2,15488,-20,馬康民,馬康民 (15488) - Clan nephew,,0,,,,
+x5,y2,1353,100,馬遵,馬遵 (1353) - Ego,entry,4,宋,,,科舉: 進士(籠統) (1034)

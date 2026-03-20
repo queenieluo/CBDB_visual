@@ -1,0 +1,10 @@
+group,variable,personID,value,text,info,entry,assoc_num,dynasty,yearBirth,yearDeath,examStatus
+x4,y4,,0,,,,0,,,,
+x5,y4,21335,-40,孫鐐,孫鐐 (21335) - Great-grandfather,,0,,,,
+x6,y4,,0,,,,0,,,,
+x4,y2,,0,,,,0,,,,
+x5,y2,1529,100,孫羲叟,孫羲叟 (1529) - Ego,entry,3,宋,0,0,
+x6,y2,,0,,,,0,,,,
+x4,y1,21336,40,孫濤,孫濤 (21336) - Son,,0,,,,
+x5,y1,,0,,,,0,,,,
+x6,y1,3777,40,孫堪,孫堪 (3777) - Great-grandson,,0,,,,

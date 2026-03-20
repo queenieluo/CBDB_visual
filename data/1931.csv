@@ -1,0 +1,7 @@
+group,variable,personID,value,text,info,entry,assoc_num,dynasty,yearBirth,yearDeath,examStatus
+x4,y3,1933,-100,王說,王說 (1933) - Father,,9,宋,1028,1101,科舉: 進士(籠統)
+x5,y3,,0,,,,0,,,,
+x6,y3,3369,60,辛有終,辛有終 (3369) - Father-in-law (wife's father),,0,,,,
+x4,y2,,0,,,,0,,,,
+x5,y2,1931,100,王瑜,王瑜 (1931) - Ego,entry,2,宋,0,0,
+x6,y2,,0,,,,0,,,,

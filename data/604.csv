@@ -1,0 +1,5 @@
+group,variable,personID,value,text,info,entry,assoc_num,dynasty,yearBirth,yearDeath,examStatus
+x4,y3,,0,,,,0,,,,
+x5,y3,597,-100,方偕,方偕 (597) - Father,,16,宋,992,1055,科舉: 進士(籠統) (1011)
+x4,y2,37,-20,陳靖,陳靖 (37) - Wife's grandfather,,9,宋,0,0,薦舉 (保任)
+x5,y2,604,100,方沃,方沃 (604) - Ego,entry,2,宋,0,0,

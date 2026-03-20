@@ -1,0 +1,11 @@
+group,variable,personID,value,text,info,entry,assoc_num,dynasty,yearBirth,yearDeath,examStatus
+x2,y3,,0,,,,0,,,,
+x3,y3,,0,,,,0,,,,
+x4,y3,657,-100,韓綜,韓綜 (657) - Father,,14,宋,1009,1053,科舉: 進士(籠統) (1030)
+x5,y3,,0,,,,0,,,,
+x6,y3,3580,60,劉敞,劉敞 (3580) - Father-in-law (wife's father),,0,,,,
+x2,y2,1235,-20,劉當時,劉當時 (1235) - Wife's brother,,2,宋,0,0,
+x3,y2,1195,-20,劉奉世,劉奉世 (1195) - Wife's brother,,4,宋,1041,1113,科舉: 進士(籠統)
+x4,y2,1207,-20,劉立之,劉立之 (1207) - Wife's grandfather,,9,宋,,,科舉: 進士(籠統) (1008)
+x5,y2,659,100,韓宗直,韓宗直 (659) - Ego,entry,5,宋,0,0,
+x6,y2,,0,,,,0,,,,

@@ -1,0 +1,7 @@
+group,variable,personID,value,text,info,entry,assoc_num,dynasty,yearBirth,yearDeath,examStatus
+x4,y3,1653,-100,蔡抗,蔡抗 (1653) - Father,,8,宋,1008,1067,科舉: 進士(籠統) (1034)
+x5,y3,,0,,,,0,,,,
+x6,y3,1661,-100,蔡挺,蔡挺 (1661) - Father,,14,宋,1014,1079,科舉: 進士(籠統) (1034)
+x4,y2,,0,,,,0,,,,
+x5,y2,1663,100,蔡煜,蔡煜 (1663) - Ego,entry,2,宋,0,0,
+x6,y2,,0,,,,0,,,,
