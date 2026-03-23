@@ -90,14 +90,6 @@ export function Grid({
               );
             })}
 
-            {/* Title */}
-            <text x={0} y={-20} className="grid-title" fontSize={18} fontWeight={600}>
-              CBDB
-            </text>
-            <text x={0} y={-4} className="grid-subtitle" fontSize={12} fill="#666">
-              Kinship Relationship
-            </text>
-
             {/* Cells */}
             {data.map(cell => {
               const cx = scales.x(cell.group);

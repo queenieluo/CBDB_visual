@@ -1,8 +1,8 @@
 import { useCallback } from 'react';
 import { useTreeState, useTreeDispatch } from '../state/TreeContext';
 import { fetchPersonCSV } from '../api';
-import { mergeNodes } from '../engine/mergeNodes';
-import { buildEdges } from '../engine/edgeBuilder';
+import { mergeNodes, reorderByCloseness } from '../engine/mergeNodes';
+import { buildEdges, buildEdgesForExpansion } from '../engine/edgeBuilder';
 import type { PersonNode, GridCell } from '../types';
 
 function gridCellsToNodes(cells: GridCell[]): Map<number, PersonNode> {
@@ -34,7 +34,8 @@ export function usePersonData() {
   const searchPerson = useCallback(async (personID: number) => {
     dispatch({ type: 'SEARCH_START', query: String(personID) });
     try {
-      const gridData = await fetchPersonCSV(personID);
+      const rawGridData = await fetchPersonCSV(personID);
+      const gridData = reorderByCloseness(rawGridData, personID);
       const nodes = gridCellsToNodes(gridData);
       const edges = buildEdges(gridData, personID);
       dispatch({ type: 'SEARCH_SUCCESS', personID, gridData, nodes, edges });
@@ -68,7 +69,18 @@ export function usePersonData() {
       );
       const merged = mergeNodes(state.gridData, existingNodeIDs, newData, cell);
       const nodes = gridCellsToNodes(merged);
-      const edges = buildEdges(merged, state.rootPersonID);
+
+      // Find which cells are newly added (not in the original grid)
+      const newCellIDs = new Set<number>();
+      for (const c of merged) {
+        if (!c.isEmpty && c.personID > 0 && !state.gridData.some(d => d.personID === c.personID)) {
+          newCellIDs.add(c.personID);
+        }
+      }
+
+      // Build edges from the expanded person to their new relatives (not from root)
+      const newEdges = buildEdgesForExpansion(merged, cell.personID, newCellIDs);
+      const edges = [...state.edges, ...newEdges];
 
       dispatch({ type: 'ADD_EXPANDED', personID: cell.personID });
       dispatch({ type: 'EXPAND_SUCCESS', gridData: merged, nodes, edges });

@@ -131,6 +131,7 @@ function loadPersons(jsonPath) {
       gender: basic.Gender || '0',
       examStatus,
       nativePlace,
+      indexYear: basic.IndexYear || '',
       kin: kinList,
     });
   }
@@ -307,6 +308,20 @@ function getGeneration(kinCode, kinCodes) {
   return up - down; // positive = ancestor, negative = descendant
 }
 
+/**
+ * Calculate total kinship step size (closeness measure).
+ * Lower = closer kinship.
+ */
+function getTotalSteps(kinCode, kinCodes) {
+  const info = kinCodes.get(kinCode);
+  if (!info) return 99;
+  const up = info.upstep >= 99 ? 0 : info.upstep;
+  const down = info.dwnstep >= 99 ? 0 : info.dwnstep;
+  const mar = info.marstep >= 99 ? 0 : info.marstep;
+  const col = info.colstep >= 99 ? 0 : info.colstep;
+  return up + down + mar + col;
+}
+
 // ─── Determine value code for coloring ──────────────────────────────────────
 
 function getValueCode(kinRel, kinCode, kinCodes) {
@@ -356,6 +371,8 @@ function buildGrid(egoID, persons, kinCodes) {
     yearBirth: ego.yearBirth,
     yearDeath: ego.yearDeath,
     examStatus: ego.examStatus,
+    nativePlace: ego.nativePlace,
+    indexYear: ego.indexYear,
   };
   cells.push(egoCell);
 
@@ -377,65 +394,70 @@ function buildGrid(egoID, persons, kinCodes) {
       gen,
       valueCode,
       person: kinPerson,
+      totalSteps: getTotalSteps(k.KinCode, kinCodes),
     });
   }
 
   // Group by generation level
   const byGen = new Map();
   for (const r of relatives) {
-    let yLevel;
-    if (r.gen > 0) {
-      yLevel = egoY + Math.min(r.gen, 2); // parents at y3, grandparents at y4
-    } else if (r.gen < 0) {
-      yLevel = egoY + Math.max(r.gen, -1); // children at y1
-    } else {
-      // Same generation (siblings, spouses, cousins)
-      yLevel = egoY;
-    }
+    // Use actual generation delta from kinship codes (c_upstep - c_dwnstep)
+    const yLevel = egoY + r.gen;
 
     if (!byGen.has(yLevel)) byGen.set(yLevel, []);
     byGen.get(yLevel).push(r);
   }
 
-  // Place each generation row
-  // Ego gen: ego at x5, spouse to right, siblings to left, in-laws further out
-  const egoGenRelatives = byGen.get(egoY) || [];
-  let leftX = 4;  // left of ego
-  let rightX = 6; // right of ego
+  // Helper: find nearest unoccupied x position radiating from center
+  const occupiedPositions = new Set(); // "x:y" keys
+  occupiedPositions.add(`5:${egoY}`); // ego position
 
-  // Spouses go right of ego
+  function findNearestX(centerX, yLevel) {
+    if (!occupiedPositions.has(`${centerX}:${yLevel}`)) return centerX;
+    for (let d = 1; d <= 50; d++) {
+      if (!occupiedPositions.has(`${centerX - d}:${yLevel}`)) return centerX - d;
+      if (!occupiedPositions.has(`${centerX + d}:${yLevel}`)) return centerX + d;
+    }
+    return centerX + 51;
+  }
+
+  // Place each generation row, sorted by closeness (closest kin nearest to ego)
+  // Ego gen: ego at x5, spouses to right, others to left
+  const egoGenRelatives = byGen.get(egoY) || [];
+
+  // Spouses go right of ego, sorted by closeness
   const spouses = egoGenRelatives.filter(r =>
     ['W', 'H', 'C', 'W1', 'W2', 'W3'].includes(r.kinRel.replace(/[0-9]/g, '').toUpperCase()) ||
     r.kinRel.toUpperCase() === 'W' || r.kinRel.toUpperCase() === 'H' || r.kinRel.toUpperCase() === 'C'
   );
-  const siblings = egoGenRelatives.filter(r => !spouses.includes(r));
+  const others = egoGenRelatives.filter(r => !spouses.includes(r));
 
+  spouses.sort((a, b) => a.totalSteps - b.totalSteps);
+  others.sort((a, b) => a.totalSteps - b.totalSteps);
+
+  let rightX = 6;
   for (const s of spouses) {
-    if (rightX > 9) break;
+    while (occupiedPositions.has(`${rightX}:${egoY}`)) rightX++;
     cells.push(makeCell(s, `x${rightX}`, `y${egoY}`, egoID));
+    occupiedPositions.add(`${rightX}:${egoY}`);
     rightX++;
   }
-  for (const s of siblings) {
-    if (leftX < 1) break;
-    cells.push(makeCell(s, `x${leftX}`, `y${egoY}`, egoID));
+  let leftX = 4;
+  for (const o of others) {
+    while (occupiedPositions.has(`${leftX}:${egoY}`)) leftX--;
+    cells.push(makeCell(o, `x${leftX}`, `y${egoY}`, egoID));
+    occupiedPositions.add(`${leftX}:${egoY}`);
     leftX--;
   }
 
-  // Parent/grandparent generations
+  // Non-ego generations: sort by closeness, radiate from ego column (x5)
   for (const [yLevel, rels] of byGen) {
     if (yLevel === egoY) continue;
-    let xPos = 4; // start left of center
-    // Center parents around x4-x6
-    const startX = Math.max(1, 5 - Math.floor(rels.length / 2));
-    xPos = startX;
+    rels.sort((a, b) => a.totalSteps - b.totalSteps);
     for (const r of rels) {
-      if (xPos === 5 && yLevel !== egoY) {
-        // Skip ego column for non-ego rows, or use it if needed
-      }
-      if (xPos > 9) break;
+      const xPos = findNearestX(5, yLevel);
       cells.push(makeCell(r, `x${xPos}`, `y${yLevel}`, egoID));
-      xPos++;
-      if (xPos === 5 && yLevel !== egoY && rels.length > 1) xPos++; // skip ego col for spacing
+      occupiedPositions.add(`${xPos}:${yLevel}`);
     }
   }
 
@@ -456,6 +478,7 @@ function buildGrid(egoID, persons, kinCodes) {
           text: '', info: '',
           entry: '', assoc_num: 0,
           dynasty: '', yearBirth: '', yearDeath: '', examStatus: '',
+          nativePlace: '', indexYear: '',
         });
       }
     }
@@ -489,12 +512,14 @@ function makeCell(relative, group, variable, egoID) {
     yearBirth: p ? p.yearBirth : '',
     yearDeath: p ? p.yearDeath : '',
     examStatus: p ? p.examStatus : '',
+    nativePlace: p ? p.nativePlace : '',
+    indexYear: p ? p.indexYear : '',
   };
 }
 
 // ─── Write CSV ──────────────────────────────────────────────────────────────
 
-const CSV_HEADERS = ['group', 'variable', 'personID', 'value', 'text', 'info', 'entry', 'assoc_num', 'dynasty', 'yearBirth', 'yearDeath', 'examStatus'];
+const CSV_HEADERS = ['group', 'variable', 'personID', 'value', 'text', 'info', 'entry', 'assoc_num', 'dynasty', 'yearBirth', 'yearDeath', 'examStatus', 'nativePlace', 'indexYear'];
 
 function escapeCSVField(val) {
   const s = String(val ?? '');
@@ -512,20 +537,146 @@ function writeGridCSV(personID, cells) {
   writeFileSync(join(DATA_DIR, `${personID}.csv`), lines.join('\n') + '\n');
 }
 
+// ─── Compose multi-hop relationship labels ──────────────────────────────────
+
+const COMPOSED_LABELS = {
+  "Father|Father": "Paternal grandfather",
+  "Father|Mother": "Paternal grandmother",
+  "Mother|Father": "Maternal grandfather",
+  "Mother|Mother": "Maternal grandmother",
+  "Father|Father|Father": "Paternal great-grandfather",
+  "Father|Father|Mother": "Paternal great-grandmother",
+  "Father|Brother": "Uncle (father's brother)",
+  "Father|Sister": "Aunt (father's sister)",
+  "Mother|Brother": "Uncle (mother's brother)",
+  "Mother|Sister": "Aunt (mother's sister)",
+  "Father|Brother|Son": "Cousin (father's brother's son)",
+  "Father|Brother|Daughter": "Cousin (father's brother's daughter)",
+  "Brother|Son": "Nephew (brother's son)",
+  "Brother|Daughter": "Niece (brother's daughter)",
+  "Sister|Son": "Nephew (sister's son)",
+  "Sister|Daughter": "Niece (sister's daughter)",
+  "Son|Son": "Grandson",
+  "Son|Daughter": "Granddaughter",
+  "Daughter|Son": "Grandson (daughter's son)",
+  "Daughter|Daughter": "Granddaughter (daughter's daughter)",
+  "Son|Son|Son": "Great-grandson",
+  "Son|Spouse": "Daughter-in-law",
+  "Daughter|Spouse": "Son-in-law",
+  "Brother|Spouse": "Sister-in-law",
+  "Sister|Spouse": "Brother-in-law",
+  "Spouse|Father": "Father-in-law",
+  "Spouse|Mother": "Mother-in-law",
+  "Spouse|Brother": "Brother-in-law",
+  "Spouse|Sister": "Sister-in-law",
+};
+
+function normalizeForChain(rel) {
+  const l = rel.toLowerCase();
+  if (l === 'wife' || l === 'husband' || l === 'concubine') return 'Spouse';
+  if (l.includes('brother')) return 'Brother';
+  if (l.includes('sister')) return 'Sister';
+  if (l.includes('father')) return 'Father';
+  if (l.includes('mother')) return 'Mother';
+  if (l.includes('son')) return 'Son';
+  if (l.includes('daughter')) return 'Daughter';
+  if (l.includes('grandson')) return 'Grandson';
+  if (l.includes('granddaughter')) return 'Granddaughter';
+  return rel.charAt(0).toUpperCase() + rel.slice(1).toLowerCase();
+}
+
+function chainToLabel(chain) {
+  if (chain.length === 0) return 'Ego';
+  if (chain.length === 1) return chain[0];
+  const normalized = chain.map(normalizeForChain);
+  const key = normalized.join('|');
+  if (COMPOSED_LABELS[key]) return COMPOSED_LABELS[key];
+  return normalized.map((r, i) => {
+    if (i === normalized.length - 1) return r.toLowerCase();
+    return r + "'s";
+  }).join(' ');
+}
+
 // ─── Generate kinship path files ────────────────────────────────────────────
 
-function writeKinshipPaths(egoID, cells, persons) {
+function writeKinshipPaths(egoID, cells, persons, kinCodes) {
   const ego = persons.get(egoID);
   if (!ego) return;
   const egoName = ego.chName;
 
+  // Build a map of direct relatives from cells (single-hop)
+  const directRelatives = new Map();
   for (const cell of cells) {
     if (!cell.personID || cell.personID === egoID || cell.value === 0) continue;
     const relMatch = cell.info.match(/- (.+)$/);
     const rel = relMatch ? relMatch[1] : 'Unknown';
-    const path = `${egoName} → ${cell.text} (${rel})`;
-    const filePath = join(KINSHIP_DIR, `${egoID}-${cell.personID}.txt`);
-    writeFileSync(filePath, path);
+    directRelatives.set(cell.personID, { name: cell.text, rel });
+  }
+
+  // Write single-hop paths for direct relatives
+  for (const [pid, { name, rel }] of directRelatives) {
+    const path = `${egoName} → ${name}(${rel})`;
+    writeFileSync(join(KINSHIP_DIR, `${egoID}-${pid}.txt`), path);
+  }
+
+  // BFS to find multi-hop relatives (through other persons' kinship data)
+  const resolved = new Map(); // personID → { chain: [{name, localRel, personID}] }
+  const visited = new Set([egoID]);
+
+  // Seed with direct relatives
+  for (const [pid, { name, rel }] of directRelatives) {
+    resolved.set(pid, { chain: [{ name, localRel: rel, personID: pid }] });
+  }
+
+  const queue = [...directRelatives.entries()].map(([pid, { name, rel }]) => ({
+    personID: pid,
+    chain: [{ name, localRel: rel, personID: pid }],
+  }));
+
+  while (queue.length > 0) {
+    const { personID, chain: parentChain } = queue.shift();
+    if (visited.has(personID)) continue;
+    visited.add(personID);
+
+    const person = persons.get(personID);
+    if (!person) continue;
+
+    for (const k of person.kin) {
+      const kinPID = parseInt(k.KinPersonId);
+      if (!kinPID || kinPID <= 0 || resolved.has(kinPID) || kinPID === egoID) continue;
+
+      const kinRel = k.KinRel || '';
+      const label = kinCodeToLabel(k.KinCode, k.KinRelName, kinRel, kinCodes);
+      const kinPerson = persons.get(kinPID);
+      const name = k.KinPersonName || (kinPerson ? kinPerson.chName : `Person ${kinPID}`);
+
+      const newChain = [...parentChain, { name, localRel: label, personID: kinPID }];
+      resolved.set(kinPID, { chain: newChain });
+      queue.push({ personID: kinPID, chain: newChain });
+    }
+  }
+
+  // Write multi-hop kinship paths (skip single-hop ones already written)
+  for (const [pid, { chain }] of resolved) {
+    if (chain.length <= 1) continue; // already written above
+
+    // Build path: Root → Intermediate(RelToRoot) → ... → Target(RelToPrev of PrevName and RelToRoot of RootName)
+    const parts = [egoName];
+
+    for (let i = 0; i < chain.length - 1; i++) {
+      // Compute composed relationship to root for intermediate persons
+      const composedRel = chainToLabel(chain.slice(0, i + 1).map(c => c.localRel));
+      parts.push(`${chain[i].name}(${composedRel})`);
+    }
+
+    // Last person: show both relationship to previous person and to root
+    const lastStep = chain[chain.length - 1];
+    const prevStep = chain[chain.length - 2];
+    const composedRelToRoot = chainToLabel(chain.map(c => c.localRel));
+    parts.push(`${lastStep.name}(${lastStep.localRel} of ${prevStep.name} and ${composedRelToRoot} of ${egoName})`);
+
+    const path = parts.join(' → ');
+    writeFileSync(join(KINSHIP_DIR, `${egoID}-${pid}.txt`), path);
   }
 }
 
@@ -576,7 +727,7 @@ for (const [pid, person] of persons) {
   }
 
   writeGridCSV(pid, cells);
-  writeKinshipPaths(pid, cells, persons);
+  writeKinshipPaths(pid, cells, persons, kinCodes);
   generated++;
 }
 
